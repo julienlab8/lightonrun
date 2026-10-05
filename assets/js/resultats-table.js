@@ -57,6 +57,90 @@
     });
   }
 
+  /* Menu déroulant personnalisé (remplace <select> : angles droits + fond sombre,
+     entièrement stylable, contrairement au popup natif du navigateur). */
+  function buildDropdown(idBase, labelText, opts, getCurrent, onChoose) {
+    var wrap = el('div', 'res-sort');
+    var btnId = idBase + '-btn';
+    var listId = idBase + '-list';
+
+    var lab = el('label', null, labelText);
+    lab.setAttribute('for', btnId);
+
+    var dd = el('div', 'res-dd');
+    var btn = el('button', 'res-dd-toggle');
+    btn.type = 'button';
+    btn.id = btnId;
+    btn.setAttribute('aria-haspopup', 'listbox');
+    btn.setAttribute('aria-expanded', 'false');
+    btn.setAttribute('aria-controls', listId);
+    var btnLabel = el('span', 'res-dd-label');
+    btn.appendChild(btnLabel);
+
+    var panel = el('div', 'res-dd-panel');
+    panel.id = listId;
+    panel.setAttribute('role', 'listbox');
+    panel.hidden = true;
+
+    var optEls = [];
+    function setCurrent(v) {
+      opts.forEach(function (o, i) {
+        var on = o.v === v;
+        optEls[i].setAttribute('aria-selected', on ? 'true' : 'false');
+        optEls[i].tabIndex = on ? 0 : -1;
+        if (on) btnLabel.textContent = o.label;
+      });
+    }
+    function focusIdx(i) {
+      if (i < 0) i = optEls.length - 1;
+      if (i >= optEls.length) i = 0;
+      optEls[i].focus();
+    }
+    function choose(v) { close(); onChoose(v); setCurrent(v); btn.focus(); }
+
+    opts.forEach(function (o, i) {
+      var oe = el('div', 'res-dd-opt', esc(o.label));
+      oe.setAttribute('role', 'option');
+      oe.tabIndex = -1;
+      oe.addEventListener('click', function () { choose(o.v); });
+      oe.addEventListener('keydown', function (e) {
+        if (e.key === 'ArrowDown') { e.preventDefault(); focusIdx(i + 1); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); focusIdx(i - 1); }
+        else if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); choose(o.v); }
+        else if (e.key === 'Escape') { e.preventDefault(); close(); btn.focus(); }
+      });
+      panel.appendChild(oe);
+      optEls.push(oe);
+    });
+
+    function onDoc(e) { if (!dd.contains(e.target)) close(); }
+    function open() {
+      if (!panel.hidden) return;
+      panel.hidden = false;
+      btn.setAttribute('aria-expanded', 'true');
+      document.addEventListener('click', onDoc, true);
+      var sel = optEls.filter(function (o) { return o.getAttribute('aria-selected') === 'true'; })[0];
+      (sel || optEls[0]).focus();
+    }
+    function close() {
+      if (panel.hidden) return;
+      panel.hidden = true;
+      btn.setAttribute('aria-expanded', 'false');
+      document.removeEventListener('click', onDoc, true);
+    }
+    btn.addEventListener('click', function () { if (panel.hidden) open(); else close(); });
+    btn.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown' || e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
+    });
+
+    setCurrent(getCurrent());
+    dd.appendChild(btn);
+    dd.appendChild(panel);
+    wrap.appendChild(lab);
+    wrap.appendChild(dd);
+    return wrap;
+  }
+
   function init(root) {
     var key = root.getAttribute('data-results');
     var store = window.LOT_RESULTS && window.LOT_RESULTS[key];
@@ -115,35 +199,20 @@
     });
     search.appendChild(input);
 
-    var catWrap = el('div', 'res-sort');
-    var catId = 'res-cat-' + key;
-    var catLab = el('label', null, T.category);
-    catLab.setAttribute('for', catId);
-    var catSel = el('select');
-    catSel.id = catId;
-    var optAll = el('option', null, T.allCats); optAll.value = 'all'; catSel.appendChild(optAll);
-    cats.forEach(function (c) { var o = el('option', null, c); o.value = c; catSel.appendChild(o); });
-    catSel.addEventListener('change', function () { state.cat = catSel.value; state.page = 1; render(); });
-    catWrap.appendChild(catLab);
-    catWrap.appendChild(catSel);
+    var catOpts = [{ v: 'all', label: T.allCats }].concat(cats.map(function (c) { return { v: c, label: c }; }));
+    var catWrap = buildDropdown('res-cat-' + key, T.category, catOpts,
+      function () { return state.cat; },
+      function (v) { state.cat = v; state.page = 1; render(); });
 
-    var sortWrap = el('div', 'res-sort');
-    var selId = 'res-sort-' + key;
-    var lab = el('label', null, T.sort);
-    lab.setAttribute('for', selId);
-    var sel = el('select');
-    sel.id = selId;
-    [
+    var sortOpts = [
       { v: 'clt', label: T.sortClt },
       { v: 'temps', label: T.sortTime },
       { v: 'cat', label: T.sortCat },
       { v: 'nom', label: T.sortName }
-    ].forEach(function (o) {
-      var op = el('option', null, o.label); op.value = o.v; sel.appendChild(op);
-    });
-    sel.addEventListener('change', function () { state.sort = sel.value; state.page = 1; render(); });
-    sortWrap.appendChild(lab);
-    sortWrap.appendChild(sel);
+    ];
+    var sortWrap = buildDropdown('res-sort-' + key, T.sort, sortOpts,
+      function () { return state.sort; },
+      function (v) { state.sort = v; state.page = 1; render(); });
 
     toolbar.appendChild(seg);
     toolbar.appendChild(search);
