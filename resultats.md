@@ -10,6 +10,20 @@ Version Markdown de https://www.lightontrail.com/resultats.html . La page HTML f
 
 Podiums et classements complets de l'édition 2026, sur le 17 KM\* et le 37 KM\*\*. Ceux de 2027 arriveront ici le 4 avril au soir.
 
+Classements complets 2026
+
+### Tous les coureurs.
+
+Filtre femmes/hommes, par catégorie, recherche par nom, tri et pagination. Le classement officiel reste le PDF, à télécharger plus bas.
+
+#### 17 KM\*
+
+Dimanche 5 avril 2026 · 411 finishers
+
+#### 37 KM\*\*
+
+Dimanche 5 avril 2026 · 222 finishers
+
 Édition 2026 · dimanche 5 avril
 
 ### Les podiums 2026.
@@ -63,20 +77,6 @@ Femmes
 - 3. Marianne Geisler - 03:59:46
 
 [Classement complet · PDF](https://www.lightontrail.com/assets/docs/resultats-37km-2026.pdf)
-
-Classements complets 2026
-
-### Tous les coureurs.
-
-Filtre femmes/hommes, par catégorie, recherche par nom, tri et pagination. Le classement officiel reste le PDF, à télécharger plus haut.
-
-#### 17 KM\*
-
-Dimanche 5 avril 2026 · 411 finishers
-
-#### 37 KM\*\*
-
-Dimanche 5 avril 2026 · 222 finishers
 
 ### Envie d'y figurer en 2027 ?
 

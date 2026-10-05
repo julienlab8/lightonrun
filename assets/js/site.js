@@ -1,4 +1,31 @@
-// Scroll reveal via IntersectionObserver (no scroll listeners)
+// UI strings by language (document.documentElement.lang)
+  var SITE_LANG = (document.documentElement.lang || 'fr').slice(0, 2);
+  var SITE_T = ({
+    fr: {
+      menuOpen: 'Ouvrir le menu',
+      menuClose: 'Fermer le menu',
+      filmTitle: 'Film du Trail Pierre-Percée',
+      newsInvalid: 'Entrez une adresse e-mail valide.',
+      newsThanks: 'Merci ! Vérifiez votre boîte mail pour confirmer votre inscription.'
+    },
+    en: {
+      menuOpen: 'Open menu',
+      menuClose: 'Close menu',
+      filmTitle: 'LIGHT ON TRAIL Pierre-Percée film',
+      newsInvalid: 'Enter a valid email address.',
+      newsThanks: 'Thanks! Check your inbox to confirm your subscription.'
+    },
+    de: {
+      menuOpen: 'Menü öffnen',
+      menuClose: 'Menü schließen',
+      filmTitle: 'Film LIGHT ON TRAIL Pierre-Percée',
+      newsInvalid: 'Gib eine gültige E-Mail-Adresse ein.',
+      newsThanks: 'Danke! Prüfe dein Postfach, um deine Anmeldung zu bestätigen.'
+    }
+  })[SITE_LANG] || null;
+  function siteT(key, fallback) { return (SITE_T && SITE_T[key]) || fallback; }
+
+  // Scroll reveal via IntersectionObserver (no scroll listeners)
   (function () {
     var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     var els = document.querySelectorAll('.reveal');
@@ -21,7 +48,7 @@
     function setOpen(open) {
       links.classList.toggle('open', open);
       toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-      toggle.setAttribute('aria-label', open ? 'Fermer le menu' : 'Ouvrir le menu');
+      toggle.setAttribute('aria-label', open ? siteT('menuClose', 'Fermer le menu') : siteT('menuOpen', 'Ouvrir le menu'));
     }
     // Raccourcis de la barre du haut, repris en tête du menu mobile
     var quick = document.querySelector('.topbar-links');
@@ -48,7 +75,7 @@
       var iframe = document.createElement('iframe');
       iframe.className = 'film-video';
       iframe.src = 'https://www.youtube-nocookie.com/embed/' + frame.dataset.youtube + '?autoplay=1&rel=0&playsinline=1';
-      iframe.title = 'Film du Trail Pierre-Percée';
+      iframe.title = siteT('filmTitle', 'Film du Trail Pierre-Percée');
       iframe.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
       iframe.allowFullscreen = true;
       frame.querySelector('.film-video').replaceWith(iframe);
@@ -89,11 +116,11 @@
       var input = form.querySelector('input[type="email"]');
       if (!input.value || !input.checkValidity()) {
         e.preventDefault();
-        note.textContent = 'Entrez une adresse e-mail valide.';
+        note.textContent = siteT('newsInvalid', 'Entrez une adresse e-mail valide.');
         input.focus();
         return;
       }
-      note.textContent = 'Merci ! Vérifiez votre boîte mail pour confirmer votre inscription.';
+      note.textContent = siteT('newsThanks', 'Merci ! Vérifiez votre boîte mail pour confirmer votre inscription.');
       setTimeout(function () { form.reset(); }, 200);
     });
   })();

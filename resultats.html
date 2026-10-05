@@ -5,10 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Résultats 2026 du trail de Pierre-Percée : 17 et 37 km</title>
 <link rel="canonical" href="https://www.lightontrail.com/resultats.html" />
+<link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/resultats.html" />
+<link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/resultats.html" />
+<link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/resultats.html" />
+<link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/resultats.html" />
 <link rel="alternate" type="text/markdown" href="https://www.lightontrail.com/resultats.md" />
 <link rel="describedby" href="https://www.lightontrail.com/llms.txt" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="fr_FR" />
+<meta property="og:locale:alternate" content="en_GB" />
+<meta property="og:locale:alternate" content="de_DE" />
 <meta property="og:site_name" content="LIGHT ON TRAIL Pierre-Percée***" />
 <meta property="og:url" content="https://www.lightontrail.com/resultats.html" />
 <meta property="og:title" content="Résultats 2026 du trail de Pierre-Percée : 17 et 37 km" />
@@ -24,7 +30,7 @@
 <link rel="apple-touch-icon" href="assets/logo/apple-touch-icon.png?v=2" />
 <meta name="theme-color" content="#232323" />
 <link rel="preload" as="font" type="font/woff2" href="assets/fonts/LemonMilkBold.woff2" crossorigin />
-<link rel="stylesheet" href="assets/css/site.css?v=20261003g" />
+<link rel="stylesheet" href="assets/css/site.css?v=20261005b" />
 </head>
 <body>
 <a class="skip" href="#top">Aller au contenu</a>
@@ -37,6 +43,9 @@
       <a href="medias.html#photos">Photos</a>
       <a href="communaute.html#benevole">Devenir bénévole</a>
       <a href="communaute.html#partenaire">Devenir partenaire</a>
+    </nav>
+    <nav class="lang-switch" aria-label="Choisir la langue">
+      <a href="/resultats.html" aria-current="page">FR</a><span class="sep" aria-hidden="true">·</span><a href="/en/resultats.html">EN</a><span class="sep" aria-hidden="true">·</span><a href="/de/resultats.html">DE</a>
     </nav>
   </div>
 </div>
@@ -95,6 +104,9 @@
           <a href="communaute.html#contact">Contact</a>
         </div>
       </div>
+      <div class="lang-switch" aria-label="Choisir la langue">
+        <a href="/resultats.html" aria-current="page">FR</a><span class="sep" aria-hidden="true">·</span><a href="/en/resultats.html">EN</a><span class="sep" aria-hidden="true">·</span><a href="/de/resultats.html">DE</a>
+      </div>
     </nav>
     <div class="nav-cta">
       <button class="nav-search-btn" type="button" data-search-open aria-label="Rechercher sur le site" aria-haspopup="dialog"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20l-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
@@ -118,8 +130,40 @@
     </div>
   </section>
 
+  <!-- ============ CLASSEMENTS COMPLETS (dynamiques) ============ -->
+  <section class="pad" id="classement">
+    <div class="wrap">
+      <div class="sec-head reveal">
+        <span class="eyebrow">Classements complets 2026</span>
+        <h2 class="h-sec" style="max-width:20ch;">Tous les <span class="nw">coureurs<span class="sq">.</span></span></h2>
+        <p class="lede">Filtre femmes/hommes, par catégorie, recherche par nom, tri et pagination. Le classement officiel reste le PDF, à télécharger plus bas.</p>
+      </div>
+
+      <div class="res-tabs" role="tablist" aria-label="Choisir la course">
+        <button class="res-tab" type="button" role="tab" id="tab-17km" aria-controls="res-block-17km" aria-selected="true">17 KM<em>*</em></button>
+        <button class="res-tab" type="button" role="tab" id="tab-37km" aria-controls="res-block-37km" aria-selected="false" tabindex="-1">37 KM<em>**</em></button>
+      </div>
+
+      <div class="res reveal" id="res-block-17km" role="tabpanel" aria-labelledby="tab-17km">
+        <div class="res-head">
+          <h3>17 KM<em>*</em></h3>
+          <span class="res-sub">Dimanche 5 avril 2026 · 411 finishers</span>
+        </div>
+        <div id="res-17km" data-results="17km-2026" data-page-size="50"></div>
+      </div>
+
+      <div class="res reveal" id="res-block-37km" role="tabpanel" aria-labelledby="tab-37km" hidden>
+        <div class="res-head">
+          <h3>37 KM<em>**</em></h3>
+          <span class="res-sub">Dimanche 5 avril 2026 · 222 finishers</span>
+        </div>
+        <div id="res-37km" data-results="37km-2026" data-page-size="50"></div>
+      </div>
+    </div>
+  </section>
+
   <!-- ============ RÉSULTATS & ARCHIVES ============ -->
-  <section class="pad" id="resultats">
+  <section class="pad" id="resultats" style="border-top:1px solid var(--line-2);">
     <div class="wrap">
       <div class="sec-head reveal">
         <span class="eyebrow">Édition 2026 · dimanche 5 avril</span>
@@ -189,38 +233,6 @@
     </div>
   </section>
 
-  <!-- ============ CLASSEMENTS COMPLETS (dynamiques) ============ -->
-  <section class="pad" id="classement" style="border-top:1px solid var(--line-2);">
-    <div class="wrap">
-      <div class="sec-head reveal">
-        <span class="eyebrow">Classements complets 2026</span>
-        <h2 class="h-sec" style="max-width:20ch;">Tous les <span class="nw">coureurs<span class="sq">.</span></span></h2>
-        <p class="lede">Filtre femmes/hommes, par catégorie, recherche par nom, tri et pagination. Le classement officiel reste le PDF, à télécharger plus haut.</p>
-      </div>
-
-      <div class="res-tabs" role="tablist" aria-label="Choisir la course">
-        <button class="res-tab" type="button" role="tab" id="tab-17km" aria-controls="res-block-17km" aria-selected="true">17 KM<em>*</em></button>
-        <button class="res-tab" type="button" role="tab" id="tab-37km" aria-controls="res-block-37km" aria-selected="false" tabindex="-1">37 KM<em>**</em></button>
-      </div>
-
-      <div class="res reveal" id="res-block-17km" role="tabpanel" aria-labelledby="tab-17km">
-        <div class="res-head">
-          <h3>17 KM<em>*</em></h3>
-          <span class="res-sub">Dimanche 5 avril 2026 · 411 finishers</span>
-        </div>
-        <div id="res-17km" data-results="17km-2026" data-page-size="50"></div>
-      </div>
-
-      <div class="res reveal" id="res-block-37km" role="tabpanel" aria-labelledby="tab-37km" hidden>
-        <div class="res-head">
-          <h3>37 KM<em>**</em></h3>
-          <span class="res-sub">Dimanche 5 avril 2026 · 222 finishers</span>
-        </div>
-        <div id="res-37km" data-results="37km-2026" data-page-size="50"></div>
-      </div>
-    </div>
-  </section>
-
   <!-- ============ CTA SLIM ============ -->
   <section class="cta-slim">
     <div class="wrap">
@@ -280,11 +292,11 @@
   </div>
 </footer>
 
-<script src="assets/js/site.js?v=20260930a"></script>
-<script src="assets/js/search.js?v=20261003b"></script>
+<script src="assets/js/site.js?v=20261005a"></script>
+<script src="assets/js/search.js?v=20261005a"></script>
 <script src="assets/js/resultats-17km-2026.js?v=20261003c"></script>
 <script src="assets/js/resultats-37km-2026.js?v=20261003b"></script>
-<script src="assets/js/resultats-table.js?v=20261003b"></script>
+<script src="assets/js/resultats-table.js?v=20261005a"></script>
 <script>
 /* Onglets 17 KM / 37 KM des classements complets : affiche une seule course à la fois. */
 (function () {

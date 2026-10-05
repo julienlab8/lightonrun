@@ -9,7 +9,45 @@
 (function () {
   'use strict';
 
-  var INDEX_URL = '/assets/search-index.json';
+  /* ---------- Libellés par langue (document.documentElement.lang) ---------- */
+  var LANG = (document.documentElement.lang || 'fr').slice(0, 2);
+  var T = ({
+    fr: {
+      dialog: 'Recherche sur le site',
+      placeholder: 'Rechercher sur le site\u2026',
+      field: 'Rechercher sur le site',
+      close: 'Fermer la recherche',
+      results: 'R\u00e9sultats de recherche',
+      hint: 'Tapez un mot-cl\u00e9\u00a0: horaires, acc\u00e8s, h\u00e9bergement, r\u00e8glement, une course\u2026',
+      emptyA: 'Aucun r\u00e9sultat pour \u00ab\u00a0',
+      emptyB: '\u00a0\u00bb. Essayez un autre mot-cl\u00e9.'
+    },
+    en: {
+      dialog: 'Search the site',
+      placeholder: 'Search the site\u2026',
+      field: 'Search the site',
+      close: 'Close search',
+      results: 'Search results',
+      hint: 'Type a keyword: schedule, access, accommodation, rules, a race\u2026',
+      emptyA: 'No results for \u201c',
+      emptyB: '\u201d. Try another keyword.'
+    },
+    de: {
+      dialog: 'Website durchsuchen',
+      placeholder: 'Website durchsuchen\u2026',
+      field: 'Website durchsuchen',
+      close: 'Suche schlie\u00dfen',
+      results: 'Suchergebnisse',
+      hint: 'Gib ein Stichwort ein: Zeitplan, Anreise, Unterkunft, Reglement, ein Rennen\u2026',
+      emptyA: 'Keine Ergebnisse f\u00fcr \u201e',
+      emptyB: '\u201c. Versuch ein anderes Stichwort.'
+    }
+  })[LANG] || null;
+  function t(key, fallback) { return (T && T[key]) || fallback; }
+
+  var INDEX_URL = (LANG === 'en' || LANG === 'de')
+    ? '/assets/search-index-' + LANG + '.json'
+    : '/assets/search-index.json';
   var index = null;       // données chargées
   var loading = null;     // promesse de chargement
   var opener = null;      // élément qui a ouvert le panneau (pour rendre le focus)
@@ -32,18 +70,18 @@
     overlay.id = 'siteSearch';
     overlay.setAttribute('role', 'dialog');
     overlay.setAttribute('aria-modal', 'true');
-    overlay.setAttribute('aria-label', 'Recherche sur le site');
+    overlay.setAttribute('aria-label', t('dialog', 'Recherche sur le site'));
     overlay.hidden = true;
     overlay.innerHTML =
       '<div class="search-backdrop" data-search-close></div>' +
       '<div class="search-panel">' +
         '<div class="search-bar">' +
           '<svg class="search-ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20l-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>' +
-          '<input type="search" class="search-field" id="siteSearchInput" placeholder="Rechercher sur le site\u2026" autocomplete="off" aria-label="Rechercher sur le site" />' +
-          '<button type="button" class="search-close" data-search-close aria-label="Fermer la recherche"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>' +
+          '<input type="search" class="search-field" id="siteSearchInput" placeholder="' + esc(t('placeholder', 'Rechercher sur le site\u2026')) + '" autocomplete="off" aria-label="' + esc(t('field', 'Rechercher sur le site')) + '" />' +
+          '<button type="button" class="search-close" data-search-close aria-label="' + esc(t('close', 'Fermer la recherche')) + '"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>' +
         '</div>' +
-        '<div class="search-results" id="siteSearchResults" role="listbox" aria-label="R\u00e9sultats de recherche"></div>' +
-        '<p class="search-hint">Tapez un mot-cl\u00e9\u00a0: horaires, acc\u00e8s, h\u00e9bergement, r\u00e8glement, une course\u2026</p>' +
+        '<div class="search-results" id="siteSearchResults" role="listbox" aria-label="' + esc(t('results', 'R\u00e9sultats de recherche')) + '"></div>' +
+        '<p class="search-hint">' + esc(t('hint', 'Tapez un mot-cl\u00e9\u00a0: horaires, acc\u00e8s, h\u00e9bergement, r\u00e8glement, une course\u2026')) + '</p>' +
       '</div>';
     document.body.appendChild(overlay);
 
@@ -154,7 +192,7 @@
       .slice(0, 8);
 
     if (!hits.length) {
-      results.innerHTML = '<p class="search-empty">Aucun r\u00e9sultat pour \u00ab\u00a0' + esc(q) + '\u00a0\u00bb. Essayez un autre mot-cl\u00e9.</p>';
+      results.innerHTML = '<p class="search-empty">' + esc(t('emptyA', 'Aucun r\u00e9sultat pour \u00ab\u00a0')) + esc(q) + esc(t('emptyB', '\u00a0\u00bb. Essayez un autre mot-cl\u00e9.')) + '</p>';
       return;
     }
     results.innerHTML = hits.map(function (x, i) {

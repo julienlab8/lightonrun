@@ -156,8 +156,23 @@
   .topbar-links a { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.05em; font-size: 11px; color: var(--muted); transition: color .15s var(--ease); white-space: nowrap; }
   .topbar-links a:hover { color: var(--accent); }
   .topbar-cta { padding: 6px 15px; font-size: 12px; }
+  /* ---- Sélecteur de langue (topbar) ---- */
+  .lang-switch { display: inline-flex; align-items: center; gap: 2px; border-left: 1px solid var(--line); padding-left: 18px; }
+  .lang-switch a { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.05em; font-size: 11px; color: var(--muted); padding: 2px 5px; line-height: 1; transition: color .15s var(--ease); }
+  .lang-switch a:hover { color: var(--accent); }
+  .lang-switch a[aria-current] { color: var(--text); font-weight: 700; }
+  .lang-switch .sep { color: var(--line-2); font-size: 11px; }
+  /* Sélecteur de langue dans le menu mobile (caché sur desktop) */
+  .nav-links .lang-switch { display: none; }
   @media (max-width: 1040px) {
     .topbar { display: none; }
+    .nav-links .lang-switch {
+      display: flex; align-items: center; gap: 4px;
+      width: 100%; margin-top: 10px; padding: 16px 0 0;
+      border-left: 0; border-top: 1px solid var(--line);
+    }
+    .nav-links .lang-switch a { font-size: 16px; padding: 6px 12px 6px 0; }
+    .nav-links .lang-switch .sep { font-size: 14px; }
   }
 
   /* ============ SECTION CHROME ============ */
@@ -997,6 +1012,9 @@
   /* logo d'en-tête : fichier recadré (sans marges internes), un peu plus grand, un peu plus près du bord */
   .nav .brand img { height: 46px; width: auto; }
   header.nav > .wrap { padding-inline: clamp(20px, 3vw, 40px); }
+  /* barre d'accès rapide : même gouttière droite que l'en-tête pour que le
+     sélecteur de langue (FR · EN · DE) s'aligne sur le bord droit du bouton S'inscrire */
+  .topbar > .wrap { padding-right: clamp(20px, 3vw, 40px); }
   @media (max-width: 520px) { .nav .brand img { height: 36px; } }
 
   /* bouton S'inscrire de l'en-tête : même hauteur que l'éclair (le « N ») du logo, haut et bas alignés */
@@ -1246,7 +1264,7 @@
 
   /* ===== UTMB Index - ajout 03/10/2026 ===== */
   /* Badge UTMB : même rendu dans le comparatif et à droite du tarif de chaque course */
-  .utmb-badge { height: 36px; width: auto; display: block; }
+  .utmb-badge { height: 23px; width: auto; display: block; }
   .c-intro .facts .fact-utmb { align-self: end; }
   .cmp .cmp-utmb th, .cmp .cmp-utmb td { vertical-align: middle; padding-top: 16px; padding-bottom: 16px; }
 
@@ -1304,8 +1322,11 @@
   .res-table tbody tr:hover td { background: rgba(255,255,255,.03); }
   .res-table .mono { font-variant-numeric: tabular-nums; }
   .res-table .c-clt { width: 56px; color: var(--muted); }
-  .res-table .c-clt, .res-table .c-moy, .res-table .c-tps { text-align: right; white-space: nowrap; }
-  .res-table thead .c-clt, .res-table thead .c-moy, .res-table thead .c-tps { text-align: right; }
+  .res-table .c-frank { width: 56px; color: var(--muted); }
+  /* colonne de classement principale (générale sans filtre, filtrée sinon) : en orange */
+  .res-table tbody td.is-primary { color: var(--accent); font-weight: 700; }
+  .res-table .c-clt, .res-table .c-frank, .res-table .c-moy, .res-table .c-tps { text-align: right; white-space: nowrap; }
+  .res-table thead .c-clt, .res-table thead .c-frank, .res-table thead .c-moy, .res-table thead .c-tps { text-align: right; }
   .res-table .c-tps { font-weight: 700; }
   .res-table .rn { display: block; font-weight: 600; }
   .res-table .rl { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }

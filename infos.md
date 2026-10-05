@@ -116,7 +116,7 @@ Parcours balisés par panneaux, drapeaux et marquage au sol délébile, retirés
 
 #### Sécurité & secours
 
-Postes de secours, équipe médicale et signaleurs sur l'ensemble du dispositif. Barrières horaires : km 11,3 à 2h15 (17 KM\* et 37 KM\*\*) et km 26,2 à 4h45 (37 KM\*\*). Les barrières propres au 54 KM\*\*\* sont communiquées avec la trace détaillée.
+Postes de secours, équipe médicale et signaleurs sur l'ensemble du dispositif. Barrières horaires : km 11,3 à 2h15 (17 KM\* et 37 KM\*\*) et km 26,2 à 4h45 (37 KM\*\*). Pour le 54 KM\*\*\* (départ 7h30) : km 11,3 à 2h15, km 28,3 à 5h30, km 43,4 à 8h30, arrivée en 10h30 maximum.
 
 #### Règlement & roadbook
 
@@ -156,7 +156,7 @@ Non, le canicross n'est pas autorisé sur les parcours, pour la sécurité des c
 
 #### Y a-t-il des barrières horaires ?
 
-Oui : km 11,3 à 2h15 (17 KM\* et 37 KM\*\*) et km 26,2 à 4h45 (37 KM\*\*). Les barrières propres au 54 KM\*\*\* et les horaires définitifs sont confirmés avant la course.
+Oui : km 11,3 à 2h15 (17 KM\* et 37 KM\*\*) et km 26,2 à 4h45 (37 KM\*\*). Pour le 54 KM\*\*\* (départ 7h30) : km 11,3 à 2h15, km 28,3 à 5h30, km 43,4 à 8h30, arrivée en 10h30 maximum.
 
 #### Que dois-je emporter ?
 

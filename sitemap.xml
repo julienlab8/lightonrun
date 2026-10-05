@@ -1,12 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.lightontrail.com/</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/courses.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/infos.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/evenement.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/resultats.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/reglement.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/medias.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/communaute.html</loc><lastmod>2026-09-30</lastmod></url>
-  <url><loc>https://www.lightontrail.com/actualites.html</loc><lastmod>2026-09-30</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.lightontrail.com/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/courses.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/courses.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/courses.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/courses.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/courses.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/courses.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/courses.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/courses.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/courses.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/courses.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/courses.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/courses.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/courses.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/courses.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/courses.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/infos.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/infos.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/infos.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/infos.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/infos.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/infos.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/infos.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/infos.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/infos.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/infos.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/infos.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/infos.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/infos.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/infos.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/infos.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/evenement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/evenement.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/evenement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/evenement.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/evenement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/evenement.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/evenement.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/resultats.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/resultats.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/resultats.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/resultats.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/resultats.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/resultats.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/resultats.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/reglement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/reglement.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/reglement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/reglement.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/reglement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/reglement.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/reglement.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/medias.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/medias.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/medias.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/medias.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/medias.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/medias.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/medias.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/medias.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/medias.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/medias.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/medias.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/medias.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/medias.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/medias.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/medias.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/communaute.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/communaute.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/communaute.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/communaute.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/communaute.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/communaute.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/communaute.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/actualites.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/actualites.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/en/actualites.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/actualites.html" />
+  </url>
+  <url>
+    <loc>https://www.lightontrail.com/de/actualites.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.lightontrail.com/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lightontrail.com/en/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.lightontrail.com/de/actualites.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lightontrail.com/actualites.html" />
+  </url>
 </urlset>

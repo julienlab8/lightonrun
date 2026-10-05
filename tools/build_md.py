@@ -37,10 +37,6 @@ SKIP_CLASSES = {"count-band", "h-partners", "h-newsletter", "swipe-hint", "geo",
 BLOCKS = {"p", "li", "h1", "h2", "h3", "h4", "dt", "dd", "summary", "blockquote", "figcaption", "caption", "tr", "td", "th", "div", "section", "figure", "details", "dl", "ul", "ol", "table", "article"}
 
 
-# index de recherche (rempli par convert(), écrit en JSON à la fin)
-INDEX = []
-
-
 def plain(md):
     """Markdown -> texte brut pour l'index de recherche."""
     t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", md)      # [texte](url) -> texte
@@ -76,6 +72,7 @@ class MainToMarkdown(HTMLParser):
         self.link = None         # (href, texte)
         self.table = None        # lignes du tableau en cours
         self.row = None
+        self.card_label = "Voir la page"  # libellé des liens « carte » (par langue)
 
     # --- utilitaires
     def flush(self):
@@ -150,7 +147,7 @@ class MainToMarkdown(HTMLParser):
             self.stack.pop()
         if tag == "a" and getattr(self, "card_href", None) and self.link is None:
             self.flush()
-            self.out.append(f"[Voir la page]({self.card_href})")
+            self.out.append(f"[{self.card_label}]({self.card_href})")
             self.out.append("")
             self.card_href = None
         elif tag == "a" and self.link is not None:
@@ -198,14 +195,16 @@ class MainToMarkdown(HTMLParser):
             self.write(data.replace("*", r"\*"))
 
 
-def convert(src, dst=None):
-    """Extrait <main>, ajoute une entrée à l'index de recherche, et (si dst est
-    fourni) écrit la version Markdown de la page. dst=None : page indexée
-    seulement, sans fichier .md."""
+def convert(src, index, dst=None, prefix=""):
+    """Extrait <main>, ajoute une entrée à l'index de recherche `index`, et (si
+    dst est fourni) écrit la version Markdown de la page. dst=None : page
+    indexée seulement, sans fichier .md. `prefix` préfixe l'URL de l'entrée
+    (ex. « en/ », « de/ ») pour les versions traduites."""
     page = (ROOT / src).read_text(encoding="utf-8")
     title = html.unescape(re.search(r"<title>(.*?)</title>", page, re.S).group(1)).strip()
     desc = re.search(r'<meta name="description" content="([^"]*)"', page)
     parser = MainToMarkdown()
+    parser.card_label = {"en/": "View the page", "de/": "Zur Seite"}.get(prefix, "Voir la page")
     # séparateurs que la mise en page rend visuellement mais pas le texte brut
     page = re.sub(r'(<span class="eyebrow page-kicker">[^<]*)</span>', r"\1 - </span>", page)  # sur-titre du H1
     page = re.sub(r"<div><span>([^<]+)</span>", r"<div><span>\1 : </span>", page)             # « Dénivelé : 530 m »
@@ -227,8 +226,8 @@ def convert(src, dst=None):
     # entrée d'index de recherche (texte propre, titres pour la pondération)
     heads = [m.group(2).replace("\\*", "*").strip()
              for m in re.finditer(r"^(#{1,4}) (.+)$", body, flags=re.M)]
-    INDEX.append({
-        "u": "" if src == "index.html" else src,
+    index.append({
+        "u": prefix + ("" if Path(src).name == "index.html" else Path(src).name),
         "t": title,
         "d": html.unescape(desc.group(1)) if desc else "",
         "h": heads,
@@ -249,12 +248,24 @@ def convert(src, dst=None):
 
 
 if __name__ == "__main__":
+    # --- Français : versions Markdown (corpus llms.txt) + index de recherche ---
+    fr_index = []
     for src, dst in PAGES.items():
-        convert(src, dst)
+        convert(src, fr_index, dst=dst)
         print(f"{src} -> {dst}")
     for src in SEARCH_ONLY:
-        convert(src)
+        convert(src, fr_index)
         print(f"{src} -> (recherche seulement)")
     (ROOT / "assets" / "search-index.json").write_text(
-        json.dumps(INDEX, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"assets/search-index.json -> {len(INDEX)} pages")
+        json.dumps(fr_index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"assets/search-index.json -> {len(fr_index)} pages")
+
+    # --- EN / DE : index de recherche seulement (pas de .md, hors corpus llms.txt) ---
+    ALL_PAGES = list(PAGES.keys()) + SEARCH_ONLY
+    for lang in ("en", "de"):
+        idx = []
+        for src in ALL_PAGES:
+            convert(f"{lang}/{src}", idx, prefix=f"{lang}/")
+        (ROOT / "assets" / f"search-index-{lang}.json").write_text(
+            json.dumps(idx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        print(f"assets/search-index-{lang}.json -> {len(idx)} pages")

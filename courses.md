@@ -24,8 +24,8 @@ Comparatif des parcours du LIGHT ON TRAIL Pierre-Percée\*\*\* 2027
 | Départ | 9h30 | 8h30 | 7h30 |
 | Tarif | 19 € | 39 € | 49 € |
 | Inclus | Tee-shirt offert, médaille finisher | Tee-shirt offert, médaille finisher | Tee-shirt offert, médaille finisher |
-| Ravitaillements | 1 sur le parcours (vers le km 11) + arrivée | 2 sur le parcours (km 11 et km 26) + arrivée | Répartis sur tout le parcours + arrivée |
-| Barrières horaires | Km 11,3 à 2h15 | Km 11,3 à 2h15, km 26,2 à 4h45 | Communiquées avant la course |
+| Ravitaillements | 1 sur le parcours (au km 11,3) + arrivée | 2 sur le parcours (km 11 et km 26) + arrivée | 3 sur le parcours (km 11,3, 28,3 et 43,4) + arrivée |
+| Barrières horaires / Temps limites | Km 11,3 à 2h15 | Km 11,3 à 2h15, km 26,2 à 4h45 | Km 11,3 à 2h15, km 28,3 à 5h30, km 43,4 à 8h30, arrivée à 10h30 |
 | Pour qui ? | Premier trail, reprise, envie de paysage | Habitués du dénivelé et du terrain technique | Coureurs à l'aise sur les longues sorties |
 | Trace | [OpenRunner](https://www.openrunner.com/route-details/20906641) · [GPX](https://www.lightontrail.com/assets/gpx/trail-17km-pierre-percee-2026.gpx) | [OpenRunner](https://www.openrunner.com/route-details/23430555) · [GPX](https://www.lightontrail.com/assets/gpx/trail-37km-pierre-percee-2026.gpx) | [OpenRunner](https://www.openrunner.com/route-details/23435863) · [GPX](https://www.lightontrail.com/assets/gpx/trail-54km-pierre-percee-2026.gpx) |
 | UTMB Index |  |  |  |
@@ -128,11 +128,11 @@ Pour les coureurs à l'aise sur les longues sorties et le terrain technique. C'e
 
 #### Ravitaillements
 
-Ravitaillements liquides et solides répartis sur l'ensemble du parcours, plus le ravitaillement complet à l'arrivée au Village LIGHT ON. Détails et matériel obligatoire sur la page Infos Pratiques.
+Trois ravitaillements liquides et solides sur le parcours, aux km 11,3, 28,3 et 43,4, plus le ravitaillement complet à l'arrivée au Village LIGHT ON. Détails et matériel obligatoire sur la page Infos Pratiques.
 
 #### Départ & barrières
 
-Départ à 07:30 depuis le Village LIGHT ON, le premier des trois. Barrières horaires adaptées à la distance, confirmées avant la course.
+Départ à 07:30 depuis le Village LIGHT ON, le premier des trois. Barrières aux km 11,3 (2h15, soit 09:45), km 28,3 (5h30, soit 13:00) et km 43,4 (8h30, soit 16:00) ; arrivée à boucler en 10h30 maximum, avant 18:00.
 
 Nouveau en 2027
 

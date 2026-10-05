@@ -116,7 +116,7 @@ Un ravitaillement complet attend tous les coureurs à l'arrivée.
 
 - 4h45 au km 26,2 (Col de la Chapelotte, au retour) pour le Trail 37 KM\*\*.
 
-- Les barrières horaires du Trail 54 KM\*\*\* sont communiquées avec la trace détaillée, avant la course.
+- Pour le Trail 54 KM\*\*\* (départ 07:30) : 2h15 au km 11,3 (09:45), 5h30 au km 28,3 (13:00), 8h30 au km 43,4 (16:00), et arrivée en 10h30 maximum (18:00).
 
 ### Article 11 · Classement et récompenses
 

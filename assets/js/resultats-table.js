@@ -7,6 +7,35 @@
 (function () {
   'use strict';
 
+  /* Libellés par langue (lus sur <html lang>). Le FR reste la référence. */
+  var I18N = {
+    fr: {
+      filterSex: 'Filtrer par sexe', all: 'Tous', women: 'Femmes', men: 'Hommes',
+      searchPh: 'Rechercher un nom…', searchAria: 'Rechercher un coureur par nom',
+      category: 'Catégorie', allCats: 'Toutes',
+      sort: 'Trier', sortClt: 'Classement', sortTime: 'Temps', sortCat: 'Catégorie', sortName: 'Nom (A→Z)',
+      cltF: 'Clt F', cltH: 'Clt H', cltCat: 'Clt ', clt: 'Clt', runner: 'Coureur', cat: 'Cat.', avg: 'Moy.', time: 'Temps',
+      one: ' coureur', many: ' coureurs', shown: ' affichés', none: 'Aucun coureur ne correspond à cette recherche.'
+    },
+    en: {
+      filterSex: 'Filter by gender', all: 'All', women: 'Women', men: 'Men',
+      searchPh: 'Search a name…', searchAria: 'Search a runner by name',
+      category: 'Category', allCats: 'All',
+      sort: 'Sort', sortClt: 'Ranking', sortTime: 'Time', sortCat: 'Category', sortName: 'Name (A→Z)',
+      cltF: 'Rank W', cltH: 'Rank M', cltCat: 'Rank ', clt: 'Rank', runner: 'Runner', cat: 'Cat.', avg: 'Avg.', time: 'Time',
+      one: ' runner', many: ' runners', shown: ' shown', none: 'No runner matches this search.'
+    },
+    de: {
+      filterSex: 'Nach Geschlecht filtern', all: 'Alle', women: 'Frauen', men: 'Männer',
+      searchPh: 'Name suchen…', searchAria: 'Läufer nach Namen suchen',
+      category: 'Kategorie', allCats: 'Alle',
+      sort: 'Sortieren', sortClt: 'Platzierung', sortTime: 'Zeit', sortCat: 'Kategorie', sortName: 'Name (A→Z)',
+      cltF: 'Platz F', cltH: 'Platz M', cltCat: 'Platz ', clt: 'Platz', runner: 'Läufer', cat: 'Kat.', avg: 'Ø', time: 'Zeit',
+      one: ' Läufer', many: ' Läufer', shown: ' angezeigt', none: 'Kein Läufer entspricht dieser Suche.'
+    }
+  };
+  var T = I18N[(document.documentElement.lang || 'fr').slice(0, 2).toLowerCase()] || I18N.fr;
+
   function norm(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
   }
@@ -55,11 +84,11 @@
 
     var seg = el('div', 'res-seg');
     seg.setAttribute('role', 'group');
-    seg.setAttribute('aria-label', 'Filtrer par sexe');
+    seg.setAttribute('aria-label', T.filterSex);
     var segDefs = [
-      { v: 'all', label: 'Tous' },
-      { v: 'F', label: 'Femmes' },
-      { v: 'H', label: 'Hommes' }
+      { v: 'all', label: T.all },
+      { v: 'F', label: T.women },
+      { v: 'H', label: T.men }
     ];
     var segBtns = {};
     segDefs.forEach(function (d) {
@@ -76,8 +105,8 @@
     var search = el('div', 'res-search');
     var input = el('input');
     input.type = 'search';
-    input.placeholder = 'Rechercher un nom…';
-    input.setAttribute('aria-label', 'Rechercher un coureur par nom');
+    input.placeholder = T.searchPh;
+    input.setAttribute('aria-label', T.searchAria);
     input.autocomplete = 'off';
     var deb;
     input.addEventListener('input', function () {
@@ -88,11 +117,11 @@
 
     var catWrap = el('div', 'res-sort');
     var catId = 'res-cat-' + key;
-    var catLab = el('label', null, 'Catégorie');
+    var catLab = el('label', null, T.category);
     catLab.setAttribute('for', catId);
     var catSel = el('select');
     catSel.id = catId;
-    var optAll = el('option', null, 'Toutes'); optAll.value = 'all'; catSel.appendChild(optAll);
+    var optAll = el('option', null, T.allCats); optAll.value = 'all'; catSel.appendChild(optAll);
     cats.forEach(function (c) { var o = el('option', null, c); o.value = c; catSel.appendChild(o); });
     catSel.addEventListener('change', function () { state.cat = catSel.value; state.page = 1; render(); });
     catWrap.appendChild(catLab);
@@ -100,15 +129,15 @@
 
     var sortWrap = el('div', 'res-sort');
     var selId = 'res-sort-' + key;
-    var lab = el('label', null, 'Trier');
+    var lab = el('label', null, T.sort);
     lab.setAttribute('for', selId);
     var sel = el('select');
     sel.id = selId;
     [
-      { v: 'clt', label: 'Classement' },
-      { v: 'temps', label: 'Temps' },
-      { v: 'cat', label: 'Catégorie' },
-      { v: 'nom', label: 'Nom (A→Z)' }
+      { v: 'clt', label: T.sortClt },
+      { v: 'temps', label: T.sortTime },
+      { v: 'cat', label: T.sortCat },
+      { v: 'nom', label: T.sortName }
     ].forEach(function (o) {
       var op = el('option', null, o.label); op.value = o.v; sel.appendChild(op);
     });
@@ -127,14 +156,8 @@
     /* ---------- Tableau ---------- */
     var scroll = el('div', 'res-scroll');
     var table = el('table', 'res-table');
-    table.innerHTML =
-      '<thead><tr>' +
-      '<th scope="col" class="c-clt">Clt</th>' +
-      '<th scope="col" class="c-nom">Coureur</th>' +
-      '<th scope="col" class="c-cat">Cat.</th>' +
-      '<th scope="col" class="c-moy">Moy.</th>' +
-      '<th scope="col" class="c-tps">Temps</th>' +
-      '</tr></thead><tbody></tbody>';
+    table.innerHTML = '<thead></thead><tbody></tbody>';
+    var thead = table.querySelector('thead');
     var tbody = table.querySelector('tbody');
     scroll.appendChild(table);
 
@@ -154,6 +177,9 @@
         if (q && norm(r.nom).indexOf(q) === -1) return false;
         return true;
       });
+      // Classement filtré : rang au sein de la sélection, dans l'ordre d'arrivée (clt)
+      rows.slice().sort(function (a, b) { return a.clt - b.clt; })
+        .forEach(function (r, i) { r._frank = i + 1; });
       rows.sort(function (a, b) {
         if (state.sort === 'temps') return toSec(a.temps) - toSec(b.temps);
         if (state.sort === 'nom') return norm(a.nom) < norm(b.nom) ? -1 : 1;
@@ -171,6 +197,21 @@
         segBtns[v].setAttribute('aria-pressed', v === state.sexe ? 'true' : 'false');
       });
 
+      // 2e colonne de classement : seulement si un filtre (sexe/catégorie) crée un nouveau classement
+      var showFrank = state.sexe !== 'all' || state.cat !== 'all';
+      var frankLabel = state.cat !== 'all' ? T.cltCat + state.cat
+                     : state.sexe === 'F' ? T.cltF
+                     : state.sexe === 'H' ? T.cltH : '';
+      thead.innerHTML = '<tr>' +
+        (showFrank
+          ? '<th scope="col" class="c-frank">' + esc(frankLabel) + '</th><th scope="col" class="c-clt">' + T.clt + '</th>'
+          : '<th scope="col" class="c-clt">' + T.clt + '</th>') +
+        '<th scope="col" class="c-nom">' + T.runner + '</th>' +
+        '<th scope="col" class="c-cat">' + T.cat + '</th>' +
+        '<th scope="col" class="c-moy">' + T.avg + '</th>' +
+        '<th scope="col" class="c-tps">' + T.time + '</th>' +
+        '</tr>';
+
       var rows = compute();
       var total = rows.length;
       var pages = Math.max(1, Math.ceil(total / pageSize));
@@ -179,12 +220,14 @@
       var slice = rows.slice(start, start + pageSize);
 
       count.textContent = total
-        ? total + (total > 1 ? ' coureurs' : ' coureur') + (total > pageSize ? ' · ' + (start + 1) + '–' + (start + slice.length) + ' affichés' : '')
-        : 'Aucun coureur ne correspond à cette recherche.';
+        ? total + (total > 1 ? T.many : T.one) + (total > pageSize ? ' · ' + (start + 1) + '–' + (start + slice.length) + T.shown : '')
+        : T.none;
 
       tbody.innerHTML = slice.map(function (r) {
         return '<tr>' +
-          '<td class="c-clt mono">' + r.clt + '</td>' +
+          (showFrank
+            ? '<td class="c-frank mono is-primary">' + r._frank + '</td><td class="c-clt mono">' + r.clt + '</td>'
+            : '<td class="c-clt mono is-primary">' + r.clt + '</td>') +
           '<td class="c-nom"><span class="rn">' + esc(r.nom) + '</span>' +
           (r.lieu ? '<span class="rl">' + esc(r.lieu) + '</span>' : '') + '</td>' +
           '<td class="c-cat"><span class="cat-chip">' + esc(r.cat) + '</span></td>' +
