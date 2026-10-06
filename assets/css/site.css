@@ -1138,7 +1138,7 @@
     .h-race .ph::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, rgba(35,35,35,.85) 0%, rgba(35,35,35,0) 55%); }
     .h-race .num { grid-area: 1 / 1; align-self: end; z-index: 2; padding: 0 0 16px 16px; color: var(--text); -webkit-text-stroke: 0; font-size: clamp(84px, 24vw, 150px); }
     .h-race .info { grid-area: 2 / 1; }
-    .h-race:nth-of-type(2) .ph { aspect-ratio: 16/10; }
+    /* toutes les photos de courses à la même hauteur (ratio uniforme) */
   }
   /* un seul bouton plein par groupe : la trace passe en contour à côté de S'inscrire */
   .btn-go + .btn-gpx { background: none; color: var(--text); box-shadow: inset 0 0 0 1px rgba(255,255,255,.35); }
