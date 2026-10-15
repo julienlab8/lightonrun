@@ -1,31 +1,31 @@
-# LIGHT ON TRAIL Pierre-Percée***
+# LIGHT ON RUN Madine**
 
-> Trail organisé par LIGHT ON le dimanche 4 avril 2027 autour du lac de Pierre-Percée. Départ et arrivée au Village LIGHT ON, Base de Loisirs, 88110 Celles-sur-Plaine (Vosges, Grand Est), au bord du lac de la Plaine ; le lac de Pierre-Percée est juste au nord, en Meurthe-et-Moselle. Trois formats : 17 KM* (530 m D+), 37 KM** (1250 m D+) et 54 KM*** (1900 m D+).
+> Running organisé par LIGHT ON le jeudi 6 mai 2027 autour du Lac de Madine. Départ et arrivée au Village LIGHT ON, à Nonsard-Lamarche (55210, Meuse, Grand Est), entre Verdun et Toul, dans le Parc naturel régional de Lorraine. Deux formats : 10 KM* et Semi-Marathon** (21,1 km).
 
-Site officiel : https://www.lightontrail.com/ . En cas de doute, les pages HTML du site font foi.
+Site officiel : https://www.lightonrun.com/ . En cas de doute, les pages HTML du site font foi.
 
-- Édition : 2e édition en 2027. La 1re a eu lieu le 5 avril 2026, sur le 17 KM* et le 37 KM** (750 coureurs). Le 54 KM*** est nouveau en 2027.
-- Dossards : retrait au Village LIGHT ON le samedi 3 avril 2027 de 17h00 à 19h00 et le dimanche 4 avril de 6h00 à 9h00. Pas d'envoi postal.
-- Départs le dimanche 4 avril 2027 : 54 KM*** à 7h30, 37 KM** à 8h30, 17 KM* à 9h30. Remise des récompenses à 12h00.
-- Tarifs : 19 € (17 KM*), 39 € (37 KM**), 49 € (54 KM***). Tee-shirt offert à chaque participant, médaille pour chaque finisher.
-- Inscriptions : uniquement en ligne sur njuko (https://in.njuko.com/light-on-trail-pierre-percee1790497118122), ouvertes depuis le 29 septembre 2026 à 20h, closes le jeudi 1er avril 2027 à 20h ou avant si les dossards sont épuisés. Pas d'inscription sur place.
-- Justificatif (majeurs) : licence FFA (Athlé Compétition, Entreprise ou Running), Pass' J'aime Courir ou attestation PPS (https://pps.athle.fr/), à déposer sur njuko au plus tard deux semaines avant la course. Âge minimum : catégorie Junior (né·e en 2009 et avant) sur le 17 KM*, Espoir (né·e en 2007 et avant) sur le 37 KM** et le 54 KM***.
-- Barrières horaires : km 11,3 à 2h15 (17 KM* et 37 KM**), km 26,2 à 4h45 (37 KM**). Pour le 54 KM*** (départ 7h30) : km 11,3 à 2h15, km 28,3 à 5h30, km 43,4 à 8h30, arrivée en 10h30 maximum.
-- Noms des formats : uniquement « 17 KM* », « 37 KM** » et « 54 KM*** ». Les étoiles indiquent la longueur du format ; l'événement porte les trois étoiles de son plus grand format. Le 54 KM*** est un grand format de trail, pas un ultra-trail.
-- Organisateur : LIGHT ON (Association Woippy Triathlon, Woippy, Moselle). Contact : hello@lightontri.com, 03 74 47 56 52.
+- Édition : 1re édition en 2027. Pas de résultats ni de témoignages d'une édition précédente.
+- Horaires le jeudi 6 mai 2027 : départ du Semi-Marathon** à 9h00, départ du 10 KM* à 11h30. Remise des récompenses une fois les deux courses terminées (horaire précisé sur place).
+- Retrait des dossards : mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h30 à 8h30 pour le Semi-Marathon**, de 7h30 à 11h00 pour le 10 KM*. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
+- Tarifs : 18 € (10 KM*), 23 € (Semi-Marathon**).
+- Inscriptions : en ligne uniquement, ouverture à venir pour l'édition 2027 (lien annoncé dans la newsletter et sur les réseaux), closes le lundi 3 mai 2027 à 20h00 ou avant si les dossards sont épuisés. Pas d'inscription sur place.
+- Justificatif (majeurs) : licence FFA (Athlé Compétition, Entreprise ou Running), Pass' J'aime Courir ou attestation PPS (https://pps.athle.fr/). Âge minimum : catégorie Cadet·te (né·e en 2011 et avant) sur le 10 KM*, Junior (né·e en 2009 et avant) sur le Semi-Marathon**.
+- Parcours : circuits balisés, à plat, sur route et chemins stabilisés autour du Lac de Madine. Pas de barrière horaire sur l'une ou l'autre épreuve.
+- Noms des formats : uniquement « 10 KM* » et « Semi-Marathon** ». Les étoiles indiquent la longueur du format ; l'événement porte les deux étoiles de son plus grand format.
+- Organisateur : LIGHT ON (Association Woippy Triathlon, Woippy, Moselle). Contact : hello@lightontri.com, 06 37 08 97 57.
 
 ## Pages principales
 
-- [Accueil](https://www.lightontrail.com/index.md): l'essentiel de l'événement, les trois courses en bref, des retours de coureurs 2026.
-- [Les courses](https://www.lightontrail.com/courses.md): tableau comparatif (dénivelé, départ, tarif, ravitaillements, barrières horaires, public), détail de chaque format, liens vers les traces OpenRunner.
-- [Préparer sa venue](https://www.lightontrail.com/infos.md): inscriptions, retrait des dossards, accès et stationnement, hébergements, restauration, matériel, ravitaillements, sécurité, FAQ.
-- [Programme et Village LIGHT ON](https://www.lightontrail.com/evenement.md): le week-end heure par heure, le Village LIGHT ON, le lac et le territoire, les engagements environnementaux.
-- [Règlement 2027](https://www.lightontrail.com/reglement.md): règlement officiel de l'épreuve (catégories, certificat ou PPS, matériel, barrières horaires, annulation, remboursement).
-- [Résultats](https://www.lightontrail.com/resultats.md): podiums et classements complets de l'édition 2026 ; les résultats 2027 y seront publiés après la course.
+- [Accueil](https://www.lightonrun.com/index.md): l'essentiel de l'événement, les deux courses en bref.
+- [Les courses](https://www.lightonrun.com/courses.md): détail du 10 KM* et du Semi-Marathon** (parcours, tarif, ravitaillements, public).
+- [Préparer sa venue](https://www.lightonrun.com/infos.md): inscriptions, retrait des dossards, accès et stationnement, hébergements, restauration, conseils aux coureurs, FAQ.
+- [Programme et Village LIGHT ON](https://www.lightonrun.com/evenement.md): le programme du jeudi 6 mai, le Village LIGHT ON, le Lac de Madine et le territoire.
+- [Règlement 2027](https://www.lightonrun.com/reglement.md): règlement officiel de l'épreuve (catégories, certificat ou PPS, matériel, remboursement).
+- [Résultats](https://www.lightonrun.com/resultats.md): les classements du 10 KM* et du Semi-Marathon** y seront publiés après la course du 6 mai 2027 (1re édition, aucun résultat avant cette date).
 
 ## Optional
 
-- [Bénévoles, partenaires et presse](https://www.lightontrail.com/communaute.md): devenir bénévole du LIGHT ON Crew, partenaire ou média accrédité.
-- [Actualités](https://www.lightontrail.com/actualites.md): annonces de l'organisation.
-- [Photos et film 2026](https://www.lightontrail.com/medias.html): l'aftermovie et une sélection de photos de la 1re édition.
-- [Mentions légales et confidentialité](https://www.lightontrail.com/mentions-legales.html): éditeur, hébergeur, données personnelles.
+- [Bénévoles, partenaires et presse](https://www.lightonrun.com/communaute.md): devenir bénévole, partenaire ou média accrédité.
+- [Actualités](https://www.lightonrun.com/actualites.md): annonces de l'organisation.
+- [Photos et vidéo](https://www.lightonrun.com/medias.html): sélection de photos et la vidéo du Village LIGHT ON.
+- [Mentions légales et confidentialité](https://www.lightonrun.com/mentions-legales.html): éditeur, hébergeur, données personnelles.

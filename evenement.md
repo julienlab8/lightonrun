@@ -1,147 +1,113 @@
-# Programme du week-end et Village LIGHT ON · Trail Pierre-Percée 2027
+# Programme et Village LIGHT ON · LIGHT ON RUN Madine 2027
 
-> Retrait des dossards le samedi 3 avril, départs le dimanche 4 avril 2027 dès 7h30 : le programme heure par heure, le Village LIGHT ON et le lac de Pierre-Percée.
+> Retrait des dossards le mercredi 5 et le jeudi 6 mai, départs le jeudi 6 mai 2027 dès 9h00 : le programme heure par heure, le Village LIGHT ON et le Lac de Madine.
 
-Version Markdown de https://www.lightontrail.com/evenement.html . La page HTML fait foi.
+Version Markdown de https://www.lightonrun.com/evenement.html . La page HTML fait foi.
 
 ---
 
-## Programme & Village LIGHT ON - Un week-end au bord du lac.
+## Programme & Village LIGHT ON - Une journée au bord du lac.
 
-Le samedi pour les dossards, le dimanche pour courir, et le Village LIGHT ON au milieu de tout ça.
+Le mercredi pour prendre un peu d'avance, le jeudi pour courir, et le Village LIGHT ON au milieu de tout ça.
 
 L'univers LIGHT ON
 
 ### L'esprit LIGHT ON.
 
-Du trail sérieux, sans se prendre au sérieux. Voilà l'idée.
+Du running sérieux, sans se prendre au sérieux. Voilà l'idée.
 
 #### Il y a une distance pour vous
 
-Premier dossard ou habitué des sentiers : 17, 37 ou 54 KM. Et tout le monde se retrouve au même ravitaillement d'arrivée.
+Premier dossard ou habitué du bitume : 10 ou 21,1 km. Et tout le monde se retrouve au même ravitaillement d'arrivée.
 
-#### Le lac, la forêt, les crêtes
+#### Le lac, le plat, le bitume
 
-Forêts, crêtes et bord de lac : les parcours passent là où le massif est le plus beau. Pensez à lever la tête entre deux montées.
+Un tour de lac entièrement plat et goudronné : les parcours longent l'eau du départ à l'arrivée. Pensez à lever la tête entre deux foulées.
 
 #### Tout le monde fait la course
 
-Coureurs, bénévoles, supporters au bord du chemin : chacun fait partie de l’aventure. Et plus on est nombreux, plus les sourires se multiplient. Ça, on adore ! « L’ambiance trail était bien représentée. Très convivial et accessible à tout le monde. » - Paul R. | 17 KM\*
+Coureurs, bénévoles, supporters au bord du chemin : chacun fait partie de l’aventure. Et plus on est nombreux, plus les sourires se multiplient. Ça, on adore ! « Très bonne ambiance, on se sent bien. » - Roman P. | 10 KM\*
 
 #### Le plaisir avant le chrono
 
-On vient pour les kilomètres et la ligne d’arrivée... Mais aussi pour lever le nez et en prendre plein les yeux ! « Le parcours était vraiment chouette, varié et plutôt bien dosé en termes de difficulté. » - Benjamin B. | 17 KM\*
+On vient pour les kilomètres et la ligne d’arrivée... Mais aussi pour l'ambiance du lac et la bonne humeur qui va avec. « J'ai adoré la motivation qu'un tel rassemblement peut nous donner (...) Je reviendrai en 2027, c'est sûr ! » - Jennifer F. | 10 KM\*
 
 #### Carré, sans chichis
 
-Balisage, ravitos, signaleurs, dossards : tout est prêt, et la bonne humeur est fournie. Vous n'avez plus qu'à courir. « Très bon état d'esprit, parcours très sympathique, bénévoles très disponibles, tout était simple. » - Emilie R. | 17 KM\*
+Balisage, ravitos, signaleurs, dossards : tout est prêt, et la bonne humeur est fournie. Vous n'avez plus qu'à courir. « Une superbe organisation, les bénévoles au top (...) Une très belle expérience. » - Myriam N. | Semi-Marathon\*\*
 
 Programme
 
-### Le week-end, heure par heure.
+### La journée, heure par heure.
 
-Le samedi pour s'installer, le dimanche pour courir. Le 54 part en premier, le 17 ferme la marche.
+Le mercredi pour prendre de l'avance, le jeudi pour courir. Le Semi-Marathon\*\* part en premier, le 10 KM\* une heure et demie plus tard.
 
-Samedi 3 avril - Veille de course
+Mercredi 5 mai - Veille de course
 
 **17:00** - Ouverture du Village LIGHT ON & retrait des dossards
 
 Retrait des dossards de 17:00 à 19:00 et stands partenaires.
 
-Dimanche 4 avril - Jour de course
+Jeudi 6 mai - Jour de course
 
-**06:00** - Retrait des dossards
+**07:30** - Retrait des dossards
 
-Ouverture du Village LIGHT ON et accueil des coureurs, de 06:00 à 09:00.
+De 07:30 à 08:30 pour le Semi-Marathon\*\*, et de 07:30 à 11:00 pour le 10 KM\*.
 
-**07:30** - Départ · 54 KM\*\*\*
+**09:00** - Départ · Semi-Marathon\*\*
 
-Le plus long format ouvre le bal.
+Le grand tour du lac ouvre la journée.
 
-**08:30** - Départ · 37 KM\*\*
+**11:30** - Départ · 10 KM\*
 
-Le 37 prend le relais.
+Le 10 KM\* prend le relais.
 
-**09:30** - Départ · 17 KM\*
+**Horaire indicatif** - Remise des récompenses
 
-Le 17 ferme la marche des départs.
-
-**12:00** - Remise des récompenses
-
-Podiums et derniers encouragements avant le retour.
+Podiums pour les 3 premiers hommes et femmes de chaque course, une fois les deux courses terminées. Horaire précisé sur place.
 
 Village LIGHT ON
 
 ### Tout se passe au Village LIGHT ON.
 
-Départ, arrivée, ravitaillement final, stands et buvette : tout est au même endroit, à Celles-sur-Plaine.
+Départ, arrivée, ravitaillement final, stands et buvette : tout est au même endroit, au bord du Lac de Madine.
 
 #### Stands & partenaires
 
-Les partenaires et les acteurs du Pays des Lacs installent leurs stands au Village LIGHT ON, du retrait des dossards jusqu'aux podiums.
+Les partenaires installent leurs stands au Village LIGHT ON, du retrait des dossards jusqu'aux podiums.
 
 #### Restauration sur place
 
-Buvette et restauration en produits locaux le dimanche. Pour le café d'avant et le verre d'après.
+Buvette et ravitaillement à l'arrivée pour tous les coureurs, sur les deux courses.
 
 #### LIGHT ON Shop
 
-La boutique LIGHT ON s'installe au Village. De quoi repartir avec un souvenir de la course, en plus de la médaille.
-
-#### LIGHT ON Kids
-
-Un espace pour les plus jeunes, avec château gonflable si la météo le permet. Les grands courent, les petits sautent.
-
-#### LIGHT OFF
-
-La zone pour débrancher : des transats au bord du lac, avant ou après la course. Les proches encouragent à l'arrivée, profitent du lac et gardent une place au soleil pour ceux qui finissent.
+La boutique LIGHT ON s'installe au Village. De quoi repartir avec un souvenir de la course.
 
 #### Remise des récompenses
 
-Le dimanche à midi, au Village LIGHT ON : podiums, applaudissements, et on se dit à l'année prochaine.
+Le jeudi, au Village LIGHT ON : podiums pour les 3 premiers hommes et femmes de chaque course.
 
-Pierre-Percée & le Pays des Lacs
+Madine & le Parc naturel régional de Lorraine
 
-### Le Lac de Pierre-Percée.
+### Le Lac de Madine.
 
-Départ et arrivée à Celles-sur-Plaine (Vosges, 88110), au bord du lac de la Plaine. Juste au nord, côté Meurthe-et-Moselle, l'un des plus grands lacs de Lorraine et des kilomètres de forêt : c'est le lac de Pierre-Percée qui donne le ton des parcours.
+Départ et arrivée à Nonsard-Lamarche (Meuse, 55210), au bord du Lac de Madine. Entre Verdun et Toul, en plein Parc naturel régional de Lorraine : c'est ce cadre qui donne le ton des parcours.
 
 #### Le lac
 
-L'un des plus grands lacs de Lorraine, en Meurthe-et-Moselle, juste au nord du Village LIGHT ON. Les parcours le longent, le surplombent, et tout le monde le retrouve à l'arrivée.
+Un plan d'eau au cœur du Parc naturel régional de Lorraine, en Meuse. Les parcours le longent du départ à l'arrivée, sur un revêtement entièrement plat.
 
-#### La forêt vosgienne
+#### Le parc naturel régional
 
-Sapins, sous-bois, crêtes et singles : on court au cœur du massif. Pour le détail des trois tracés, direction [les parcours du 17, du 37 et du 54 KM](https://www.lightontrail.com/courses.html).
+Forêts et étangs autour du lac : on court en plein cœur du parc. Pour le détail des deux tracés, direction [les parcours du 10 KM\* et du Semi-Marathon\*\*](https://www.lightonrun.com/courses.html).
 
 #### Venir et dormir sur place
 
-Environ 1h10 de Nancy, 1h20 de Strasbourg et 1h d'Épinal. Accès, stationnement et hébergements autour du lac : tout est dans [les infos pratiques](https://www.lightontrail.com/infos.html#acces).
-
-Éco-responsabilité
-
-### Courir sans laisser de trace.
-
-On court dans le massif de Pierre-Percée un dimanche par an. Le reste du temps, il est à ceux qui y vivent : on le laisse comme on l'a trouvé.
-
-#### Zéro déchet sur les sentiers
-
-Gobelets réutilisables aux ravitaillements et tri systématique. Le port de l'éco-cup est encouragé sur tous les parcours.
-
-#### Des tracés respectueux
-
-Sentiers existants et balisage non permanent. Tout est retiré après la course pour ne rien laisser au massif.
-
-#### Ravitaillements en circuit court
-
-Produits locaux et de saison autant que possible, pour limiter l'empreinte et soutenir les producteurs du territoire.
-
-#### Mobilité partagée
-
-Covoiturage encouragé entre coureurs pour réduire l'impact des trajets vers le lac.
+Le Lac de Madine se trouve en Meuse, entre Verdun et Toul. Accès, stationnement et hébergements autour du lac : tout est dans [les infos pratiques](https://www.lightonrun.com/infos.html#acces).
 
 ### Il ne manque plus que vous.
 
-Les inscriptions sont ouvertes. Rendez-vous le 4 avril 2027.
+Inscriptions ouvertes le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
 
-[S'inscrire](https://in.njuko.com/light-on-trail-pierre-percee1790497118122)
+[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)

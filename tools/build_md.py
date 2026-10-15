@@ -14,7 +14,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BASE = "https://www.lightontrail.com/"
+BASE = "https://www.lightonrun.com/"
 PAGES = {
     "index.html": "index.md",
     "courses.html": "courses.md",

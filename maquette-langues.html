@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Maquette · Sélecteur de langue FR / EN / DE — LIGHT ON TRAIL</title>
+<link rel="icon" type="image/svg+xml" href="assets/logo/favicon.svg?v=2" />
+<link rel="stylesheet" href="assets/css/site.css?v=20261004d" />
+<style>
+  /* ---- Styles propres à la maquette (sélecteur de langue) ---- */
+  .lang-switch { display: inline-flex; align-items: center; gap: 2px; }
+  .lang-switch a {
+    font-family: var(--display); text-transform: uppercase; letter-spacing: 0.05em;
+    font-size: 11px; color: var(--muted); padding: 2px 6px; line-height: 1;
+    transition: color .15s var(--ease); white-space: nowrap;
+  }
+  .lang-switch a:hover { color: var(--accent); }
+  .lang-switch a[aria-current="true"] { color: var(--fg); font-weight: 700; }
+  .lang-switch .sep { color: var(--line-2); font-size: 11px; }
+
+  /* séparateur vertical entre les liens d'accès rapide et le sélecteur */
+  .topbar-inner .lang-switch { border-left: 1px solid var(--line); padding-left: 18px; }
+
+  /* version footer */
+  .foot-lang { margin-top: 14px; }
+  .foot-lang .foot-h { margin-bottom: 8px; }
+  .foot-lang .lang-switch a { padding: 2px 8px 2px 0; font-size: 12px; }
+
+  /* bandeau explicatif de la maquette (ne fait pas partie du site) */
+  .mq-note {
+    background: var(--accent); color: #fff; font-family: var(--display);
+    text-transform: uppercase; letter-spacing: 0.05em; font-size: 12px;
+    text-align: center; padding: 8px 16px;
+  }
+  .mq-note b { font-weight: 700; }
+</style>
+</head>
+<body>
+<a class="skip" href="#top">Aller au contenu</a>
+
+<div class="mq-note">Maquette - sélecteur de langue (démo) · cliquez <b>FR / EN / DE</b> pour voir le hero changer</div>
+
+<!-- ============ TOPBAR / ACCÈS RAPIDE ============ -->
+<div class="topbar">
+  <div class="wrap topbar-inner">
+    <nav class="topbar-links" aria-label="Accès rapide">
+      <a href="resultats.html" data-i18n="nav.resultats">Résultats</a>
+      <a href="medias.html#photos" data-i18n="nav.photos">Photos</a>
+      <a href="communaute.html#benevole" data-i18n="nav.benevole">Devenir bénévole</a>
+      <a href="communaute.html#partenaire" data-i18n="nav.partenaire">Devenir partenaire</a>
+    </nav>
+    <nav class="lang-switch" aria-label="Choisir la langue">
+      <a href="#" data-lang="fr" aria-current="true">FR</a><span class="sep" aria-hidden="true">·</span><a href="#" data-lang="en">EN</a><span class="sep" aria-hidden="true">·</span><a href="#" data-lang="de">DE</a>
+    </nav>
+  </div>
+</div>
+
+<!-- ============ NAV ============ -->
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="./" aria-label="LIGHT ON TRAIL accueil">
+      <img src="assets/logo/logo-header.svg" alt="LIGHT ON TRAIL" width="178" height="100" />
+    </a>
+    <nav class="nav-links" id="navLinks" aria-label="Navigation principale">
+      <div class="nav-item">
+        <a href="evenement.html" class="nav-parent">PIERRE-PERCÉE*** 2027</a>
+      </div>
+      <div class="nav-item">
+        <a href="infos.html" class="nav-parent" data-i18n="nav.preparer">Préparer sa venue</a>
+      </div>
+      <div class="nav-item">
+        <a href="communaute.html" class="nav-parent" data-i18n="nav.rejoindre">Rejoindre l'aventure</a>
+      </div>
+    </nav>
+    <div class="nav-cta">
+      <a class="btn btn-primary btn-go" href="https://in.njuko.com/light-on-trail-pierre-percee1790497118122" target="_blank" rel="noopener" data-i18n="nav.inscrire">S'inscrire</a>
+      <button class="nav-toggle" id="navToggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="navLinks">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- ============ HERO ============ -->
+  <section class="h-hero cut">
+    <span class="geo">Départ · 48.45° N · 6.94° E · 308 m</span>
+    <div class="inner wrap">
+      <div class="when" data-i18n="hero.when"><b>Dimanche 4 avril 2027</b> - Lac de Pierre-Percée, Celles-sur-Plaine</div>
+      <h1><span class="nw">Light On Trail</span> <span class="place nw">Pierre-Percée***</span></h1>
+      <div class="row">
+        <div class="actions">
+          <a class="btn btn-primary btn-go" href="https://in.njuko.com/light-on-trail-pierre-percee1790497118122" target="_blank" rel="noopener" data-i18n="nav.inscrire">S'inscrire</a>
+          <a class="btn btn-ghost" href="https://youtu.be/Pyn1qPX23fc" target="_blank" rel="noopener" data-i18n="hero.film">▶ Voir le film</a>
+        </div>
+        <div class="dist brk">17 · 37 · 54 KM<span data-i18n="hero.open">Inscriptions ouvertes</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="count-band">
+    <div class="wrap count-inner">
+      <div class="count-lab" data-i18n="count.lab">Prochain départ <b>Dimanche 4 avril 2027 · 7h30</b></div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="brand" href="./">
+          <img src="assets/logo/logo-blanc-orange.svg" alt="LIGHT ON TRAIL" width="200" height="33" style="height:52px;" />
+        </a>
+        <p data-i18n="foot.tagline">LIGHT ON TRAIL Pierre-Percée***&nbsp;: 17, 37 ou 54 KM autour du lac de Pierre-Percée, départ à Celles-sur-Plaine dans les Vosges. Un événement LIGHT ON. Le goût de l'effort, grandeur nature.</p>
+
+        <div class="foot-lang">
+          <p class="foot-h" data-i18n="foot.langue">Langue</p>
+          <nav class="lang-switch" aria-label="Choisir la langue">
+            <a href="#" data-lang="fr" aria-current="true">Français</a><span class="sep" aria-hidden="true">·</span><a href="#" data-lang="en">English</a><span class="sep" aria-hidden="true">·</span><a href="#" data-lang="de">Deutsch</a>
+          </nav>
+        </div>
+      </div>
+      <div class="foot-col">
+        <p class="foot-h" data-i18n="foot.naviguer">Naviguer</p>
+        <a href="evenement.html">L'Événement</a>
+        <a href="courses.html">Les Courses</a>
+        <a href="infos.html" data-i18n="nav.preparer">Préparer sa venue</a>
+        <a href="resultats.html" data-i18n="nav.resultats">Résultats</a>
+      </div>
+      <div class="foot-col">
+        <p class="foot-h" data-i18n="foot.contact">Contact</p>
+        <a href="mailto:hello@lightontri.com">hello@lightontri.com</a>
+        <a href="tel:+33374475652">03 74 47 56 52</a>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <span>© 2026 LIGHT ON. Tous droits réservés. · <a href="mentions-legales.html">Mentions légales &amp; confidentialité</a></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* ---- Démo : bascule FR / EN / DE (maquette uniquement) ---- */
+(function () {
+  'use strict';
+  var I18N = {
+    fr: {
+      'nav.resultats': 'Résultats',
+      'nav.photos': 'Photos',
+      'nav.benevole': 'Devenir bénévole',
+      'nav.partenaire': 'Devenir partenaire',
+      'nav.preparer': 'Préparer sa venue',
+      'nav.rejoindre': 'Rejoindre l\u2019aventure',
+      'nav.inscrire': 'S\u2019inscrire',
+      'hero.when': '<b>Dimanche 4 avril 2027</b> - Lac de Pierre-Percée, Celles-sur-Plaine',
+      'hero.film': '\u25B6 Voir le film',
+      'hero.open': 'Inscriptions ouvertes',
+      'count.lab': 'Prochain départ <b>Dimanche 4 avril 2027 · 7h30</b>',
+      'foot.tagline': 'LIGHT ON TRAIL Pierre-Percée***\u00A0: 17, 37 ou 54 KM autour du lac de Pierre-Percée, départ à Celles-sur-Plaine dans les Vosges. Un événement LIGHT ON. Le goût de l\u2019effort, grandeur nature.',
+      'foot.langue': 'Langue',
+      'foot.naviguer': 'Naviguer',
+      'foot.contact': 'Contact'
+    },
+    en: {
+      'nav.resultats': 'Results',
+      'nav.photos': 'Photos',
+      'nav.benevole': 'Become a volunteer',
+      'nav.partenaire': 'Become a partner',
+      'nav.preparer': 'Plan your visit',
+      'nav.rejoindre': 'Join the adventure',
+      'nav.inscrire': 'Register',
+      'hero.when': '<b>Sunday 4 April 2027</b> - Lake Pierre-Percée, Celles-sur-Plaine',
+      'hero.film': '\u25B6 Watch the film',
+      'hero.open': 'Registration open',
+      'count.lab': 'Next start <b>Sunday 4 April 2027 · 7:30 am</b>',
+      'foot.tagline': 'LIGHT ON TRAIL Pierre-Percée***\u00A0: 17, 37 or 54 KM around Lake Pierre-Percée, starting in Celles-sur-Plaine in the Vosges. A LIGHT ON event. A taste for effort, in the great outdoors.',
+      'foot.langue': 'Language',
+      'foot.naviguer': 'Navigate',
+      'foot.contact': 'Contact'
+    },
+    de: {
+      'nav.resultats': 'Ergebnisse',
+      'nav.photos': 'Fotos',
+      'nav.benevole': 'Helfer werden',
+      'nav.partenaire': 'Partner werden',
+      'nav.preparer': 'Besuch planen',
+      'nav.rejoindre': 'Mach mit',
+      'nav.inscrire': 'Anmelden',
+      'hero.when': '<b>Sonntag, 4. April 2027</b> - Pierre-Percée-See, Celles-sur-Plaine',
+      'hero.film': '\u25B6 Film ansehen',
+      'hero.open': 'Anmeldung geöffnet',
+      'count.lab': 'Nächster Start <b>Sonntag, 4. April 2027 · 7:30 Uhr</b>',
+      'foot.tagline': 'LIGHT ON TRAIL Pierre-Percée***\u00A0: 17, 37 oder 54 KM rund um den Pierre-Percée-See, Start in Celles-sur-Plaine in den Vogesen. Eine Veranstaltung von LIGHT ON. Die Lust auf Anstrengung, mitten in der Natur.',
+      'foot.langue': 'Sprache',
+      'foot.naviguer': 'Navigation',
+      'foot.contact': 'Kontakt'
+    }
+  };
+  var LANGS = { fr: 'fr', en: 'en', de: 'de' };
+
+  function apply(lang) {
+    var dict = I18N[lang] || I18N.fr;
+    document.documentElement.setAttribute('lang', LANGS[lang] || 'fr');
+    document.querySelectorAll('[data-i18n]').forEach(function (n) {
+      var key = n.getAttribute('data-i18n');
+      if (dict[key] != null) n.innerHTML = dict[key];
+    });
+    document.querySelectorAll('.lang-switch a[data-lang]').forEach(function (a) {
+      if (a.getAttribute('data-lang') === lang) a.setAttribute('aria-current', 'true');
+      else a.removeAttribute('aria-current');
+    });
+  }
+
+  document.querySelectorAll('.lang-switch a[data-lang]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      apply(a.getAttribute('data-lang'));
+    });
+  });
+})();
+</script>
+</body>
+</html>

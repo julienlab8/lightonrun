@@ -1,8 +1,8 @@
-# Règlement 2027 · LIGHT ON TRAIL Pierre-Percée***
+# Règlement 2027 · LIGHT ON RUN Madine 2027
 
-> Règlement du LIGHT ON TRAIL Pierre-Percée*** 2027 : épreuves, catégories, inscriptions, certificat ou PPS, matériel, ravitaillements, barrières horaires, remboursement.
+> Règlement du LIGHT ON RUN Madine** 2027 : épreuves, catégories, inscriptions, certificat ou PPS, matériel, ravitaillements, remboursement.
 
-Version Markdown de https://www.lightontrail.com/reglement.html . La page HTML fait foi.
+Version Markdown de https://www.lightonrun.com/reglement.html . La page HTML fait foi.
 
 ---
 
@@ -12,31 +12,27 @@ Tout ce qu'il faut savoir avant de prendre le départ. En vous inscrivant, vous 
 
 ### Article 1 · Épreuves
 
-L'épreuve LIGHT ON TRAIL pour la saison 2027 est : **LIGHT ON TRAIL Pierre-Percée\*\*\*, dimanche 4 avril 2027**.
+Les épreuves LIGHT ON RUN pour la saison 2027 sont : **10 KM\* et Semi-Marathon\*\* du LIGHT ON RUN Madine\*\*, jeudi 6 mai 2027**.
 
 La participation implique la connaissance et l'acceptation du présent règlement. Du fait de son inscription, le concurrent donne à l'organisation l'autorisation expresse d'utiliser les images fixes ou audiovisuelles sur lesquelles il pourrait apparaître lors de la manifestation, sur tout support, y compris les documents promotionnels et/ou publicitaires.
 
 ### Article 2 · Distances et catégories
 
-- **Trail 17 KM\*** : ouvert à tous, licenciés ou non, à partir de la catégorie Junior (né·e en 2009 et avant).
+- **10 KM\*** : ouvert à tous, licenciés ou non, à partir de la catégorie Cadet·te (né·e en 2011 et avant).
 
-- **Trail 37 KM\*\*** : ouvert à tous, licenciés ou non, à partir de la catégorie Espoir (né·e en 2007 et avant).
+- **Semi-Marathon\*\*** : ouvert à tous, licenciés ou non, à partir de la catégorie Junior (né·e en 2009 et avant).
 
-- **Trail 54 KM\*\*\*** : ouvert à tous, licenciés ou non, à partir de la catégorie Espoir (né·e en 2007 et avant).
-
-Départ et arrivée de chaque format : Base de Loisirs, 88110 Celles-sur-Plaine. Tout participant s'engage à respecter le parcours dans sa totalité.
+Départ et arrivée de chaque format : Village LIGHT ON, Lac de Madine, 55210 Nonsard-Lamarche. Tout participant s'engage à respecter le parcours dans sa totalité.
 
 ### Article 3 · Inscriptions
 
-Les inscriptions se font uniquement en ligne, sur [njuko](https://in.njuko.com/light-on-trail-pierre-percee1790497118122). Pas d'inscription sur place.
+Les inscriptions se font uniquement en ligne, à partir du mardi 20 octobre 2026, 20h00. Pas d'inscription sur place. Le lien d'inscription 2027 sera annoncé sur la page [Inscriptions](https://www.lightonrun.com/infos.html#inscriptions), dans la newsletter et sur nos réseaux.
 
-- **Trail 17 KM\*** : 19 €
+- **10 KM\*** : 18 € jusqu'au 31 janvier 2027, 19 € jusqu'au 31 mars 2027, 20 € ensuite.
 
-- **Trail 37 KM\*\*** : 39 €
+- **Semi-Marathon\*\*** : 23 € jusqu'au 31 janvier 2027, 24 € jusqu'au 31 mars 2027, 25 € ensuite.
 
-- **Trail 54 KM\*\*\*** : 49 €
-
-Fermeture des inscriptions le jeudi 1er avril 2027 à 20h00, sous réserve de dossards disponibles. Une liste d'attente pourra être mise en place.
+Fermeture des inscriptions le lundi 3 mai 2027 à 20h00, sous réserve de dossards disponibles. Une liste d'attente pourra être mise en place.
 
 #### Certificat, licence ou PPS
 
@@ -72,27 +68,27 @@ Tout engagement est personnel. Toute personne cédant son dossard sans passer pa
 
 ### Article 4 · Retrait des dossards
 
-Au Village LIGHT ON, à Celles-sur-Plaine : le samedi 3 avril 2027 de 17h00 à 19h00, et le dimanche 4 avril 2027 de 6h00 à 9h00. Aucun envoi postal des dossards.
+Au Village LIGHT ON, Lac de Madine : le mercredi 5 mai 2027 de 17h00 à 19h00 ; le jeudi 6 mai 2027 de 7h30 à 8h30 pour le Semi-Marathon\*\*, et de 7h30 à 11h00 pour le 10 KM\*. Aucun envoi postal des dossards.
 
-### Article 5 · Programme du dimanche 4 avril 2027
+### Article 5 · Programme du jeudi 6 mai 2027
 
-- 6h00 - 9h00 : retrait des dossards
+- 7h30 - 8h30 : retrait des dossards du Semi-Marathon\*\*
 
-- 7h30 : départ du Trail 54 KM\*\*\*
+- 7h30 - 11h00 : retrait des dossards du 10 KM\*
 
-- 8h30 : départ du Trail 37 KM\*\*
+- 9h00 : départ du Semi-Marathon\*\*
 
-- 9h30 : départ du Trail 17 KM\*
+- 11h30 : départ du 10 KM\*
 
-- 12h00 : remise des récompenses
+- Remise des récompenses : une fois les deux courses terminées, horaire précisé sur place
 
 ### Article 6 · Matériel
 
-Chaque participant s'équipe en fonction de la météo. Les chaussures de trail sont fortement conseillées. Le trail se court en semi-autonomie : une réserve d'eau personnelle est vivement conseillée. Le canicross n'est pas autorisé.
+Chaque participant s'équipe en fonction de la météo. Des chaussures de running sont conseillées. Prévoyez 4 épingles à nourrice ou un porte-dossard : aucune épingle n'est fournie sur place. Le canicross n'est pas autorisé.
 
 ### Article 7 · Parcours et balisage
 
-Les trois épreuves sont des circuits balisés, avec des panneaux, des drapeaux et un marquage au sol délébile qui préserve l'environnement. Tout le balisage est retiré après la course.
+Les deux épreuves sont des circuits balisés, à plat, sur route et chemins stabilisés autour du Lac de Madine. Des signaleurs bénévoles sont postés aux points clés et aux croisements.
 
 ### Article 8 · Sécurité et assistance médicale
 
@@ -100,39 +96,31 @@ La sécurité est assurée par des signaleurs mis en place par l'organisation, q
 
 ### Article 9 · Ravitaillements
 
-Le trail est une épreuve en semi-autonomie.
+Les deux épreuves se courent en semi-autonomie.
 
-- **Trail 17 KM\*** : un ravitaillement liquide au km 11.
+- **10 KM\*** : un ravitaillement liquide au km 5.
 
-- **Trail 37 KM\*\*** : un ravitaillement liquide et solide au km 11 et au km 26.
-
-- **Trail 54 KM\*\*\*** : ravitaillements liquides et solides répartis sur le parcours, détaillés avec la trace.
+- **Semi-Marathon\*\*** : un ravitaillement liquide au km 6, liquide et solide aux km 12 et 15.
 
 Un ravitaillement complet attend tous les coureurs à l'arrivée.
 
 ### Article 10 · Barrières horaires
 
-- 2h15 au km 11,3 pour le Trail 17 KM\* et le Trail 37 KM\*\*.
-
-- 4h45 au km 26,2 (Col de la Chapelotte, au retour) pour le Trail 37 KM\*\*.
-
-- Pour le Trail 54 KM\*\*\* (départ 07:30) : 2h15 au km 11,3 (09:45), 5h30 au km 28,3 (13:00), 8h30 au km 43,4 (16:00), et arrivée en 10h30 maximum (18:00).
+Ni le 10 KM\* ni le Semi-Marathon\*\* n'ont de barrière horaire : les deux circuits sont balisés et chaque coureur les parcourt à son rythme.
 
 ### Article 11 · Classement et récompenses
 
-Chaque finisher des trois épreuves reçoit une médaille à l'arrivée.
-
-Un classement individuel est établi pour chaque épreuve. Des trophées et des lots sont remis aux trois premiers seniors et vétérans hommes, et aux trois premières seniors et vétéranes femmes du classement scratch, sans distinction de catégorie d'âge. Aucune prime n'est versée. La présence des participants récompensés est obligatoire : en cas d'absence, les prix restent acquis à l'organisation.
+Le 10 KM\* et le Semi-Marathon\*\* sont chronométrés. Un classement individuel est établi pour chaque épreuve. Des trophées et des lots sont remis aux trois premiers seniors et vétérans hommes, et aux trois premières seniors et vétéranes femmes du classement scratch, sans distinction de catégorie d'âge. Aucune prime n'est versée. La présence des participants récompensés est obligatoire : en cas d'absence, les prix restent acquis à l'organisation.
 
 ### Article 12 · Annulation et remboursement
 
-Sur présentation d'un certificat médical uniquement, l'organisation rembourse 50 % des frais d'inscription (hors frais prélevés par njuko) jusqu'à un mois avant l'épreuve. Aucun autre motif ne donne lieu à remboursement, et aucun remboursement n'est possible dans le mois qui précède l'épreuve.
+Sur présentation d'un certificat médical uniquement, l'organisation rembourse 50 % des frais d'inscription (hors frais de plateforme) jusqu'à un mois avant l'épreuve. Aucun autre motif ne donne lieu à remboursement, et aucun remboursement n'est possible dans le mois qui précède l'épreuve.
 
 En cas d'annulation exceptionnelle dont la responsabilité n'incombe pas à l'organisation (force majeure, impératifs de sécurité, conditions météorologiques, décision des autorités…), aucune inscription ne pourra être remboursée et aucun dommage et intérêt ne pourra être réclamé.
 
 ### Article 13 · Transfert de dossard
 
-Un transfert de dossard est possible jusqu'au jeudi 1er avril 2027 à 20h00, uniquement entre coureurs, via l'espace participant njuko (bouton « Transférer mon inscription »). Le nouveau participant fait son inscription avec paiement ; l'inscription est effective une fois le paiement effectué, et le participant ayant transféré son dossard est remboursé sous 8 jours. L'organisation ne peut pas réaliser de transfert elle-même. Les dossards ne sont pas reportables sur l'édition suivante, sauf en cas de report de l'épreuve.
+Un transfert de dossard est possible jusqu'au lundi 3 mai 2027 à 20h00, uniquement entre coureurs, depuis l'espace participant en ligne. Le nouveau participant fait son inscription avec paiement ; l'inscription est effective une fois le paiement effectué, et le participant ayant transféré son dossard est remboursé sous 8 jours. L'organisation ne peut pas réaliser de transfert elle-même. Les dossards ne sont pas reportables sur l'édition suivante, sauf en cas de report de l'épreuve.
 
 ### Article 14 · Sanctions
 
@@ -148,4 +136,4 @@ Chaque participant autorise LIGHT ON à utiliser les images sur lesquelles il po
 
 ### Renseignements
 
-Pour toute question sur les épreuves : [hello@lightontri.com](mailto:hello@lightontri.com) ou [03 74 47 56 52](tel:+33374475652). Directeur de course : Julien Labdant.
+Pour toute question sur les épreuves : [hello@lightontri.com](mailto:hello@lightontri.com) ou [06 37 08 97 57](tel:+33637089757). Directeur de course : Julien Labdant.

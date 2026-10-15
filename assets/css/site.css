@@ -298,8 +298,9 @@
   @media (max-width: 860px) { .courses-grid, .courses-grid.cols-detail { grid-template-columns: 1fr; } }
 
   /* ============ FILM ============ */
-  .film-frame { position: relative; margin-top: 40px; border-radius: var(--r-card); overflow: hidden;
+  .film-frame, .media-frame { position: relative; margin-top: 40px; border-radius: var(--r-card); overflow: hidden;
     border: 1px solid var(--line); aspect-ratio: 16/9; background: #000; }
+  .media-frame video { width: 100%; height: 100%; object-fit: cover; display: block; }
   .film-video { width: 100%; height: 100%; object-fit: cover; display: block; }
   .film-frame::before { content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none;
     background: linear-gradient(180deg, rgba(35,35,35,.12), rgba(35,35,35,.5)); transition: opacity .4s var(--ease); }
@@ -402,7 +403,6 @@
   .partner-marquee:hover .partner-marquee-track { animation-play-state: paused; }
   .partner-marquee-track a { flex: none; display: inline-flex; align-items: center; }
   .partner-marquee-track img { height: 40px; width: auto; filter: brightness(0) invert(1); opacity: 1; transition: filter .25s var(--ease); }
-  .partner-marquee-track img[src*="pierre-percee"] { height: 52px; }
   .partner-marquee-track a:hover img { filter: none; }
   @media (prefers-reduced-motion: reduce) { .partner-marquee-track { animation: none; flex-wrap: wrap; justify-content: center; } }
   .partner-strip-link { display: inline-block; margin-top: 22px; font-family: var(--display); text-transform: uppercase; letter-spacing: 0.04em; font-size: 12px; color: var(--muted); transition: color .15s var(--ease); }
@@ -606,7 +606,6 @@
     .partner-tier.tier-major .partner img { height: 78px; max-width: 60vw; }
     .partner-marquee-track { gap: 44px; }
     .partner-marquee-track img { height: 32px; }
-    .partner-marquee-track img[src*="pierre-percee"] { height: 42px; }
   }
 
   /* sections avec photo (Préparer sa venue) */
@@ -711,8 +710,8 @@
 
   /* photos : angles droits, pas de cadre */
   .course, .course-img, .photo-grid figure, .photo-strip figure, .wide-photo, .sec-photo,
-  .film-frame, .route-embed iframe, .elevation, .nature-visual, .hero-visual, .partner { border-radius: 0 !important; }
-  .photo-grid figure, .photo-strip figure, .wide-photo, .sec-photo, .film-frame { border: 0; }
+  .film-frame, .media-frame, .route-embed iframe, .elevation, .nature-visual, .hero-visual, .partner { border-radius: 0 !important; }
+  .photo-grid figure, .photo-strip figure, .wide-photo, .sec-photo, .film-frame, .media-frame { border: 0; }
   .photo-grid { gap: 6px; }
   .photo-strip { gap: 6px; }
   .route-embed iframe { border: 0; }
@@ -872,7 +871,7 @@
   .h-cta .picto .p1 { fill: #fff; } .h-cta .picto .p2 { fill: var(--accent); }
   @media (max-width: 700px) { .h-cta .wrap { grid-template-columns: 1fr; } .h-cta .picto { display: none; } }
   /* appel de fin de page : photo de la ligne de départ plutôt qu'un aplat */
-  .cta-slim { background: linear-gradient(90deg, rgba(35,35,35,.96) 0%, rgba(35,35,35,.75) 55%, rgba(35,35,35,.45) 100%), url("../img/depart-trail-lac-pierre-percee.jpg") center 40% / cover no-repeat; color: var(--text); }
+  .cta-slim { background: linear-gradient(90deg, rgba(35,35,35,.96) 0%, rgba(35,35,35,.75) 55%, rgba(35,35,35,.45) 100%), url("../img/coureurs-sentier-bord-lac-madine.jpg") center 40% / cover no-repeat; color: var(--text); }
   .cta-slim p { color: rgba(255,255,255,.75); }
   .cta-slim .btn-primary { background: var(--accent); color: var(--on-accent); }
   .cta-slim .btn-primary:hover { background: var(--text); color: var(--bg); }

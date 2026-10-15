@@ -1,85 +1,37 @@
-# Résultats 2026 du trail de Pierre-Percée : 17 et 37 km
+# Résultats · LIGHT ON RUN Madine 2027
 
-> Classements complets et podiums de l'édition 2026 du LIGHT ON TRAIL Pierre-Percée*** sur le 17 KM* et le 37 KM**. Les résultats 2027 seront publiés ici après la course.
+> LIGHT ON RUN Madine** 2027 est la première édition organisée par LIGHT ON. Les classements du 10 KM* et du Semi-Marathon** seront publiés ici après la course du 6 mai 2027.
 
-Version Markdown de https://www.lightontrail.com/resultats.html . La page HTML fait foi.
+Version Markdown de https://www.lightonrun.com/resultats.html . La page HTML fait foi.
 
 ---
 
-## Résultats du trail - Les classements.
+## Résultats - Les classements.
 
-Podiums et classements complets de l'édition 2026, sur le 17 KM\* et le 37 KM\*\*. Ceux de 2027 arriveront ici le 4 avril au soir.
+LIGHT ON RUN Madine\*\* 2027 est la première édition organisée par LIGHT ON sur le Lac de Madine. Les classements du 10 KM\* et du Semi-Marathon\*\* seront publiés ici dans les jours qui suivent la course du jeudi 6 mai 2027.
 
-Classements complets 2026
+Jeudi 6 mai 2027 · Lac de Madine
 
-### Tous les coureurs.
+### Rendez-vous après la course.
 
-Filtre femmes/hommes, par catégorie, recherche par nom, tri et pagination. Le classement officiel reste le PDF, à télécharger plus bas.
+Pas de précédente édition à comparer : les premiers classements du 10 KM\* et du Semi-Marathon\*\* LIGHT ON RUN Madine\*\* s'écriront le 6 mai 2027. Revenez ici juste après la course, ou suivez [nos réseaux](https://www.lightonrun.com/communaute.html#suivre) pour être prévenu dès leur mise en ligne.
 
-#### 17 KM\*
+10 KM\*
 
-Dimanche 5 avril 2026 · 411 finishers
+#### 10 KM\*
 
-#### 37 KM\*\*
+Classement scratch et par catégorie, chronométré électroniquement. Résultats en ligne après la course du 6 mai 2027.
 
-Dimanche 5 avril 2026 · 222 finishers
+Semi-Marathon\*\*
 
-Édition 2026 · dimanche 5 avril
+#### Semi-Marathon\*\*
 
-### Les podiums 2026.
+Classement scratch et par catégorie, chronométré électroniquement. Résultats en ligne après la course du 6 mai 2027.
 
-Les trois premiers hommes et femmes de chaque course, et le classement complet à télécharger en PDF. Envie de revoir la journée ? [Le film et les photos 2026](https://www.lightontrail.com/medias.html).
-
-Édition 2026 · 5 avril
-
-#### 17 KM\*
-
-411 finishers.
-
-Hommes
-
-- 1. Erwan Petitdemange - 01:15:16
-
-- 2. Bastien Kalck - 01:17:11
-
-- 3. Baptiste Lespine - 01:19:27
-
-Femmes
-
-- 1. Élodie Janiaud Friser - 01:37:02
-
-- 2. Célia Dargent - 01:37:21
-
-- 3. Melissa Barat - 01:37:23
-
-[Classement complet · PDF](https://www.lightontrail.com/assets/docs/resultats-17km-2026.pdf)
-
-Édition 2026 · 5 avril
-
-#### 37 KM\*\*
-
-222 finishers.
-
-Hommes
-
-- 1. Valentin Delabarre - 03:05:07
-
-- 2. Charles Planet - 03:05:16
-
-- 3. Xavier Houllé - 03:05:20
-
-Femmes
-
-- 1. Sarah Vieuille - 03:12:50
-
-- 2. Albane Lhuillier - 03:57:04
-
-- 3. Marianne Geisler - 03:59:46
-
-[Classement complet · PDF](https://www.lightontrail.com/assets/docs/resultats-37km-2026.pdf)
+Envie de revivre la journée en images ? [Photos et vidéo](https://www.lightonrun.com/medias.html). Le détail du classement et des récompenses figure dans le [règlement de l'épreuve](https://www.lightonrun.com/reglement.html).
 
 ### Envie d'y figurer en 2027 ?
 
-Les inscriptions sont ouvertes. Rendez-vous le 4 avril 2027.
+Inscriptions ouvertes le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
 
-[S'inscrire](https://in.njuko.com/light-on-trail-pierre-percee1790497118122)
+[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)

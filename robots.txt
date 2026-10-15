@@ -1,4 +1,4 @@
-# robots.txt - www.lightontrail.com
+# robots.txt - www.lightonrun.com
 # Site public d'un événement sportif : tout le contenu public peut être exploré.
 # Les groupes ci-dessous rendent nos choix explicites, robot par robot.
 # Rappel : robots.txt est une consigne que les robots sérieux respectent, pas une protection.
@@ -43,4 +43,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.lightontrail.com/sitemap.xml
+Sitemap: https://www.lightonrun.com/sitemap.xml

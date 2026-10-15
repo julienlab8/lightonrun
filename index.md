@@ -1,176 +1,156 @@
-# LIGHT ON TRAIL Pierre-Percée*** · Trail 17, 37 et 54 km · 4 avril 2027
+# LIGHT ON RUN Madine** · 10 km et semi-marathon · 6 mai 2027
 
-> Trail autour du lac de Pierre-Percée : 17, 37 ou 54 KM le dimanche 4 avril 2027, départ de Celles-sur-Plaine dans les Vosges. Inscriptions ouvertes.
+> 10 km ou semi-marathon (21,1 km) autour du Lac de Madine : jeudi 6 mai 2027, départ de Nonsard-Lamarche dans la Meuse. Inscriptions ouvertes le 20 octobre 2026.
 
-Version Markdown de https://www.lightontrail.com/ . La page HTML fait foi.
+Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 ---
 
-**Dimanche 4 avril 2027** - Lac de Pierre-Percée, Celles-sur-Plaine
+**Jeudi 6 mai 2027** - Lac de Madine, Nonsard-Lamarche
 
-## Light On Trail Pierre-Percée\*\*\*
+## Light On Run Madine\*\*
 
-[S'inscrire](https://in.njuko.com/light-on-trail-pierre-percee1790497118122) [▶ Voir le film](https://youtu.be/Pyn1qPX23fc)
+[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions) [▶ Voir les photos](https://www.lightonrun.com/medias.html)
 
-17 · 37 · 54 KM. Inscriptions ouvertes
+10 · 21,1 KMInscriptions ouvertes le 20 octobre 2026
 
-17, 37 ou 54 KM : trois façons de découvrir Pierre-Percée. Une seule règle : en profiter.
+10 ou 21,1 KM : deux façons de faire le tour du Lac de Madine. Une seule règle : le finir.
 
 ### L'essentiel
 
-- **Date** : Dimanche 4 avril 2027. Dossards dès le samedi 3 avril
-- **Lieu** : Lac de Pierre-Percée. Départ et arrivée à Celles-sur-Plaine (Vosges)
-- **Distances** : 17 KM\* · 37 KM\*\* · 54 KM\*\*\*. 530, 1250 et 1900 m D+
-- **Départs** : 7h30 · 8h30 · 9h30. Le 54 part en premier, le 17 en dernier
-- **Tarifs** : 19 € · 39 € · 49 €. Tee-shirt offert. Inscriptions ouvertes sur [njuko](https://in.njuko.com/light-on-trail-pierre-percee1790497118122)
-- **Organisation** : LIGHT ON. 2e édition : 750 coureurs en 2026, 1 500 attendus en 2027
+- **Date** : Jeudi 6 mai 2027. Dossards dès le mercredi 5 mai
+- **Lieu** : Lac de Madine. Départ et arrivée à Nonsard-Lamarche (Meuse)
+- **Distances** : 10 KM\* · Semi-Marathon\*\*. 21,1 km, parcours à plat
+- **Départs** : 9h00 · 11h30. Le semi part en premier, le 10 km à 11h30
+- **Tarifs** : À partir de 18 € · 23 €. Tarifs selon date d'inscription. Inscriptions ouvertes le 20 octobre 2026
+- **Organisation** : LIGHT ON. Édition 2026 : près de 2 800 coureurs au départ
 
-**01** Un lac, trois distances
+**01** Un lac, deux distances
 
-### Les courses\*\*\*
+### Les courses\*\*
 
-[Traces, profils et détails](https://www.lightontrail.com/courses.html)
+[Détails et tarifs](https://www.lightonrun.com/courses.html)
 
-17 KM\*
+10 KM\*
 
-Le bord du lac, quelques vraies montées et tout le paysage. Parfait pour un premier trail ou une reprise.
+Un tour de lac à plat, pour courir sa première course ou viser un chrono sans se soucier du dénivelé.
 
-Dénivelé : 530 m D+
+Départ : 11h30
 
-Départ : 9h30
-
-Tarif : 19 €
+Tarif : dès 18 €
 
 Voir le parcours
 
-[Voir la page](https://www.lightontrail.com/courses.html#trail-17)
+[Voir la page](https://www.lightonrun.com/courses.html#10km)
 
-37 KM\*\*
+21,1 KM\*\*
 
-Crêtes, forêts, passages techniques et 1 250 m de D+. Le format pour ceux qui aiment quand ça grimpe.
+Le grand tour du lac, trois ravitaillements sur le parcours et une ligne droite finale pour tout donner.
 
-Dénivelé : 1250 m D+
+Départ : 9h00
 
-Départ : 8h30
-
-Tarif : 39 €
+Tarif : dès 23 €
 
 Voir le parcours
 
-[Voir la page](https://www.lightontrail.com/courses.html#trail-37)
-
-54 KM\*\*\*
-
-Nouveau en 2027
-
-Le grand format sur les reliefs qui dominent le lac, avec 1 900 m de D+. Départ 7h30 : prévoyez le café avant.
-
-Dénivelé : 1900 m D+
-
-Départ : 7h30
-
-Tarif : 49 €
-
-Voir le parcours
-
-[Voir la page](https://www.lightontrail.com/courses.html#trail-54)
+[Voir la page](https://www.lightonrun.com/courses.html#semi)
 
 **02** Retours de coureurs 2026
 
 ### Ce qu'ils en disent.
 
-> Un super terrain de jeu ! J'ai adoré ce parcours riche en singles et en relances !
+> Une superbe organisation, les bénévoles au top (...) Une très belle expérience.
 
-**Natascha R.** | 37 KM\*\*
+**Myriam N.** | Semi-Marathon\*\*
 
-> Le plus beau parcours de trail que j'ai fait, surtout la première partie jusqu'au ravitaillement.
+> Premier semi marathon parfait.
 
-**Olivier K.** | 17 KM\*
+**Claire T.** | Semi-Marathon\*\*
 
-> Superbe cadre ! Dommage de devoir courir et de ne pas pouvoir prendre de photos :)
+> Très bonne ambiance, on se sent bien.
 
-**Guillain L.** | 17 KM\*
+**Roman P.** | 10 KM\*
 
-> Super organisation et super parcours en pleine forêt vosgienne et aux abords du lac. Super ambiance sur le site et sur les ravitos.
+> J'ai adoré la motivation qu'un tel rassemblement peut nous donner (...) Je reviendrai en 2027, c'est sûr !
 
-**Renaud P.** | 37 KM\*\*
+**Jennifer F.** | 10 KM\*
 
-> Très belle course, cadre très agréable, bénévoles au top, organisation extra ! Je reviendrai l'année prochaine avec grand plaisir !
+> Sinon c'est chouette, un peu boueux cette année, mdr.
 
-**Tom S.** | 17 KM\*
+**Manon M.** | Semi-Marathon\*\*
 
 Ce sont leurs mots, pas les nôtres. **Les prochains, c'est vous qui les écrirez.**
 
-[S'inscrire](https://in.njuko.com/light-on-trail-pierre-percee1790497118122)
+[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)
 
 ### Le goût de l'effort, grandeur nature.
 
-L'un des plus grands lacs de Lorraine, la forêt vosgienne tout autour et le Village LIGHT ON à Celles-sur-Plaine pour le départ et l'arrivée.
+Le Lac de Madine, l'un des grands plans d'eau de la Meuse, et un parcours à plat qui fait le tour de la rive du départ à l'arrivée.
 
 **03** L'événement
 
 ### La course, et tout ce qu'il y a autour.
 
-Dossards la veille, courses le dimanche, Village LIGHT ON ouvert tout le week-end. Les supporters sont les bienvenus (leurs encouragements aussi).
+Dossards la veille, courses le jeudi, Village LIGHT ON ouvert dès le mercredi. Les supporters sont les bienvenus (leurs encouragements aussi).
 
 #### Le programme
 
-Samedi 3 avril, retrait des dossards. Dimanche 4 avril, départs à 7h30, 8h30 et 9h30, podiums à midi.
+Mercredi 5 mai, retrait des dossards. Jeudi 6 mai, départs à 9h00 et 11h30, remise des récompenses dans la foulée.
 
-[Voir la page](https://www.lightontrail.com/evenement.html#programme)
+[Voir la page](https://www.lightonrun.com/evenement.html#programme)
 
 #### Le Village LIGHT ON
 
-Départ, arrivée, ravitaillement final, stands et buvette : tout se passe au même endroit.
+Départ, arrivée, ravitaillement final, stands : tout se passe au même endroit, au bord du lac.
 
-[Voir la page](https://www.lightontrail.com/evenement.html#village)
+[Voir la page](https://www.lightonrun.com/evenement.html#village)
 
 #### Préparer sa venue
 
 Accès, hébergements, matériel, FAQ : l'essentiel avant le départ.
 
-[Voir la page](https://www.lightontrail.com/infos.html)
+[Voir la page](https://www.lightonrun.com/infos.html)
 
 **04** En images
 
 ### Retour sur 2026.
 
-750 coureurs sur le 17 KM\* et le 37 KM\*\*. Voilà à quoi ça ressemblait.
+Près de 2 800 coureurs sur le 10 KM\* et le Semi-Marathon\*\*. Voilà à quoi ça ressemblait.
 
-[L'aftermovie et toutes les photos](https://www.lightontrail.com/medias.html)
+[Toutes les photos](https://www.lightonrun.com/medias.html)
 
 **05** Actualités
 
 ### Quoi de neuf ?
 
-[Toutes les actualités](https://www.lightontrail.com/actualites.html)
+[Toutes les actualités](https://www.lightonrun.com/actualites.html)
 
-29 septembre 2026
-
-#### Les inscriptions sont ouvertes
-
-Le 17 KM\*, le 37 KM\*\* et le 54 KM\*\*\* vous attendent. Les dossards sont limités : ne traînez pas trop.
-
-[Voir la page](https://www.lightontrail.com/actualites.html)
-
-4 avril 2027
+6 mai 2027
 
 #### Cap sur l'édition 2027
 
-Rendez-vous le dimanche 4 avril 2027 au bord du lac, avec le Village LIGHT ON ouvert dès le samedi.
+Rendez-vous le jeudi 6 mai 2027 au bord du Lac de Madine, avec le Village LIGHT ON ouvert dès le mercredi.
 
-[Voir la page](https://www.lightontrail.com/actualites.html)
+[Voir la page](https://www.lightonrun.com/actualites.html)
+
+20 oct. 2026
+
+#### Inscriptions ouvertes le 20 octobre
+
+Le 10 KM\* et le Semi-Marathon\*\* vous attendent. Rendez-vous mardi 20 octobre 2026 à 20h00 pour réserver votre dossard.
+
+[Voir la page](https://www.lightonrun.com/infos.html#inscriptions)
 
 Toute l'année
 
-#### [Rejoindre le LIGHT ON Crew](https://www.lightontrail.com/communaute.html#benevole)
+#### [Rejoindre le LIGHT ON Crew](https://www.lightonrun.com/communaute.html#benevole)
 
-Ravitaillements, balisage, Village LIGHT ON : sans bénévoles, pas de course. L'appel pour 2027 arrive bientôt dans la newsletter et sur [nos réseaux](https://www.instagram.com/lighton_trail/).
+Ravitaillements, fléchage, Village LIGHT ON : sans bénévoles, pas de course. L'appel pour 2027 arrive bientôt dans la newsletter et sur [nos réseaux](https://www.instagram.com/lighton_run/).
 
-Dimanche 4 avril 2027 · 7h30
+Jeudi 6 mai 2027 · 9h00
 
 ### On se voit sur la ligne de départ ?
 
-Choisissez votre distance. Balisage, ravitos, bénévoles : on prépare le terrain.
+Choisissez votre distance. Inscriptions ouvertes le mardi 20 octobre 2026, 20h00.
 
-[S'inscrire](https://in.njuko.com/light-on-trail-pierre-percee1790497118122) [Comparer les distances](https://www.lightontrail.com/courses.html)
+[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions) [Comparer les distances](https://www.lightonrun.com/courses.html)

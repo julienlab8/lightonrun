@@ -1,38 +1,38 @@
-# Actualités · LIGHT ON TRAIL Pierre-Percée***
+# Actualités · LIGHT ON RUN Madine**
 
-> Inscriptions, programme, appel aux bénévoles : les nouvelles du LIGHT ON TRAIL Pierre-Percée***, le trail du 4 avril 2027 au lac de Pierre-Percée.
+> Inscriptions, programme, appel aux bénévoles : les nouvelles du LIGHT ON RUN Madine**, le 10 KM* et le Semi-Marathon** du jeudi 6 mai 2027 au Lac de Madine.
 
-Version Markdown de https://www.lightontrail.com/actualites.html . La page HTML fait foi.
+Version Markdown de https://www.lightonrun.com/actualites.html . La page HTML fait foi.
 
 ---
 
-## Actualités du trail - Les dernières nouvelles.
+## Actualités - Les dernières nouvelles.
 
-Inscriptions, infos course, coulisses de l'orga : tout ce qui bouge autour du LIGHT ON TRAIL Pierre-Percée\*\*\*.
+Inscriptions, infos course, coulisses de l'orga : tout ce qui bouge autour du LIGHT ON RUN Madine\*\*.
 
 À la une
 
 ### Ce qu'il faut retenir.
 
-29 septembre 2026 · C'est ouvert
+Inscriptions · 20 octobre
 
-#### Les inscriptions sont ouvertes
+#### Les inscriptions ouvrent le 20 octobre
 
-Depuis le 29 septembre, le 17 KM\*, le 37 KM\*\* et le 54 KM\*\*\* sont ouverts aux inscriptions. Les dossards sont limités : [inscriptions sur njuko](https://in.njuko.com/light-on-trail-pierre-percee1790497118122).
+Le 10 KM\* et le Semi-Marathon\*\* ouvrent aux inscriptions le mardi 20 octobre 2026 à 20h00, pour une clôture fixée au lundi 3 mai 2027 à 20h00. Tous les détails sur la page [Inscriptions](https://www.lightonrun.com/infos.html#inscriptions).
 
-4 avril 2027 · Rendez-vous
+Jeudi 6 mai 2027 · Rendez-vous
 
 #### Cap sur l'édition 2027
 
-Rendez-vous le dimanche 4 avril 2027 au bord du Lac de Pierre-Percée, avec le Village LIGHT ON ouvert dès le samedi. Programme, horaires et nouveautés à retrouver au fil des prochaines semaines.
+Rendez-vous le jeudi 6 mai 2027 au bord du Lac de Madine, avec le Village LIGHT ON. Programme, horaires et nouveautés à retrouver au fil des prochaines semaines.
 
 Bénévolat · Toute l'année
 
 #### Rejoindre le LIGHT ON Crew
 
-Ravitaillements, balisage, signaleurs, Village LIGHT ON : l'événement se construit avec ses bénévoles. L'appel aux bénévoles 2027 sera lancé ici, dans la newsletter et sur [nos réseaux](https://www.instagram.com/lighton_trail/). [Devenir bénévole](https://www.lightontrail.com/communaute.html#benevole).
+Ravitaillements, signaleurs, Village LIGHT ON : l'événement se construit avec ses bénévoles. L'appel aux bénévoles 2027 sera lancé ici, dans la newsletter et sur [nos réseaux](https://www.instagram.com/lighton_run/). [Devenir bénévole](https://www.lightonrun.com/communaute.html#benevole).
 
-La suite arrive au fil de la saison. Pour ne rien rater : la newsletter ou [Instagram](https://www.instagram.com/lighton_trail/).
+La suite arrive au fil de la saison. Pour ne rien rater : la newsletter ou [Instagram](https://www.instagram.com/lighton_run/).
 
 #### Restez dans la boucle.
 

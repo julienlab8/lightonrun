@@ -1,155 +1,120 @@
-# Parcours 17, 37 et 54 km · Trail de Pierre-Percée 2027
+# 10 km et Semi-Marathon** · LIGHT ON RUN Madine 2027
 
-> 17 KM* (530 m D+), 37 KM** (1250 m D+) et 54 KM*** (1900 m D+) autour du lac de Pierre-Percée : horaires, tarifs, ravitaillements, barrières horaires et traces GPX.
+> 10 KM* (ravitaillement km 5) et Semi-Marathon 21 km** (ravitaillements km 6, 12, 15) autour du Lac de Madine : horaires, tarifs et parcours, sans barrière horaire.
 
-Version Markdown de https://www.lightontrail.com/courses.html . La page HTML fait foi.
+Version Markdown de https://www.lightonrun.com/courses.html . La page HTML fait foi.
 
 ---
 
-## Les courses · 17, 37 et 54 KM - À vous de choisir.
+## Les courses · 10 et 21,1 KM - À vous de choisir.
 
-Le 17 KM\* pour découvrir, le 37 KM\*\* pour se dépasser, le 54 KM\*\*\* pour voir les choses en grand.
+Le 10 KM\* pour un premier dossard ou une reprise, le Semi-Marathon\*\* pour le grand tour du lac.
 
 Comparatif
 
-### Les trois formats en un coup d'œil.
+### Les deux formats en un coup d'œil.
 
-Dimanche 4 avril 2027, départ et arrivée au Village LIGHT ON à Celles-sur-Plaine. Même lac, trois façons d'en faire le tour.
+Jeudi 6 mai 2027, départ et arrivée au Lac de Madine (Nonsard-Lamarche). Même lac, deux façons d'en faire le tour, sans barrière horaire.
 
-Comparatif des parcours du LIGHT ON TRAIL Pierre-Percée\*\*\* 2027
+Comparatif des parcours du LIGHT ON RUN Madine\*\* 2027
 
-|  | 17 KM\* | 37 KM\*\* | 54 KM\*\*\* |
-|---|---|---|---|
-| Dénivelé positif | 530 m | 1250 m | 1900 m |
-| Départ | 9h30 | 8h30 | 7h30 |
-| Tarif | 19 € | 39 € | 49 € |
-| Inclus | Tee-shirt offert, médaille finisher | Tee-shirt offert, médaille finisher | Tee-shirt offert, médaille finisher |
-| Ravitaillements | 1 sur le parcours (au km 11,3) + arrivée | 2 sur le parcours (km 11 et km 26) + arrivée | 3 sur le parcours (km 11,3, 28,3 et 43,4) + arrivée |
-| Barrières horaires / Temps limites | Km 11,3 à 2h15 | Km 11,3 à 2h15, km 26,2 à 4h45 | Km 11,3 à 2h15, km 28,3 à 5h30, km 43,4 à 8h30, arrivée à 10h30 |
-| Pour qui ? | Premier trail, reprise, envie de paysage | Habitués du dénivelé et du terrain technique | Coureurs à l'aise sur les longues sorties |
-| Trace | [OpenRunner](https://www.openrunner.com/route-details/20906641) · [GPX](https://www.lightontrail.com/assets/gpx/trail-17km-pierre-percee-2026.gpx) | [OpenRunner](https://www.openrunner.com/route-details/23430555) · [GPX](https://www.lightontrail.com/assets/gpx/trail-37km-pierre-percee-2026.gpx) | [OpenRunner](https://www.openrunner.com/route-details/23435863) · [GPX](https://www.lightontrail.com/assets/gpx/trail-54km-pierre-percee-2026.gpx) |
-| UTMB Index |  |  |  |
+|  | 10 KM\* | Semi-Marathon\*\* |
+|---|---|---|
+| Distance | 10 km | 21,1 km |
+| Départ | 11h30 | 9h00 |
+| Retrait des dossards | Mer. 17h-19h & jeu. 7h30-11h00 | Mer. 17h-19h & jeu. 7h30-8h30 |
+| Tarif | 18 € jusqu'au 31/01, 19 € jusqu'au 31/03, 20 € ensuite | 23 € jusqu'au 31/01, 24 € jusqu'au 31/03, 25 € ensuite |
+| Catégorie minimale | Cadet(te) - né(e) en 2011 et avant | Junior - né(e) en 2009 et avant |
+| Ravitaillements | 1 liquide au km 5 + arrivée | 1 liquide au km 6, liquide et solide aux km 12 et 15 + arrivée |
+| Barrière horaire | Aucune | Aucune |
+| Pour qui ? | Premier dossard, reprise, envie de courir en famille | Coureurs qui veulent se tester sur la distance reine du bitume |
 
-### 17 KM\*
+### 10 KM\*
 
-Le bord du lac, quelques montées franches mais raisonnables, et tout le paysage. Parfait pour un premier trail ou une reprise.
+Un tour de lac à plat, un seul ravitaillement à mi-course et l'arrivée au Village LIGHT ON. Parfait pour un premier dossard ou une reprise.
 
-Dénivelé : 530 m D+
+Distance : 10 km
 
-Départ : 9h30
+Départ : 11h30
 
-Tarif : 19 €
+Tarif : dès 18 €
 
-[S'inscrire sur le 17 KM\*](https://in.njuko.com/light-on-trail-pierre-percee1790497118122) [Voir la trace · OpenRunner](https://www.openrunner.com/route-details/20906641) [Télécharger le GPX](https://www.lightontrail.com/assets/gpx/trail-17km-pierre-percee-2026.gpx)
-
-#### Pour qui ?
-
-Premier trail, coureurs sur route qui veulent goûter aux sentiers, ou envie de profiter du paysage sans y passer la journée.
-
-#### Ravitaillements
-
-Un point de ravitaillement sur le parcours et le ravitaillement d'arrivée au Village LIGHT ON. De quoi tenir sans matériel lourd.
-
-#### Barrière horaire
-
-Une seule, au km 11,3 à 2h15, pour la sécurité de tous. Horaire confirmé avant la course.
-
-Ils l'ont couru en 2026
-
-> Les paysages étaient magnifiques et le parcours vraiment adapté.
-
-**Augustin H.**
-
-> Un parcours avec beaucoup, beaucoup de singles comme je les aime ! Une belle alternance de montées et descentes ! BRAVO !
-
-**Bruno C.**
-
-> Très beau parcours le long du lac, tee-shirt offert, médaille…
-
-**Océane G.**
-
-Tracé interactif et profil altimétrique du 17 KM\*. Téléchargez le fichier GPX depuis OpenRunner.
-
-### 37 KM\*\*
-
-Crêtes, forêts profondes et passages techniques en bordure du lac. Ça grimpe, ça redescend… et ça recommence.
-
-Dénivelé : 1250 m D+
-
-Départ : 8h30
-
-Tarif : 39 €
-
-[S'inscrire sur le 37 KM\*\*](https://in.njuko.com/light-on-trail-pierre-percee1790497118122) [Voir la trace · OpenRunner](https://www.openrunner.com/route-details/23430555) [Télécharger le GPX](https://www.lightontrail.com/assets/gpx/trail-37km-pierre-percee-2026.gpx)
+[S'inscrire sur le 10 KM\*](https://www.lightonrun.com/infos.html#inscriptions)
 
 #### Pour qui ?
 
-Pour les habitués du trail qui aiment le dénivelé et le terrain technique. Exigeant, mais tout à fait faisable avec un entraînement régulier.
+Premier 10 km, coureurs réguliers ou envie de courir en famille. Parcours balisé, à plat, sans difficulté technique.
 
 #### Ravitaillements
 
-Deux points de ravitaillement liquide et solide, aux km 11 et km 26, plus le ravitaillement complet à l'arrivée au Village LIGHT ON. Détails et matériel sur la page Infos Pratiques.
+Un ravitaillement liquide au km 5, et le ravitaillement complet à l'arrivée. Le Running se court en semi-autonomie.
 
-#### Barrières horaires
+#### Pas de barrière horaire
 
-Barrière au km 11,3 à 2h15 et au km 26,2 à 4h45 (Col de la Chapelotte, au retour), pour la sécurité de tous. Horaires confirmés avant la course.
+Le 10 KM\* est un circuit balisé sans barrière horaire : vous courez à votre rythme.
 
-Ils l'ont couru en 2026
+Ils l'ont couru
 
-> Superbe parcours et tracé, technique mais pas trop… Excellente organisation et ambiance, bénévoles au top.
+> Très bonne ambiance, on se sent bien.
 
-**Franck N.**
+**Roman P.**
 
-> Les sentiers proposés étaient vraiment beaux avec une bonne variété. Mon impression générale est vraiment bonne. Bravo à vous et merci pour cette belle sortie trail.
+> J'ai adoré la motivation qu'un tel rassemblement peut nous donner (...) Je reviendrai en 2027, c'est sûr !
 
-**Laurent J.**
+**Jennifer F.**
 
-> Premier trail pour moi : bien organisé, informations claires et bénévoles avec le sourire. J'ai bien aimé l'ambiance d'un « petit » événement, merci !
+Tracé interactif et profil altimétrique du 10 KM\*. Téléchargez le fichier GPX depuis OpenRunner.
 
-**Audrey T.**
+### 21,1 KM\*\*
 
-Tracé interactif et profil altimétrique du 37 KM\*\*. Téléchargez le fichier GPX depuis OpenRunner.
+Le grand tour du Lac de Madine : trois ravitaillements sur le parcours, un départ matinal et le bitume du début à la fin.
 
-### 54 KM\*\*\*
+Distance : 21,1 km
 
-Le grand format sur les reliefs qui dominent le lac : crêtes, forêts profondes et le plus gros morceau de dénivelé de la journée. Pour ceux qui aiment les longues sorties… et les bons ravitaillements.
+Départ : 9h00
 
-Dénivelé : 1900 m D+
+Tarif : dès 23 €
 
-Départ : 7h30
-
-Tarif : 49 €
-
-[S'inscrire sur le 54 KM\*\*\*](https://in.njuko.com/light-on-trail-pierre-percee1790497118122) [Voir la trace · OpenRunner](https://www.openrunner.com/route-details/23435863) [Télécharger le GPX](https://www.lightontrail.com/assets/gpx/trail-54km-pierre-percee-2026.gpx)
+[S'inscrire sur le Semi-Marathon\*\*](https://www.lightonrun.com/infos.html#inscriptions)
 
 #### Pour qui ?
 
-Pour les coureurs à l'aise sur les longues sorties et le terrain technique. C'est le plus costaud des trois : mieux vaut arriver avec des kilomètres dans les jambes.
+Pour les coureurs à partir de la catégorie Junior qui veulent se tester sur la distance du semi-marathon, sur un parcours plat et balisé.
 
 #### Ravitaillements
 
-Trois ravitaillements liquides et solides sur le parcours, aux km 11,3, 28,3 et 43,4, plus le ravitaillement complet à l'arrivée au Village LIGHT ON. Détails et matériel obligatoire sur la page Infos Pratiques.
+Liquide au km 6, liquide et solide aux km 12 et 15, plus le ravitaillement complet à l'arrivée. Le Running se court en semi-autonomie.
 
-#### Départ & barrières
+#### Pas de barrière horaire
 
-Départ à 07:30 depuis le Village LIGHT ON, le premier des trois. Barrières aux km 11,3 (2h15, soit 09:45), km 28,3 (5h30, soit 13:00) et km 43,4 (8h30, soit 16:00) ; arrivée à boucler en 10h30 maximum, avant 18:00.
+Le Semi-Marathon\*\* est un circuit balisé sans barrière horaire : vous courez à votre rythme.
 
-Nouveau en 2027
+Ils l'ont couru
 
-Pas encore de retours sur le 54 KM\*\*\*. Les premiers, ce sera vous.
+> Une superbe organisation, les bénévoles au top (...) Une très belle expérience.
 
-Tracé interactif et profil altimétrique du 54 KM\*\*\*. Téléchargez le fichier GPX depuis OpenRunner.
+**Myriam N.**
+
+> Premier semi marathon parfait.
+
+**Claire T.**
+
+> Sinon c'est chouette, un peu boueux cette année, mdr.
+
+**Manon M.**
+
+Tracé interactif et profil altimétrique du Semi-Marathon\*\*. Téléchargez le fichier GPX depuis OpenRunner.
 
 Règlement
 
 #### Avant de prendre le départ
 
-Catégories d'âge, certificat ou PPS, matériel, barrières horaires, remboursement : tout est dans le règlement.
+Catégories d'âge, certificat ou PPS, matériel, remboursement : tout est dans le règlement.
 
-[Lire le règlement](https://www.lightontrail.com/reglement.html)
+[Lire le règlement](https://www.lightonrun.com/reglement.html)
 
 ### Vous avez choisi votre distance ?
 
-Les inscriptions sont ouvertes. Rendez-vous le 4 avril 2027.
+Inscriptions ouvertes le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
 
-[S'inscrire](https://in.njuko.com/light-on-trail-pierre-percee1790497118122)
+[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)

@@ -1,19 +1,22 @@
-# LIGHT ON TRAIL · Trail Pierre-Percée
+# LIGHT ON RUN · Madine**
 
-Site statique (HTML/CSS/JS, pas de build) du Trail Pierre-Percée, organisé par LIGHT ON.
+Site statique (HTML/CSS/JS, pas de build) du LIGHT ON RUN Madine, organisé par LIGHT ON.
 Aperçu local : `python3 -m http.server 8080` à la racine, puis http://localhost:8080.
 
 ## Conventions
 
-- Les épreuves s'appellent uniquement **17 KM\***, **37 KM\*\*** et **54 KM\*\*\*** (majuscules + étoiles). Pas de noms inventés (« L'Intégrale », « La Découverte »…).
-- Les étoiles indiquent le niveau du format : plus il y en a, plus le format est long. L'événement porte le nombre d'étoiles de son plus grand format : « Pierre-Percée\*\*\* », « PIERRE-PERCÉE\*\*\* 2027 ».
-- Ordre d'affichage : du plus petit au plus grand (17 → 37 → 54). Exception : programme et horaires restent chronologiques (le 54 part en premier).
-- L'organisateur est **LIGHT ON** (pas « LIGHT ON TRAIL »).
-- Ouverture des inscriptions : écrire « 29 septembre - 20h ».
-- Le village de l'événement s'appelle **Village LIGHT ON** (pour ne pas le confondre avec le village de Pierre-Percée ou de Celles-sur-Plaine).
-- Espaces du Village : **LIGHT ON Shop** (boutique), **LIGHT ON Kids** (château gonflable si météo favorable), **LIGHT OFF** (zone transats pour débrancher, validé par Magali). Buvette et restauration le dimanche uniquement.
+- Les épreuves s'appellent uniquement **10 KM\*** et **Semi-Marathon\*\*** (21,1 km) (majuscules + étoiles). Pas de noms inventés.
+- Les étoiles indiquent le niveau du format : plus il y en a, plus le format est long. L'événement porte le nombre d'étoiles de son plus grand format : « Madine\*\* », « MADINE\*\* 2027 ».
+- Ordre d'affichage : du plus petit au plus grand (10 → Semi). Seulement deux formats : pas de "grand format" façon trail, pas de notion d'« ultra » à surveiller (distance max 21,1 km).
+- L'organisateur est **LIGHT ON** (pas « LIGHT ON RUN »).
+- Date de l'édition 2027 : **jeudi 6 mai 2027**, Lac de Madine.
+- Clôture des inscriptions : **lundi 3 mai 2027, 20h00**.
+- Ouverture des inscriptions : **mardi 20 octobre 2026, 20h00**. Lien d'inscription njuko 2027 : **pas encore disponible**. Ne jamais citer la marque « njuko » sur le site RUN. Tant que le lien n'existe pas, tous les CTA « S'inscrire » renvoient vers `/infos.html#inscriptions`, avec un message indiquant la date d'ouverture (mardi 20 octobre 2026, 20h00) plutôt qu'un vague « arrive bientôt ». Mettre à jour dès réception du vrai lien le 20 octobre (ou après), et retirer les mentions de date d'ouverture une fois les inscriptions effectivement ouvertes.
+- Le village de l'événement s'appelle **Village LIGHT ON**.
+- Espaces du Village pour RUN : **LIGHT ON Shop** (boutique) uniquement. Pas de LIGHT ON Kids, pas de LIGHT OFF sur cette épreuve (confirmé, ne pas réintroduire sans validation).
+- Partenaires : pas de mur de logos sponsors nommés sur le site RUN. CTA générique « Devenir partenaire » (mailto) uniquement.
 - Contact : hello@lightontri.com est volontaire (seule adresse pour le moment).
-- Réseaux : Instagram @lighton_trail, Facebook, YouTube @lightontri, LinkedIn light-on-events. Hashtag officiel : **#LightOnTrail** (un seul, sans année).
+- Réseaux : Instagram **@lighton_run**, Facebook, YouTube @lightontri, LinkedIn light-on-events. Hashtag officiel : **#LightOnRun** (un seul, sans année).
 - Le menu et le pied de page sont dupliqués dans chaque page HTML : toute modification doit être répétée sur toutes les pages.
 
 ## DA LIGHT ON (pas encore de charte complète)
@@ -24,17 +27,16 @@ Aperçu local : `python3 -m http.server 8080` à la racine, puis http://localhos
 - Fichiers source : `~/Documents/Documents/MAZE Planner/LIGHT ON/2 - Light On/DA/` (SVG, PNG, AI).
 - Pas de crédit vidéaste à afficher pour les vidéos.
 
-## Direction visuelle du site (refonte du 30/09/2026)
+## Direction visuelle du site
 
 - Style « éditorial sombre » : angles droits, pas de cartes arrondies ni de halos, pas d'animations de fondu au défilement. Blocs séparés par des filets avec un trait orange d'accent.
-- Signatures de marque (à utiliser avec parcimonie) : crochets du picto (`.brk`, `.brk-in`), coupe en biais dans l'angle de l'éclair (`.cut`, une fois par page), repères GPS (`.geo`), éclair dans les boutons S'inscrire (`.btn-go`).
+- Signatures de marque (à utiliser avec parcimonie) : crochets du picto (`.brk`, `.brk-in`), coupe en biais dans l'angle de l'éclair (`.cut`, une fois par page), éclair dans les boutons S'inscrire (`.btn-go`).
 - Le double menu (barre d'accès rapide + menu principal) est à conserver tel quel.
 - Mettre en orange un mot clé des grands titres avec `<em>` (jamais d'italique).
-- Accueil : sections numérotées (`.idx` « 01 », « 02 »…) avec des grands titres de même taille ; « Les courses*** » (`.sec-top.lead`) est le titre le plus fort, les chiffres 17/37/54 sont en contour.
-- Sur mobile, varier les mises en page : `.swipe` (cartes qui défilent à l'horizontale), étapes en frise, chiffres incrustés dans les photos. Éviter les longues piles de blocs identiques.
-- Témoignages : uniquement de vrais retours de coureurs, cités mot pour mot, avec prénom + initiale et distance (`.v-lead`, `.v-card`, `.q-inline`). Le 54 KM*** est nouveau en 2027 : pas de témoignage.
+- Témoignages : uniquement de vrais retours de coureurs issus du Google Sheet officiel, cités mot pour mot, avec prénom + initiale et distance (`.v-lead`, `.v-card`, `.q-inline`). Ne garder que les avis réellement positifs.
 - Chaque page doit proposer un bouton S'inscrire bien visible ; un seul bouton plein par groupe de boutons.
-- Les styles de la refonte sont à la fin de `assets/css/site.css` ; changer le `?v=` des liens CSS/JS après chaque modification.
+- Vidéos : hébergées nativement (`<video controls>` dans `.media-frame`), pas d'embed YouTube/tiers sur les pages de contenu courant (médias officiels Drive).
+- Les styles de la refonte sont à la fin de `assets/css/site.css` ; changer le `?v=` des liens CSS/JS après chaque modification (convention actuelle : `?v=20271006b`).
 
 ## Ton rédactionnel LIGHT ON
 
@@ -54,57 +56,41 @@ LIGHT ON crée des événements sportifs outdoor : triathlon, trail, running.
 
 Sur le site web : garder cette personnalité, un cran plus sobre que sur Instagram. Clair, identifiable, vivant, sans blabla. Pas d'emojis.
 
-**À éviter** : « une aventure humaine inoubliable », « dépassez vos limites », « vibrez au rythme de… », « une expérience unique », « prêts à relever le défi ? », « passionnés de sport », et tout vocabulaire marketing interchangeable. **Ne jamais parler d'« ultra »** (ultra-trail, ultra-distance) : le terme désigne les courses à partir de 80 km, et le 54 KM\*\*\* n'en est pas une. Parler de grand format, de longue sortie, de grosse journée… Pas d'accumulation d'adjectifs ni de superlatifs (« exceptionnel », « incroyable », « incontournable ») : le contenu doit donner envie par lui-même.
+**À éviter** : « une aventure humaine inoubliable », « dépassez vos limites », « vibrez au rythme de… », « une expérience unique », « prêts à relever le défi ? », « passionnés de sport », et tout vocabulaire marketing interchangeable. Pas d'accumulation d'adjectifs ni de superlatifs (« exceptionnel », « incroyable », « incontournable ») : le contenu doit donner envie par lui-même.
 
-**Références** :
-- « 17, 37 ou 54 KM : trois façons de découvrir Pierre-Percée. Une seule règle : en profiter. »
-- « LIGHT ON — Le goût de l'effort, grandeur nature. »
+**Référence** : « LIGHT ON — Le goût de l'effort, grandeur nature. »
 
-**Aussi** : pas de tirets longs (— ou –), uniquement « - ». Pas le mot « fête ». Remplacer les promesses (« organisation soignée », « ravitaillements généreux ») par des preuves concrètes : paysage, singles, bénévoles, ravitos, lac, retours de coureurs. Le Lac de Pierre-Percée est « l'un des plus grands lacs de Lorraine » (pas « le plus grand »). Chaque grande section doit contenir au moins une phrase impossible à copier sur le site d'un autre trail. Exemples validés : « Du trail sérieux, sans se prendre au sérieux », « prévoyez le café avant », « Le reste, c'est vos jambes ».
+**Aussi** : pas de tirets longs (— ou –), uniquement « - ». Pas le mot « fête ». Remplacer les promesses (« organisation soignée », « ravitaillements généreux ») par des preuves concrètes : paysage, lac, bénévoles, ravitos, retours de coureurs. Chaque grande section doit contenir au moins une phrase impossible à copier sur le site d'une autre course sur route.
 
 **Test avant chaque texte** : cette phrase pourrait-elle appartenir à n'importe quelle course outdoor ? Si oui, la retravailler. Une bonne phrase LIGHT ON pourrait être dite à voix haute par quelqu'un de l'équipe. Entre plusieurs formulations, choisir la plus courte, la plus naturelle et la moins publicitaire.
 
-Ne jamais modifier les informations pratiques (horaires, distances, dénivelés, ravitaillements, barrières horaires, tarifs) sans validation.
+Ne jamais modifier les informations pratiques (horaires, distances, ravitaillements, barrières horaires, tarifs) sans validation, et ne jamais inventer de donnée absente des sources officielles (site lightonrun.com, page foulées de Madine, règlement PDF 2027, Drive photos/vidéos/logos, Google Sheet d'avis). Signaler toute incohérence plutôt que de la combler par une hypothèse.
 
-## SEO (mis en place le 30/09/2026)
+## Géographie (à vérifier avant publication)
 
-- Chaque page a un `<title>`, une meta description, une canonical absolue (`https://www.lightontrail.com/...`) et un Open Graph complet : à créer pour toute nouvelle page, et l'ajouter à `sitemap.xml`.
+- Village LIGHT ON au Lac de Madine, départ à **Nonsard-Lamarche (55210, Meuse)**, entre **Verdun et Toul**, dans le **Parc naturel régional de Lorraine**.
+- Coordonnées GPS déjà présentes dans le JSON-LD de `index.html` (48.93, 5.73) mais **non vérifiées indépendamment auprès d'une source officielle** (règlement PDF, Drive, ou Julien). À confirmer avant publication plutôt qu'à prendre pour acquises.
+
+## SEO
+
+- Chaque page a un `<title>`, une meta description, une canonical absolue (`https://www.lightonrun.com/...`) et un Open Graph complet : à créer pour toute nouvelle page, et l'ajouter à `sitemap.xml`.
 - Le sur-titre de chaque page fait partie du H1 (`<h1><span class="eyebrow page-kicker">…</span> …</h1>`).
 - Données structurées JSON-LD : événement 2027 + organisation sur l'accueil, FAQ sur Infos. Les mettre à jour si une date, un horaire, un tarif ou le lieu change. Jamais d'avis/étoiles à partir des témoignages.
-- Photos : fichiers au nom descriptif, versions WebP dans `assets/img/webp/` (`nom-640.webp`, `nom-1280.webp`…, générées avec Pillow/libwebp, qualité 74) via `<picture>`, avec `width`/`height`. Toute nouvelle photo suit ce schéma. **Ne pas utiliser l'AVIF de macOS (ImageIO)** : Chrome l'affiche en gris uni.
-- Liens vers l'accueil : `./` (pas `index.html`). `404.html` utilise des chemins absolus (`/assets/...`).
-- Vidéos : une version légère `-mobile.mp4` (960 px) servie sous 700 px.
-- Géographie exacte (vérifiée le 01/10/2026) : Village LIGHT ON à la Base de Loisirs de Celles-sur-Plaine (Vosges, 88), au bord du **lac de la Plaine** ; le **lac de Pierre-Percée** est juste au nord, **en Meurthe-et-Moselle** (3e plus grand lac artificiel de Lorraine). Départ GPS : 48,45° N, 6,94° E, 308 m. Trajets : ~1h10 de Nancy, ~1h20 de Strasbourg, ~1h d'Épinal. Pierre-Percée Pays des Lacs (paysdeslacs.com) n'est pas un office de tourisme : c'est le syndicat qui gère la base de loisirs, le camping et les gîtes.
+- Photos : fichiers au nom descriptif, versions WebP dans `assets/img/webp/` (`nom-640.webp`, `nom-1280.webp`, `nom-1920.webp`, générées avec Pillow/libwebp, qualité 74) via `<picture>`, avec `width`/`height`. Toute nouvelle photo suit ce schéma. **Ne pas utiliser l'AVIF de macOS (ImageIO)** : Chrome l'affiche en gris uni.
+- Liens vers l'accueil : `/` (chemins absolus partout sur ce site, y compris `404.html`).
+- Vidéos : natives, pas de JS tiers (`.media-frame` + `<video controls>`), fichiers servis depuis `assets/video/` (sources officielles Drive uniquement).
 
-## Agents IA : llms.txt, versions Markdown, robots (01/10/2026)
+## À vérifier / signaler avant mise en ligne
 
-- `llms.txt` (racine) suit la proposition llms.txt v2 (llmstxt.org, août 2026) : H1, résumé en citation, faits clés, liens vers les pages. **Rédigé à la main** : le mettre à jour si une date, un horaire, un tarif, une barrière ou le lieu change (comme le JSON-LD). Uniquement des faits du site, pas de mots-clés.
-- Ce n'est pas un standard reconnu par tous ni un facteur de classement : Google Search ne s'en sert pas. Il sert aux agents et assistants qui le lisent.
-- Versions Markdown (`index.md`, `courses.md`, `evenement.md`, `infos.md`, `reglement.md`, `resultats.md`, `communaute.md`, `actualites.md`) : **générées** depuis le HTML par `python3 tools/build_md.py`. Relancer le script après toute modification d'une de ces pages ; ne jamais les éditer à la main.
-- Chaque page HTML pointe vers sa version Markdown (`rel="alternate" type="text/markdown"`) et vers `llms.txt` (`rel="describedby"`). Les `.md` renvoient un en-tête `Link: rel="canonical"` vers la page HTML (`.htaccess`) : la page HTML reste l'adresse officielle pour Google.
-- `robots.txt` : moteurs de recherche, robots de recherche/citation IA (OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Perplexity-User, MistralAI-User) et robots d'entraînement (GPTBot, ClaudeBot, Google-Extended, Applebot-Extended, CCBot, meta-externalagent) sont autorisés, dans des groupes séparés. Pour refuser l'entraînement seulement : `Disallow: /` dans le groupe « entraînement ».
-- `CLAUDE.md`, `README.md` et `tools/` ne sont pas servis par le site (`.htaccess`).
-
-## À transmettre à Julien (message de Magali, 30/09/2026)
-
-Julien, voici ce qui a été fait sur le site pendant que tu n'étais pas là, et ce qu'il reste à faire de ton côté. **Claude : si c'est Julien qui travaille sur le projet, présente-lui ce message en début de session**, puis supprime cette section une fois qu'il l'a lu et que Magali est d'accord.
-
-**Ce qui a été fait (avec Magali)**
-- Refonte « éditorial sombre » de tout le site, textes réécrits dans le ton LIGHT ON, témoignages de coureurs 2026, mobile retravaillé.
-- Le village s'appelle maintenant « Village LIGHT ON » partout.
-- Nouvelles pages : `reglement.html` (règlement 2027), `resultats.html` (classements 2026, puis 2027), `mentions-legales.html`, `404.html`.
-- SEO : canonical, titres et descriptions, Open Graph, données structurées (événement 2027 avec les 3 courses, organisation, FAQ), robots.txt, sitemap.xml, redirections dans `.htaccess` (sans www → www, /index.html → /), tableau comparatif des courses, bloc « L'essentiel » sur l'accueil.
-- Performance : photos renommées et déclinées en WebP, polices en WOFF2, vidéos allégées pour mobile.
-- Agents IA : `llms.txt`, versions Markdown des pages (générées par `tools/build_md.py`), `robots.txt` détaillé par type de robot IA.
-- Épingles : « prévoir 4 épingles à nourrice ou un porte-dossard » (sans « obligatoire »).
-
-**À faire / à confirmer par Julien**
-1. ~~Confirmer l'hébergeur Hostinger et « directeur de la publication : Julien Labdant »~~ - confirmé par Julien (03/10/2026).
-2. ~~Vérifier le règlement 2027 (catégorie Espoir sur le 54, années de naissance 2009/2007, dates limites au 1er avril 2027)~~ - vérifié par Julien (03/10/2026).
-3. GPX du 37 KM** et du 54 KM*** reçus et mis en ligne (bouton « Télécharger le GPX » sur `courses.html`, fichiers dans `assets/gpx/`). Reste à donner les barrières horaires du 54 dès qu'elles sont fixées.
-4. ~~Google Search Console : créer la propriété « domaine » lightontrail.com et y déclarer le sitemap~~ - fait par Julien (03/10/2026).
-5. ~~Désactiver GitHub Pages (julienlab8.github.io/lightontrail)~~ - déjà désactivé : l'API GitHub renvoie `has_pages: false` et la page 404 (vérifié le 03/10/2026).
-6. Inscrire la course sur les calendriers : Kikourou, Jogging-International, Trail-Passion, Betrail ; regarder l'éligibilité ITRA du 54.
-7. Demander un lien vers le site à l'office de tourisme du Pays des Lacs et aux partenaires.
-8. Le 4 avril 2027 au soir : mettre les résultats 2027 sur `resultats.html`. Si les dossards sont épuisés, passer `InStock` à `SoldOut` dans le JSON-LD de `index.html`.
-9. Ménage sur Hostinger : d'anciennes photos supprimées ou renommées du dépôt étaient restées sur le serveur. Au 03/10/2026, 11 des 12 fichiers listés renvoient déjà 404 ; **il ne reste que `lieu-lac.jpg` (HTTP 200) à supprimer** dans `public_html/assets/img/` (gestionnaire de fichiers Hostinger ou FTP). Aucune page du site n'y renvoie. Ne pas toucher aux autres fichiers de ce dossier. Pour mémoire, la liste initiale : `course-17.jpg`, `course-37.jpg`, `course-54.jpg`, `gallery-02.jpg`, `gallery-08.jpg`, `gallery-09.jpg`, `gallery-12.jpg`, `infos-dossard.jpg`, `infos-ravito.jpg`, `lieu-lac.jpg`, `og-image.jpg`, `programme-depart.jpg`.
+1. ~~**Photo hero de `resultats.html`** (`groupe-finishers-medailles-madine.jpg`) : un dossard visible semble indiquer « 37 KM »~~ - fait : photo remplacée (15/10/2026) par une sélection du dossier Drive officiel `LIGHT ON RUN Madine - Photos`. 14 photos au total remplacées sur le site (voir liste ci-dessous). Une photo du même dossier (nommée `LightOnTriMadine19.09.26-819.jpg`) a été écartée après vérification du dossard (« RUN - 7 KM », épreuve LIGHT ON TRI et non RUN Madine) - à garder en tête si d'autres photos de ce dossier Drive sont réutilisées un jour : toujours vérifier le texte du dossard avant publication.
+   - Photos remplacées : `depart-arche-light-on-madine.jpg`, `village-arche-arrivee-madine.jpg`, `groupe-finishers-medailles-madine.jpg`, `ligne-arrivee-madine-matin.jpg`, `selfie-bord-lac-madine.jpg`, `coureurs-sentier-bord-lac-madine.jpg`, `peloton-depart-foulees-madine.jpg`, `arrivee-sourires-coureuses-madine.jpg`, `hero-courses.jpg`, `hero-actualites.jpg`, `hero-evenement.jpg`, `hero-infos.jpg`, `hero-communaute.jpg`, `hero-medias.jpg`.
+   - Non remplacées faute de photo correspondante dans ce dossier Drive (aucune photo de bénévole, ravitaillement ou podium dans la sélection) : `arrivee-duo-coureurs-madine.jpg`, `benevole-encouragements-coureur-madine.jpg`, `ravitaillement-benevoles-madine.jpg`, `podium-femmes-light-on-run-madine.jpg`.
+2. **Coordonnées GPS** du départ (48.93, 5.73 dans le JSON-LD de `index.html`) à confirmer auprès d'une source officielle - non revérifiées indépendamment.
+3. **Lien d'inscription njuko 2027** : ouverture annoncée pour le **mardi 20 octobre 2026, 20h00** (le site l'indique désormais à la place du vague « arrive bientôt »). À brancher dès réception du vrai lien, sur tous les CTA actuellement en placeholder (`/infos.html#inscriptions`), et retirer les mentions de date d'ouverture une fois les inscriptions ouvertes.
+4. **`maquette-langues.html`** : fichier de mockup orphelin, contient encore l'ancien numéro de téléphone TRAIL (`03 74 47 56 52`). Hors scope du site live, à supprimer ou corriger si jamais réutilisé.
+5. **Fichiers TRAIL orphelins** à supprimer une fois confirmé non réutilisés : `assets/gpx/*.gpx`, `assets/docs/resultats-17km-2026.pdf`, `assets/docs/resultats-37km-2026.pdf`, `assets/js/resultats-17km-2026.js`, `assets/js/resultats-37km-2026.js`. Sort de `assets/js/resultats-table.js` à trancher (probablement réutilisable en 2027, actuellement inutilisé).
+6. `assets/partners/*.png/svg` : anciens logos sponsors TRAIL, à vérifier/supprimer puisque RUN n'affiche pas de mur de partenaires nommés.
+7. Validité de l'URL d'action du formulaire newsletter Brevo pour la liste RUN (réutilisée depuis TRAIL, jamais revérifiée indépendamment).
+8. ~~`sitemap.xml` ne liste actuellement que les pages FR (pas d'alternates hreflang `/en/`, `/de/`)~~ - fait : alternates hreflang fr/en/de ajoutés dans `sitemap.xml` pour les 9 pages FR.
+9. ~~`/en/` et `/de/` sont encore des copies non adaptées du site TRAIL~~ - fait : `/en/` et `/de/` réécrits pour RUN Madine ; `assets/search-index-en.json`/`search-index-de.json` régénérés via `tools/build_md.py`.
+10. **Lien Facebook non confirmé** : toutes les pages FR pointent maintenant vers `facebook.com/lightonrun` (vanity URL cohérente avec `@lighton_run` sur Instagram), mais 4 pages (`resultats.html`, `actualites.html`, `mentions-legales.html`, `404.html`) pointaient initialement vers `facebook.com/profile.php?id=61581806080267` - standardisé sur la majorité (7 pages) sans confirmation officielle. À vérifier avec Julien avant publication : lequel des deux est la vraie page Facebook LIGHT ON RUN ?
