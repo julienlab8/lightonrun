@@ -10,7 +10,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 ## Light On Run Madine\*\*
 
-[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions) [▶ Voir les photos](https://www.lightonrun.com/medias.html)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [▶ Voir les photos](https://www.lightonrun.com/medias.html)
 
 10 · 21,1 KMInscriptions ouvertes le 20 octobre 2026
 
@@ -81,7 +81,7 @@ Voir le parcours
 
 Ce sont leurs mots, pas les nôtres. **Les prochains, c'est vous qui les écrirez.**
 
-[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 
 ### Le goût de l'effort, grandeur nature.
 
@@ -139,7 +139,7 @@ Rendez-vous le jeudi 6 mai 2027 au bord du Lac de Madine, avec le Village LIGHT 
 
 Le 10 KM\* et le Semi-Marathon\*\* vous attendent. Rendez-vous mardi 20 octobre 2026 à 20h00 pour réserver votre dossard.
 
-[Voir la page](https://www.lightonrun.com/infos.html#inscriptions)
+[Voir la page](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 
 Toute l'année
 
@@ -153,4 +153,4 @@ Jeudi 6 mai 2027 · 9h00
 
 Choisissez votre distance. Inscriptions ouvertes le mardi 20 octobre 2026, 20h00.
 
-[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions) [Comparer les distances](https://www.lightonrun.com/courses.html)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [Comparer les distances](https://www.lightonrun.com/courses.html)

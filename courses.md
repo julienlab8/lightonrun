@@ -39,7 +39,7 @@ Départ : 11h30
 
 Tarif : dès 18 €
 
-[S'inscrire sur le 10 KM\*](https://www.lightonrun.com/infos.html#inscriptions)
+[S'inscrire sur le 10 KM\*](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 
 #### Pour qui ?
 
@@ -75,7 +75,7 @@ Départ : 9h00
 
 Tarif : dès 23 €
 
-[S'inscrire sur le Semi-Marathon\*\*](https://www.lightonrun.com/infos.html#inscriptions)
+[S'inscrire sur le Semi-Marathon\*\*](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 
 #### Pour qui ?
 
@@ -117,4 +117,4 @@ Catégories d'âge, certificat ou PPS, matériel, remboursement : tout est dans
 
 Inscriptions ouvertes le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
 
-[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)

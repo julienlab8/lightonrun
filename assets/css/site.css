@@ -1343,12 +1343,16 @@
   .res-table .c-frank { width: 56px; color: var(--muted); }
   /* colonne de classement principale (générale sans filtre, filtrée sinon) : en orange */
   .res-table tbody td.is-primary { color: var(--accent); font-weight: 700; }
-  .res-table .c-clt, .res-table .c-frank, .res-table .c-moy, .res-table .c-tps { text-align: right; white-space: nowrap; }
-  .res-table thead .c-clt, .res-table thead .c-frank, .res-table thead .c-moy, .res-table thead .c-tps { text-align: right; }
+  .res-table .c-clt, .res-table .c-frank, .res-table .c-moy, .res-table .c-tps, .res-table .c-doss, .res-table .c-cltcat, .res-table .c-reel { text-align: right; white-space: nowrap; }
+  .res-table thead .c-clt, .res-table thead .c-frank, .res-table thead .c-moy, .res-table thead .c-tps, .res-table thead .c-doss, .res-table thead .c-cltcat, .res-table thead .c-reel { text-align: right; }
   .res-table .c-tps { font-weight: 700; }
+  .res-table .c-doss, .res-table .c-cltcat, .res-table .c-reel, .res-table .c-sexe { color: var(--muted); }
   .res-table .rn { display: block; font-weight: 600; }
   .res-table .rl { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }
   .cat-chip { display: inline-block; border: 1px solid var(--line-2); padding: 3px 8px; font-size: 11px; font-weight: 700; letter-spacing: .04em; color: var(--muted); white-space: nowrap; }
+
+  .res-reset { appearance: none; background: transparent; border: 1px solid var(--line-2); color: var(--muted); padding: 10px 16px; font-family: var(--font); font-weight: 700; font-size: 12px; letter-spacing: .04em; text-transform: uppercase; cursor: pointer; transition: border-color .15s, color .15s; }
+  .res-reset:hover { border-color: var(--accent); color: var(--accent); }
 
   .res-pager { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 18px; }
   .res-page { appearance: none; background: transparent; border: 1px solid var(--line-2); color: var(--text); min-width: 38px; padding: 8px 10px; font-family: var(--font); font-size: 13px; font-weight: 700; cursor: pointer; transition: border-color .15s, color .15s; }
@@ -1358,10 +1362,12 @@
   .res-gap { color: var(--muted); padding: 8px 4px; }
 
   @media (max-width: 640px) {
-    .res-table .c-moy, .res-table thead .c-moy { display: none; }
+    .res-table .c-moy, .res-table thead .c-moy, .res-table .c-sexe, .res-table thead .c-sexe, .res-table .c-reel, .res-table thead .c-reel { display: none; }
     .res-table thead th, .res-table tbody td { padding: 10px 8px; }
     .res-seg-btn { padding: 9px 12px; font-size: 12px; }
   }
+
+  .podium-list .pod-cat { display: block; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 2px; }
 
   /* ===== Recherche globale - ajout 03/10/2026 ===== */
   /* Bouton loupe dans le menu (présent sur toutes les pages) */
@@ -1417,3 +1423,7 @@
     .search-field { font-size: 16px; }
   }
   @media (prefers-reduced-motion: reduce) { .search-backdrop { backdrop-filter: none; } }
+
+.archive-year summary { font-family: var(--display); font-weight: 700; font-size: 20px; }
+.archive-year .archive-body { padding: 0 0 36px; }
+.archive-year:last-of-type { border-bottom: 1px solid var(--line-2); }

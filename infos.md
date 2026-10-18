@@ -160,10 +160,10 @@ Des chaussures de running sont conseillées. Pour le dossard : prévoyez 4 épi
 
 #### Une autre question ?
 
-Écrivez-nous à [hello@lightontri.com](mailto:hello@lightontri.com) ou au [06 37 08 97 57](tel:+33637089757). On vous répond.
+Écrivez-nous à [hello@lightontri.com](mailto:hello@lightontri.com) ou au [03 74 47 56 52](tel:+33374475652). On vous répond.
 
 ### Une question avant de vous inscrire ?
 
 Écrivez-nous, on répond. Inscriptions ouvertes le mardi 20 octobre 2026, 20h00.
 
-[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions) [Nous écrire](https://www.lightonrun.com/communaute.html#contact)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [Nous écrire](https://www.lightonrun.com/communaute.html#contact)

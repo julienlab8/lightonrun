@@ -15,6 +15,7 @@
       category: 'Catégorie', allCats: 'Toutes',
       sort: 'Trier', sortClt: 'Classement', sortTime: 'Temps', sortCat: 'Catégorie', sortName: 'Nom (A→Z)',
       cltF: 'Clt F', cltH: 'Clt H', cltCat: 'Clt ', clt: 'Clt', runner: 'Coureur', cat: 'Cat.', avg: 'Moy.', time: 'Temps',
+      bib: 'Dossard', sexeCol: 'Sexe', cltCatCol: 'Clt cat.', realTime: 'Temps réel', reset: 'Réinitialiser les filtres',
       one: ' coureur', many: ' coureurs', shown: ' affichés', none: 'Aucun coureur ne correspond à cette recherche.'
     },
     en: {
@@ -23,6 +24,7 @@
       category: 'Category', allCats: 'All',
       sort: 'Sort', sortClt: 'Ranking', sortTime: 'Time', sortCat: 'Category', sortName: 'Name (A→Z)',
       cltF: 'Rank W', cltH: 'Rank M', cltCat: 'Rank ', clt: 'Rank', runner: 'Runner', cat: 'Cat.', avg: 'Avg.', time: 'Time',
+      bib: 'Bib', sexeCol: 'Gender', cltCatCol: 'Cat. rank', realTime: 'Gun time', reset: 'Reset filters',
       one: ' runner', many: ' runners', shown: ' shown', none: 'No runner matches this search.'
     },
     de: {
@@ -31,6 +33,7 @@
       category: 'Kategorie', allCats: 'Alle',
       sort: 'Sortieren', sortClt: 'Platzierung', sortTime: 'Zeit', sortCat: 'Kategorie', sortName: 'Name (A→Z)',
       cltF: 'Platz F', cltH: 'Platz M', cltCat: 'Platz ', clt: 'Platz', runner: 'Läufer', cat: 'Kat.', avg: 'Ø', time: 'Zeit',
+      bib: 'Startnummer', sexeCol: 'Geschlecht', cltCatCol: 'Kat.-Platz', realTime: 'Bruttozeit', reset: 'Filter zurücksetzen',
       one: ' Läufer', many: ' Läufer', shown: ' angezeigt', none: 'Kein Läufer entspricht dieser Suche.'
     }
   };
@@ -138,6 +141,7 @@
     dd.appendChild(panel);
     wrap.appendChild(lab);
     wrap.appendChild(dd);
+    wrap.refresh = function () { setCurrent(getCurrent()); };
     return wrap;
   }
 
@@ -214,10 +218,21 @@
       function () { return state.sort; },
       function (v) { state.sort = v; state.page = 1; render(); });
 
+    var resetBtn = el('button', 'res-reset', esc(T.reset));
+    resetBtn.type = 'button';
+    resetBtn.addEventListener('click', function () {
+      state.sexe = 'all'; state.cat = 'all'; state.q = ''; state.sort = 'clt'; state.page = 1;
+      input.value = '';
+      catWrap.refresh();
+      sortWrap.refresh();
+      render();
+    });
+
     toolbar.appendChild(seg);
     toolbar.appendChild(search);
     toolbar.appendChild(catWrap);
     toolbar.appendChild(sortWrap);
+    toolbar.appendChild(resetBtn);
 
     var count = el('p', 'res-count');
     count.setAttribute('aria-live', 'polite');
@@ -276,9 +291,13 @@
           ? '<th scope="col" class="c-frank">' + esc(frankLabel) + '</th><th scope="col" class="c-clt">' + T.clt + '</th>'
           : '<th scope="col" class="c-clt">' + T.clt + '</th>') +
         '<th scope="col" class="c-nom">' + T.runner + '</th>' +
+        '<th scope="col" class="c-doss">' + T.bib + '</th>' +
+        '<th scope="col" class="c-sexe">' + T.sexeCol + '</th>' +
         '<th scope="col" class="c-cat">' + T.cat + '</th>' +
-        '<th scope="col" class="c-moy">' + T.avg + '</th>' +
+        '<th scope="col" class="c-cltcat">' + T.cltCatCol + '</th>' +
         '<th scope="col" class="c-tps">' + T.time + '</th>' +
+        '<th scope="col" class="c-reel">' + T.realTime + '</th>' +
+        '<th scope="col" class="c-moy">' + T.avg + '</th>' +
         '</tr>';
 
       var rows = compute();
@@ -299,9 +318,13 @@
             : '<td class="c-clt mono is-primary">' + r.clt + '</td>') +
           '<td class="c-nom"><span class="rn">' + esc(r.nom) + '</span>' +
           (r.lieu ? '<span class="rl">' + esc(r.lieu) + '</span>' : '') + '</td>' +
+          '<td class="c-doss mono">' + esc(r.doss) + '</td>' +
+          '<td class="c-sexe">' + (r.sexe === 'F' ? T.women : T.men) + '</td>' +
           '<td class="c-cat"><span class="cat-chip">' + esc(r.cat) + '</span></td>' +
-          '<td class="c-moy mono">' + (r.moy ? r.moy.toFixed(2) : '') + '</td>' +
+          '<td class="c-cltcat mono">' + r.cltCat + '</td>' +
           '<td class="c-tps mono">' + esc(r.temps) + '</td>' +
+          '<td class="c-reel mono">' + (r.tempsReel ? esc(r.tempsReel) : '—') + '</td>' +
+          '<td class="c-moy mono">' + (r.moy ? r.moy.toFixed(2) : '') + '</td>' +
           '</tr>';
       }).join('');
 
@@ -336,9 +359,33 @@
     render();
   }
 
+  /* Bascule entre courses (ex. 10 KM* / Semi-Marathon**) : un groupe
+     [data-tabs] contient des boutons .res-tab et des panneaux [role="tabpanel"]. */
+  function initTabs() {
+    var groups = document.querySelectorAll('[data-tabs]');
+    for (var g = 0; g < groups.length; g++) {
+      (function (group) {
+        var tabs = group.querySelectorAll('.res-tab');
+        var panels = group.querySelectorAll('[role="tabpanel"]');
+        for (var i = 0; i < tabs.length; i++) {
+          tabs[i].addEventListener('click', function () {
+            var target = this.getAttribute('aria-controls');
+            for (var t = 0; t < tabs.length; t++) {
+              tabs[t].setAttribute('aria-selected', tabs[t] === this ? 'true' : 'false');
+            }
+            for (var p = 0; p < panels.length; p++) {
+              panels[p].hidden = panels[p].id !== target;
+            }
+          });
+        }
+      })(groups[g]);
+    }
+  }
+
   function boot() {
     var roots = document.querySelectorAll('[data-results]');
     for (var i = 0; i < roots.length; i++) init(roots[i]);
+    initTabs();
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
   else boot();

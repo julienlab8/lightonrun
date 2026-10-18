@@ -110,4 +110,4 @@ Le Lac de Madine se trouve en Meuse, entre Verdun et Toul. Accès, stationnement
 
 Inscriptions ouvertes le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
 
-[S'inscrire](https://www.lightonrun.com/infos.html#inscriptions)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
