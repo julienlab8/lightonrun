@@ -1,6 +1,6 @@
 # LIGHT ON RUN Madine** · 10 km et semi-marathon · 6 mai 2027
 
-> 10 km ou semi-marathon (21,1 km) autour du Lac de Madine : jeudi 6 mai 2027, départ de Nonsard-Lamarche dans la Meuse. Inscriptions ouvertes le 20 octobre 2026.
+> 10 km ou semi-marathon (21,1 km) autour du Lac de Madine : jeudi 6 mai 2027, départ de Nonsard-Lamarche dans la Meuse. Ouverture des inscriptions le 20 octobre 2026, 20h.
 
 Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
@@ -12,7 +12,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [▶ Voir les photos](https://www.lightonrun.com/medias.html)
 
-10 · 21,1 KMInscriptions ouvertes le 20 octobre 2026
+10 · 21,1 KMInscriptions le 20 octobre - 20h
 
 10 ou 21,1 KM : deux façons de faire le tour du Lac de Madine. Une seule règle : le finir.
 
@@ -22,7 +22,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 - **Lieu** : Lac de Madine. Départ et arrivée à Nonsard-Lamarche (Meuse)
 - **Distances** : 10 KM\* · Semi-Marathon\*\*. 21,1 km, parcours à plat
 - **Départs** : 9h00 · 11h30. Le semi part en premier, le 10 km à 11h30
-- **Tarifs** : À partir de 18 € · 23 €. Tarifs selon date d'inscription. Inscriptions ouvertes le 20 octobre 2026
+- **Tarifs** : À partir de 18 € · 23 €. Tarifs selon date d'inscription. Ouverture des inscriptions le 20 octobre 2026, 20h
 - **Organisation** : LIGHT ON. Édition 2026 : près de 2 800 coureurs au départ
 
 **01** Un lac, deux distances
@@ -135,7 +135,7 @@ Rendez-vous le jeudi 6 mai 2027 au bord du Lac de Madine, avec le Village LIGHT 
 
 20 oct. 2026
 
-#### Inscriptions ouvertes le 20 octobre
+#### Ouverture des inscriptions le 20 octobre
 
 Le 10 KM\* et le Semi-Marathon\*\* vous attendent. Rendez-vous mardi 20 octobre 2026 à 20h00 pour réserver votre dossard.
 
@@ -151,6 +151,6 @@ Jeudi 6 mai 2027 · 9h00
 
 ### On se voit sur la ligne de départ ?
 
-Choisissez votre distance. Inscriptions ouvertes le mardi 20 octobre 2026, 20h00.
+Choisissez votre distance. Ouverture des inscriptions le mardi 20 octobre 2026, 20h00.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [Comparer les distances](https://www.lightonrun.com/courses.html)

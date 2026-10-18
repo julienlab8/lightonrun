@@ -164,6 +164,6 @@ Des chaussures de running sont conseillées. Pour le dossard : prévoyez 4 épi
 
 ### Une question avant de vous inscrire ?
 
-Écrivez-nous, on répond. Inscriptions ouvertes le mardi 20 octobre 2026, 20h00.
+Écrivez-nous, on répond. Ouverture des inscriptions le mardi 20 octobre 2026, 20h00.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [Nous écrire](https://www.lightonrun.com/communaute.html#contact)
