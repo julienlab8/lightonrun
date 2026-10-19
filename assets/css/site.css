@@ -20,9 +20,9 @@
     --accent-2:  #f3795b;   /* hover */
     --on-accent: #232323;   /* noir sur orange */
 
-    --r-card: 10px;          /* radius doux — entre-deux */
-    --r-pill: 8px;           /* buttons: arrondi léger */
-    --r-input: 8px;          /* inputs: arrondi léger */
+    --r-card: 0px;           /* angles droits (refonte « éditorial sombre », cf. couche de fin de fichier) */
+    --r-pill: 0px;
+    --r-input: 0px;
 
     --maxw: 1280px;
     --ease: cubic-bezier(0.16, 1, 0.3, 1);
@@ -297,22 +297,10 @@
   @media (max-width: 960px) { .courses-grid.cols-3 { grid-template-columns: 1fr; max-width: 560px; } }
   @media (max-width: 860px) { .courses-grid, .courses-grid.cols-detail { grid-template-columns: 1fr; } }
 
-  /* ============ FILM ============ */
-  .film-frame, .media-frame { position: relative; margin-top: 40px; border-radius: var(--r-card); overflow: hidden;
+  /* ============ MEDIA ============ */
+  .media-frame { position: relative; margin-top: 40px; border-radius: var(--r-card); overflow: hidden;
     border: 1px solid var(--line); aspect-ratio: 16/9; background: #000; }
   .media-frame video { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .film-video { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .film-frame::before { content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none;
-    background: linear-gradient(180deg, rgba(35,35,35,.12), rgba(35,35,35,.5)); transition: opacity .4s var(--ease); }
-  .film-play { position: absolute; inset: 0; margin: auto; z-index: 2; width: 92px; height: 92px;
-    border: none; border-radius: var(--r-pill); cursor: pointer; display: grid; place-items: center;
-    background: var(--accent); color: var(--on-accent); box-shadow: 0 14px 44px rgba(0,0,0,.45);
-    transition: transform .25s var(--ease), background .25s var(--ease), opacity .35s var(--ease); }
-  .film-play:hover { transform: scale(1.06); background: var(--accent-2); }
-  .film-play:active { transform: scale(.97); }
-  .film-play svg { width: 34px; height: 34px; margin-left: 5px; }
-  .film-frame.playing::before, .film-frame.playing .film-play { opacity: 0; pointer-events: none; }
-  @media (max-width: 640px) { .film-play { width: 70px; height: 70px; } .film-play svg { width: 27px; height: 27px; } }
 
   /* ============ TIMELINE ============ */
   .tl-head { max-width: 60ch; }
@@ -710,8 +698,8 @@
 
   /* photos : angles droits, pas de cadre */
   .course, .course-img, .photo-grid figure, .photo-strip figure, .wide-photo, .sec-photo,
-  .film-frame, .media-frame, .route-embed iframe, .elevation, .nature-visual, .hero-visual, .partner { border-radius: 0 !important; }
-  .photo-grid figure, .photo-strip figure, .wide-photo, .sec-photo, .film-frame, .media-frame { border: 0; }
+  .media-frame, .route-embed iframe, .elevation, .nature-visual, .hero-visual, .partner { border-radius: 0 !important; }
+  .photo-grid figure, .photo-strip figure, .wide-photo, .sec-photo, .media-frame { border: 0; }
   .photo-grid { gap: 6px; }
   .photo-strip { gap: 6px; }
   .route-embed iframe { border: 0; }
@@ -1252,7 +1240,7 @@
   .contact-big:hover { color: var(--text); }
   .contact-big { font-family: var(--font); letter-spacing: 0; }
   .icard.has-link .follow-links a, .icard.has-link a.card-cta, .icard.has-link p span { position: relative; z-index: 2; }
-  /* témoignages : « Prénom I. | 17 KM* », barre orange entre le nom et la distance */
+  /* témoignages : « Prénom I. | 10 KM* », barre orange entre le nom et la distance */
   .v-by .d::before, .q cite .d::before { content: "|"; display: inline-block; margin-right: 10px; color: var(--accent); font-family: var(--font); font-weight: 700; font-size: 1.15em; line-height: 1; }
   .v-by { gap: 6px 10px; }
   .q cite .d { color: inherit; }
@@ -1262,12 +1250,6 @@
   .icard .q cite, .faq-item .q cite { display: block; margin-top: 6px; font-style: normal; font-size: 12px; color: var(--muted); }
   @media (max-width: 700px) { .tl-tag { font-size: 10px; padding: 4px 8px; letter-spacing: .04em; margin-top: 4px; } }
 
-  /* ===== UTMB Index - ajout 03/10/2026 ===== */
-  /* Badge UTMB : même rendu dans le comparatif et à droite du tarif de chaque course */
-  .utmb-badge { height: 23px; width: auto; display: block; }
-  .c-intro .facts .fact-utmb { align-self: end; }
-  .cmp .cmp-utmb th, .cmp .cmp-utmb td { vertical-align: middle; padding-top: 16px; padding-bottom: 16px; }
-
   /* ===== Classement dynamique (page Résultats) - ajout 03/10/2026 ===== */
   .res { margin-top: 34px; }
   .res-head { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; margin-bottom: 18px; }
@@ -1275,7 +1257,7 @@
   .res-head h3 em { color: var(--accent); font-style: normal; }
   .res-head .res-sub { color: var(--muted); font-size: 13px; }
 
-  /* onglets 17 KM / 37 KM : choix rapide de la course (une seule affichée à la fois) */
+  /* onglets 10 KM / Semi-Marathon : choix rapide de la course (une seule affichée à la fois) */
   .res-tabs { display: inline-flex; border: 1px solid var(--line-2); margin-bottom: 30px; }
   .res-tab { appearance: none; background: transparent; color: var(--muted); border: 0; border-right: 1px solid var(--line-2); padding: 12px 22px; font-family: var(--display); font-weight: 700; font-size: clamp(15px, 1.8vw, 18px); cursor: pointer; transition: color .15s, background .15s; }
   .res-tab:last-child { border-right: 0; }
@@ -1423,6 +1405,18 @@
     .search-field { font-size: 16px; }
   }
   @media (prefers-reduced-motion: reduce) { .search-backdrop { backdrop-filter: none; } }
+
+  /* ===== En-tête : Instagram + loupe à la hauteur exacte du bouton S'inscrire (19/10/2026) ===== */
+  .nav-cta .nav-search-btn { width: calc(46px * 920 / 940); height: calc(46px * 920 / 940); flex: none; }
+  .nav-ig-btn svg { width: 19px; height: 19px; }
+  @media (max-width: 520px) {
+    .nav-cta { gap: 8px; }
+    .nav-cta .nav-search-btn { width: calc(36px * 920 / 940); height: calc(36px * 920 / 940); }
+    .nav-cta .nav-search-btn svg { width: 16px; height: 16px; }
+  }
+  .nav .brand { flex-shrink: 0; }
+  /* très petits téléphones : pas assez de place pour 3 carrés + bouton + menu ; Instagram reste dans le pied de page */
+  @media (max-width: 370px) { .nav-cta .nav-ig-btn { display: none; } }
 
 .archive-year summary { font-family: var(--display); font-weight: 700; font-size: 20px; }
 .archive-year .archive-body { padding: 0 0 36px; }

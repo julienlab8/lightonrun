@@ -4,21 +4,18 @@
     fr: {
       menuOpen: 'Ouvrir le menu',
       menuClose: 'Fermer le menu',
-      filmTitle: 'Film du Trail Pierre-Percée',
       newsInvalid: 'Entrez une adresse e-mail valide.',
       newsThanks: 'Merci ! Vérifiez votre boîte mail pour confirmer votre inscription.'
     },
     en: {
       menuOpen: 'Open menu',
       menuClose: 'Close menu',
-      filmTitle: 'LIGHT ON TRAIL Pierre-Percée film',
       newsInvalid: 'Enter a valid email address.',
       newsThanks: 'Thanks! Check your inbox to confirm your subscription.'
     },
     de: {
       menuOpen: 'Menü öffnen',
       menuClose: 'Menü schließen',
-      filmTitle: 'Film LIGHT ON TRAIL Pierre-Percée',
       newsInvalid: 'Gib eine gültige E-Mail-Adresse ein.',
       newsThanks: 'Danke! Prüfe dein Postfach, um deine Anmeldung zu bestätigen.'
     }
@@ -66,28 +63,11 @@
     });
   })();
 
-  // Film: poster + custom play button, the YouTube player only loads on click
-  (function () {
-    var frame = document.querySelector('.film-frame');
-    if (!frame) return;
-    var btn = frame.querySelector('.film-play');
-    btn.addEventListener('click', function () {
-      var iframe = document.createElement('iframe');
-      iframe.className = 'film-video';
-      iframe.src = 'https://www.youtube-nocookie.com/embed/' + frame.dataset.youtube + '?autoplay=1&rel=0&playsinline=1';
-      iframe.title = siteT('filmTitle', 'Film du Trail Pierre-Percée');
-      iframe.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
-      iframe.allowFullscreen = true;
-      frame.querySelector('.film-video').replaceWith(iframe);
-      frame.classList.add('playing');
-    });
-  })();
-
-  // Countdown to race start (Sunday 4 April 2027, 07:30 local — départ du 54 KM***)
+  // Countdown to race start (jeudi 6 mai 2027, 09h00 local — départ du 10 KM/Semi-Marathon)
   (function () {
     var root = document.getElementById('countdown');
     if (!root) return;
-    var target = new Date(2027, 3, 4, 7, 30, 0).getTime();
+    var target = new Date(2027, 4, 6, 9, 0, 0).getTime();
     var out = {
       d: root.querySelector('[data-cd="d"]'),
       h: root.querySelector('[data-cd="h"]'),

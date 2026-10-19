@@ -32,7 +32,7 @@ Pour les majeurs : licence FFA (Athlé Compétition, Entreprise ou Running), Pa
 
 Mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h30 à 8h30 pour le Semi-Marathon\*\*, de 7h30 à 11h00 pour le 10 KM\*. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
 
-Tarifs : 10 KM\* dès 18 €, Semi-Marathon\*\* dès 23 € (tarifs qui augmentent au 1er février puis au 1er avril 2027). [Une question ?](https://www.lightonrun.com/communaute.html#contact)
+Tarifs : 10 KM\* 19 € (tarif fixe), Semi-Marathon\*\* dès 23 € (tarif qui augmente au 1er février puis au 1er avril 2027). [Une question ?](https://www.lightonrun.com/communaute.html#contact)
 
 Accès & stationnement
 

@@ -1,8 +1,8 @@
 /* =====================================================================
-   Classement dynamique LIGHT ON TRAIL
+   Classement dynamique LIGHT ON RUN
    Filtres (Tous / Femmes / Hommes), recherche par nom, tri, pagination.
    S'initialise sur chaque élément [data-results] : la valeur pointe
-   vers une clé de window.LOT_RESULTS (ex. "17km-2026").
+   vers une clé de window.LOT_RESULTS (ex. "km10-2026").
    ===================================================================== */
 (function () {
   'use strict';

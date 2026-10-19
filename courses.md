@@ -23,7 +23,7 @@ Comparatif des parcours du LIGHT ON RUN Madine\*\* 2027
 | Distance | 10 km | 21,1 km |
 | Départ | 11h30 | 9h00 |
 | Retrait des dossards | Mer. 17h-19h & jeu. 7h30-11h00 | Mer. 17h-19h & jeu. 7h30-8h30 |
-| Tarif | 18 € jusqu'au 31/01, 19 € jusqu'au 31/03, 20 € ensuite | 23 € jusqu'au 31/01, 24 € jusqu'au 31/03, 25 € ensuite |
+| Tarif | 19 €, tarif unique | 23 € jusqu'au 31/01, 24 € jusqu'au 31/03, 25 € ensuite |
 | Catégorie minimale | Cadet(te) - né(e) en 2011 et avant | Junior - né(e) en 2009 et avant |
 | Ravitaillements | 1 liquide au km 5 + arrivée | 1 liquide au km 6, liquide et solide aux km 12 et 15 + arrivée |
 | Barrière horaire | Aucune | Aucune |
@@ -37,7 +37,7 @@ Distance : 10 km
 
 Départ : 11h30
 
-Tarif : dès 18 €
+Tarif : 19 €
 
 [S'inscrire sur le 10 KM\*](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 

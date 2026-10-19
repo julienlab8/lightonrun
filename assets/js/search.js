@@ -1,5 +1,5 @@
 /* =====================================================================
-   Recherche globale LIGHT ON TRAIL
+   Recherche globale LIGHT ON RUN
    Site statique : la recherche se fait côté navigateur, à partir de
    /assets/search-index.json (généré par tools/build_md.py depuis les
    pages). Aucun service externe, aucun cookie. L'index n'est chargé

@@ -22,7 +22,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 - **Lieu** : Lac de Madine. Départ et arrivée à Nonsard-Lamarche (Meuse)
 - **Distances** : 10 KM\* · Semi-Marathon\*\*. 21,1 km, parcours à plat
 - **Départs** : 9h00 · 11h30. Le semi part en premier, le 10 km à 11h30
-- **Tarifs** : À partir de 18 € · 23 €. Tarifs selon date d'inscription. Ouverture des inscriptions le 20 octobre 2026, 20h
+- **Tarifs** : 19 € · à partir de 23 €. 10 KM\* à tarif fixe, Semi-Marathon\*\* selon date d'inscription. Ouverture des inscriptions le 20 octobre 2026, 20h
 - **Organisation** : LIGHT ON. Édition 2026 : près de 2 800 coureurs au départ
 
 **01** Un lac, deux distances
@@ -37,7 +37,7 @@ Un tour de lac à plat, pour courir sa première course ou viser un chrono sans 
 
 Départ : 11h30
 
-Tarif : dès 18 €
+Tarif : 19 €
 
 Voir le parcours
 

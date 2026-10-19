@@ -4,10 +4,10 @@
 
 Site officiel : https://www.lightonrun.com/ . En cas de doute, les pages HTML du site font foi.
 
-- Édition : 1re édition en 2027. Pas de résultats ni de témoignages d'une édition précédente.
+- Édition : 6e édition en 2027 (éditions précédentes en 2022, 2023, 2024, 2025 et 2026 ; résultats et podiums de ces éditions sur resultats.md).
 - Horaires le jeudi 6 mai 2027 : départ du Semi-Marathon** à 9h00, départ du 10 KM* à 11h30. Remise des récompenses une fois les deux courses terminées (horaire précisé sur place).
 - Retrait des dossards : mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h30 à 8h30 pour le Semi-Marathon**, de 7h30 à 11h00 pour le 10 KM*. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
-- Tarifs : 18 € (10 KM*), 23 € (Semi-Marathon**).
+- Tarifs : 19 € (10 KM*, tarif fixe, sans évolution) ; Semi-Marathon** à partir de 23 € (tarif qui augmente au 1er février puis au 1er avril 2027).
 - Inscriptions : en ligne uniquement, ouverture à venir pour l'édition 2027 (lien annoncé dans la newsletter et sur les réseaux), closes le lundi 3 mai 2027 à 20h00 ou avant si les dossards sont épuisés. Pas d'inscription sur place.
 - Justificatif (majeurs) : licence FFA (Athlé Compétition, Entreprise ou Running), Pass' J'aime Courir ou attestation PPS (https://pps.athle.fr/). Âge minimum : catégorie Cadet·te (né·e en 2011 et avant) sur le 10 KM*, Junior (né·e en 2009 et avant) sur le Semi-Marathon**.
 - Parcours : circuits balisés, à plat, sur route et chemins stabilisés autour du Lac de Madine. Pas de barrière horaire sur l'une ou l'autre épreuve.
@@ -21,7 +21,7 @@ Site officiel : https://www.lightonrun.com/ . En cas de doute, les pages HTML du
 - [Préparer sa venue](https://www.lightonrun.com/infos.md): inscriptions, retrait des dossards, accès et stationnement, hébergements, restauration, conseils aux coureurs, FAQ.
 - [Programme et Village LIGHT ON](https://www.lightonrun.com/evenement.md): le programme du jeudi 6 mai, le Village LIGHT ON, le Lac de Madine et le territoire.
 - [Règlement 2027](https://www.lightonrun.com/reglement.md): règlement officiel de l'épreuve (catégories, certificat ou PPS, matériel, remboursement).
-- [Résultats](https://www.lightonrun.com/resultats.md): les classements du 10 KM* et du Semi-Marathon** y seront publiés après la course du 6 mai 2027 (1re édition, aucun résultat avant cette date).
+- [Résultats](https://www.lightonrun.com/resultats.md): classements et podiums des éditions précédentes (2022 à 2026) ; ceux de l'édition 2027 y seront ajoutés après la course du 6 mai 2027.
 
 ## Optional
 
