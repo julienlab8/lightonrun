@@ -30,7 +30,7 @@ Les inscriptions se font uniquement en ligne, à partir du mardi 20 octobre 2026
 
 - **10 KM\*** : 19 €, tarif unique, sans évolution.
 
-- **Semi-Marathon\*\*** : 23 € jusqu'au 31 janvier 2027, 24 € jusqu'au 31 mars 2027, 25 € ensuite.
+- **Semi-Marathon\*\*** : 24 €, tarif unique, sans évolution.
 
 Fermeture des inscriptions le lundi 3 mai 2027 à 20h00, sous réserve de dossards disponibles. Une liste d'attente pourra être mise en place.
 

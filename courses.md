@@ -24,7 +24,7 @@ Comparatif des parcours du LIGHT ON RUN Madine\*\* 2027
 | Parcours | Entre rive et forêt, à plat | Tour complet du lac, à plat |
 | Départ | 11h00 | 9h00 |
 | Retrait des dossards | Mer. 17h-19h & jeu. 7h-10h45 | Mer. 17h-19h & jeu. 7h-8h45 |
-| Tarif | 19 €, tarif unique | 23 € jusqu'au 31/01, 24 € jusqu'au 31/03, 25 € ensuite |
+| Tarif | 19 €, tarif unique | 24 €, tarif unique |
 | Catégorie minimale | Cadet(te) - né(e) en 2011 et avant | Junior - né(e) en 2009 et avant |
 | Ravitaillements | 1 liquide au km 5 + arrivée | 1 liquide au km 6, liquide et solide aux km 12 et 15 + arrivée |
 | Barrière horaire | Aucune | Aucune |
@@ -80,7 +80,7 @@ Distance : 21,1 km
 
 Départ : 9h00
 
-Tarif : dès 23 €
+Tarif : 24 €
 
 [S'inscrire sur le Semi-Marathon\*\*](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 
