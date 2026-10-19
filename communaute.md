@@ -16,7 +16,7 @@ Participer autrement
 
 #### [Devenir bénévole](mailto:hello@lightontri.com?subject=Et%20si%20je%20faisais%20partie%20du%20LIGHT%20ON%20Crew%20%3F)
 
-Ravitaillements, fléchage, signaleurs, Village LIGHT ON : sans les bénévoles, pas de course. Rejoignez l'équipe le temps d'une journée, côté coulisses. « Une superbe organisation, les bénévoles au top (...) Une très belle expérience. » - Myriam N. | Semi-Marathon\*\*
+Ravitaillements, fléchage, signaleurs, Village LIGHT ON : sans les bénévoles, pas de course. Rejoignez l'équipe le temps d'une journée, côté coulisses. « Toujours un vrai plaisir de venir courir ce semi-marathon. Merci à tous les bénévoles. » - Olivier M. | Semi-Marathon\*\*
 
 Rejoindre le Crew
 

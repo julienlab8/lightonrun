@@ -16,9 +16,9 @@ Inscriptions
 
 Les inscriptions au LIGHT ON RUN Madine\*\* 2027 ouvrent le mardi 20 octobre 2026 à 20h00, en ligne et dans la limite des dossards disponibles. Voici l'essentiel avant de valider la vôtre.
 
-> « Très bonne ambiance, on se sent bien. »
+> « Pour le prix, repartir avec un maillot, une médaille et les photos est vraiment top. »
 
-**Roman P.** | 10 KM\*
+**Dorian H.** | Semi-Marathon\*\*
 
 #### Inscriptions
 
@@ -30,7 +30,7 @@ Pour les majeurs : licence FFA (Athlé Compétition, Entreprise ou Running), Pa
 
 #### Retrait des dossards
 
-Mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h30 à 8h30 pour le Semi-Marathon\*\*, de 7h30 à 11h00 pour le 10 KM\*. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
+Mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h00 à 8h45 pour le Semi-Marathon\*\*, de 7h00 à 10h45 pour le 10 KM\*. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
 
 Tarifs : 10 KM\* 19 € (tarif fixe), Semi-Marathon\*\* dès 23 € (tarif qui augmente au 1er février puis au 1er avril 2027). [Une question ?](https://www.lightonrun.com/communaute.html#contact)
 
@@ -60,11 +60,11 @@ Le lac et sa base de loisirs valent bien une nuit sur place. Et vos jambes vous 
 
 #### Se loger
 
-Le Lac de Madine dispose d'une base de loisirs avec camping, au bord de l'eau, à deux pas du Village LIGHT ON. Les villages alentour (Nonsard-Lamarche, Heudicourt-sous-les-Côtes, Pannes) proposent aussi des gîtes et chambres d'hôtes.
+Le Lac de Madine dispose d'une base de loisirs avec [camping](https://lacmadine.com/sorganiser/dormir/), au bord de l'eau, à deux pas du Village LIGHT ON. Les villages alentour (Nonsard-Lamarche, Heudicourt-sous-les-Côtes, Pannes) proposent aussi des [gîtes et chambres d'hôtes](https://lacmadine.com/sorganiser/dormir/).
 
 #### Découvrir le lac
 
-Baignade, voile, pédalo, sentiers autour du lac : de quoi prolonger le week-end une fois la ligne franchie.
+[Baignade, voile, pédalo, sentiers autour du lac](https://lacmadine.com/activites/) : de quoi prolonger le week-end une fois la ligne franchie.
 
 #### Réserver tôt
 
@@ -96,11 +96,11 @@ Horaires, matériel, ravitaillements et sécurité. L'essentiel à connaître av
 
 #### Horaires de départ
 
-**Semi-Marathon\*\*** : départ à 09h00. **10 KM\*** : départ à 11h30. Tous les départs se font depuis le Village LIGHT ON, Lac de Madine.
+**Semi-Marathon\*\*** : départ à 09h00. **10 KM\*** : départ à 11h00. Tous les départs se font depuis le Village LIGHT ON, Lac de Madine.
 
 #### Matériel
 
-Des chaussures de running sont conseillées. Pensez à prévoir 4 épingles à nourrice ou un porte-dossard : aucune épingle n'est fournie sur place. Canicross interdit.
+Des chaussures de running sont conseillées. Pensez à prévoir 4 épingles à nourrice ou un porte-dossard. Canicross interdit.
 
 #### Ravitaillements
 
@@ -156,7 +156,7 @@ Non, aucune barrière horaire sur le 10 KM\* ni sur le Semi-Marathon\*\* : les 
 
 #### Que dois-je emporter ?
 
-Des chaussures de running sont conseillées. Pour le dossard : prévoyez 4 épingles à nourrice ou un porte-dossard, aucune n'est fournie sur place.
+Des chaussures de running sont conseillées. Pour le dossard : prévoyez 4 épingles à nourrice ou un porte-dossard.
 
 #### Une autre question ?
 

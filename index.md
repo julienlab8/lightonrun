@@ -14,14 +14,14 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 10 · 21,1 KMInscriptions le 20 octobre - 20h
 
-10 ou 21,1 KM : deux façons de faire le tour du Lac de Madine. Une seule règle : le finir.
+10 ou 21,1 KM : deux distances, un seul lac. Une seule règle : en profiter.
 
 ### L'essentiel
 
 - **Date** : Jeudi 6 mai 2027. Dossards dès le mercredi 5 mai
 - **Lieu** : Lac de Madine. Départ et arrivée à Nonsard-Lamarche (Meuse)
 - **Distances** : 10 KM\* · Semi-Marathon\*\*. 21,1 km, parcours à plat
-- **Départs** : 9h00 · 11h30. Le semi part en premier, le 10 km à 11h30
+- **Départs** : 9h00 · 11h00. Le semi part en premier, le 10 km à 11h00
 - **Tarifs** : 19 € · à partir de 23 €. 10 KM\* à tarif fixe, Semi-Marathon\*\* selon date d'inscription. Ouverture des inscriptions le 20 octobre 2026, 20h
 - **Organisation** : LIGHT ON. Édition 2026 : près de 2 800 coureurs au départ
 
@@ -33,9 +33,9 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 10 KM\*
 
-Un tour de lac à plat, pour courir sa première course ou viser un chrono sans se soucier du dénivelé.
+Entre rive et forêt, pour courir sa première course ou viser un chrono sans se soucier du dénivelé.
 
-Départ : 11h30
+Départ : 11h00
 
 Tarif : 19 €
 
@@ -59,25 +59,25 @@ Voir le parcours
 
 ### Ce qu'ils en disent.
 
-> Une superbe organisation, les bénévoles au top (...) Une très belle expérience.
+> C'était une très belle course avec alternance de plusieurs terrains et une belle balade autour du lac !
 
-**Myriam N.** | Semi-Marathon\*\*
+**Valentine N.** | Semi-Marathon\*\*
 
-> Premier semi marathon parfait.
+> C'est une course géniale, le parcours, l'ambiance étaient super !
 
-**Claire T.** | Semi-Marathon\*\*
+**Aurélie R.** | 10 KM\*
 
-> Très bonne ambiance, on se sent bien.
+> Tout était super, c'était mon premier semi et j'ai trouvé ça super bien organisé.
 
-**Roman P.** | 10 KM\*
+**Estelle A.** | Semi-Marathon\*\*
 
-> J'ai adoré la motivation qu'un tel rassemblement peut nous donner (...) Je reviendrai en 2027, c'est sûr !
+> 2e année consécutive sur le semi, toujours un très bon moment passé au lac de Madine !
+
+**Gaëlle L.** | Semi-Marathon\*\*
+
+> Je reviendrai en 2027, c'est sûr ! Merci à tous les bénévoles.
 
 **Jennifer F.** | 10 KM\*
-
-> Sinon c'est chouette, un peu boueux cette année, mdr.
-
-**Manon M.** | Semi-Marathon\*\*
 
 Ce sont leurs mots, pas les nôtres. **Les prochains, c'est vous qui les écrirez.**
 
@@ -95,7 +95,7 @@ Dossards la veille, courses le jeudi, Village LIGHT ON ouvert dès le mercredi. 
 
 #### Le programme
 
-Mercredi 5 mai, retrait des dossards. Jeudi 6 mai, départs à 9h00 et 11h30, remise des récompenses dans la foulée.
+Mercredi 5 mai, retrait des dossards de 17h à 19h. Jeudi 6 mai, départs à 9h00 et 11h00, remise des récompenses à 12h15.
 
 [Voir la page](https://www.lightonrun.com/evenement.html#programme)
 

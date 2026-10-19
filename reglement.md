@@ -68,23 +68,23 @@ Tout engagement est personnel. Toute personne cédant son dossard sans passer pa
 
 ### Article 4 · Retrait des dossards
 
-Au Village LIGHT ON, Lac de Madine : le mercredi 5 mai 2027 de 17h00 à 19h00 ; le jeudi 6 mai 2027 de 7h30 à 8h30 pour le Semi-Marathon\*\*, et de 7h30 à 11h00 pour le 10 KM\*. Aucun envoi postal des dossards.
+Au Village LIGHT ON, Lac de Madine : le mercredi 5 mai 2027 de 17h00 à 19h00 ; le jeudi 6 mai 2027 de 7h00 à 8h45 pour le Semi-Marathon\*\*, et de 7h00 à 10h45 pour le 10 KM\*. Aucun envoi postal des dossards.
 
 ### Article 5 · Programme du jeudi 6 mai 2027
 
-- 7h30 - 8h30 : retrait des dossards du Semi-Marathon\*\*
+- 7h00 - 8h45 : retrait des dossards du Semi-Marathon\*\*
 
-- 7h30 - 11h00 : retrait des dossards du 10 KM\*
+- 7h00 - 10h45 : retrait des dossards du 10 KM\*
 
 - 9h00 : départ du Semi-Marathon\*\*
 
-- 11h30 : départ du 10 KM\*
+- 11h00 : départ du 10 KM\*
 
-- Remise des récompenses : une fois les deux courses terminées, horaire précisé sur place
+- 12h15 : remise des récompenses
 
 ### Article 6 · Matériel
 
-Chaque participant s'équipe en fonction de la météo. Des chaussures de running sont conseillées. Prévoyez 4 épingles à nourrice ou un porte-dossard : aucune épingle n'est fournie sur place. Le canicross n'est pas autorisé.
+Chaque participant s'équipe en fonction de la météo. Des chaussures de running sont conseillées. Prévoyez 4 épingles à nourrice ou un porte-dossard. Le canicross n'est pas autorisé.
 
 ### Article 7 · Parcours et balisage
 

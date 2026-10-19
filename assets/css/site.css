@@ -859,7 +859,7 @@
   .h-cta .picto .p1 { fill: #fff; } .h-cta .picto .p2 { fill: var(--accent); }
   @media (max-width: 700px) { .h-cta .wrap { grid-template-columns: 1fr; } .h-cta .picto { display: none; } }
   /* appel de fin de page : photo de la ligne de départ plutôt qu'un aplat */
-  .cta-slim { background: linear-gradient(90deg, rgba(35,35,35,.96) 0%, rgba(35,35,35,.75) 55%, rgba(35,35,35,.45) 100%), url("../img/coureurs-sentier-bord-lac-madine.jpg") center 40% / cover no-repeat; color: var(--text); }
+  .cta-slim { background: linear-gradient(90deg, rgba(35,35,35,.96) 0%, rgba(35,35,35,.75) 55%, rgba(35,35,35,.45) 100%), url("../img/coureuse-bras-leves-digue-lac-madine.jpg") center 40% / cover no-repeat; color: var(--text); }
   .cta-slim p { color: rgba(255,255,255,.75); }
   .cta-slim .btn-primary { background: var(--accent); color: var(--on-accent); }
   .cta-slim .btn-primary:hover { background: var(--text); color: var(--bg); }
@@ -1421,3 +1421,25 @@
 .archive-year summary { font-family: var(--display); font-weight: 700; font-size: 20px; }
 .archive-year .archive-body { padding: 0 0 36px; }
 .archive-year:last-of-type { border-bottom: 1px solid var(--line-2); }
+
+/* ===== En-tête (19/10/2026) : boutons moins hauts, logo plus grand.
+   L'éclair du logo (le « N ») occupe 920/1300 de la hauteur du SVG (y 229 à 1149) :
+   le logo est dimensionné pour que l'éclair ait exactement la hauteur des boutons,
+   puis remonté de 39/1300 de sa hauteur pour que haut et bas s'alignent. ===== */
+.nav { --nav-btn: 38px; }
+@media (max-width: 520px) { .nav { --nav-btn: 32px; } }
+.nav .brand img { height: calc(var(--nav-btn) * 1300 / 920); transform: translateY(calc(var(--nav-btn) * -39 / 920)); }
+.nav-cta .btn-primary { height: var(--nav-btn); }
+.nav-cta .nav-search-btn { width: var(--nav-btn); height: var(--nav-btn); }
+
+/* « Bon à savoir » : note courte sous le comparatif des courses et dans L'esprit LIGHT ON */
+.cmp-note { margin: 18px 0 0; padding-left: 14px; border-left: 2px solid var(--accent); color: var(--muted); font-size: 15px; line-height: 1.55; max-width: 62ch; }
+.cmp-note b { color: var(--text); font-weight: 700; }
+
+/* ===== Espacements (19/10/2026) : un seul espacement entre deux blocs, jamais deux cumulés ===== */
+section.pad + section.pad { padding-top: 0; }
+.page-hero.ph-stack + section.pad { padding-top: 0; }
+/* accueil : même écart (--sec-gap) entre L'événement, Retour sur 2026 et les Actualités */
+.h-event { padding-block: var(--sec-gap); }
+.h-retour { padding-top: 0; }
+.h-news { padding-block: var(--sec-gap); }

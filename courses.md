@@ -14,28 +14,31 @@ Comparatif
 
 ### Les deux formats en un coup d'œil.
 
-Jeudi 6 mai 2027, départ et arrivée au Lac de Madine (Nonsard-Lamarche). Même lac, deux façons d'en faire le tour, sans barrière horaire.
+Jeudi 6 mai 2027, départ et arrivée au Lac de Madine (Nonsard-Lamarche). Même lac, deux façons de le découvrir, sans barrière horaire.
 
 Comparatif des parcours du LIGHT ON RUN Madine\*\* 2027
 
 |  | 10 KM\* | Semi-Marathon\*\* |
 |---|---|---|
 | Distance | 10 km | 21,1 km |
-| Départ | 11h30 | 9h00 |
-| Retrait des dossards | Mer. 17h-19h & jeu. 7h30-11h00 | Mer. 17h-19h & jeu. 7h30-8h30 |
+| Parcours | Entre rive et forêt, à plat | Tour complet du lac, à plat |
+| Départ | 11h00 | 9h00 |
+| Retrait des dossards | Mer. 17h-19h & jeu. 7h-10h45 | Mer. 17h-19h & jeu. 7h-8h45 |
 | Tarif | 19 €, tarif unique | 23 € jusqu'au 31/01, 24 € jusqu'au 31/03, 25 € ensuite |
 | Catégorie minimale | Cadet(te) - né(e) en 2011 et avant | Junior - né(e) en 2009 et avant |
 | Ravitaillements | 1 liquide au km 5 + arrivée | 1 liquide au km 6, liquide et solide aux km 12 et 15 + arrivée |
 | Barrière horaire | Aucune | Aucune |
-| Pour qui ? | Premier dossard, reprise, envie de courir en famille | Coureurs qui veulent se tester sur la distance reine du bitume |
+| Pour qui ? | Premier dossard, reprise, envie de courir en famille | Coureurs qui veulent se tester sur le tour complet du lac |
+
+**Bon à savoir :** le parcours n'est pas entièrement goudronné. Chemins et passages en forêt au programme.
 
 ### 10 KM\*
 
-Un tour de lac à plat, un seul ravitaillement à mi-course et l'arrivée au Village LIGHT ON. Parfait pour un premier dossard ou une reprise.
+Entre rive et forêt, à plat, un seul ravitaillement à mi-course et l'arrivée au Village LIGHT ON. Parfait pour un premier dossard ou une reprise.
 
 Distance : 10 km
 
-Départ : 11h30
+Départ : 11h00
 
 Tarif : 19 €
 
@@ -55,19 +58,23 @@ Le 10 KM\* est un circuit balisé sans barrière horaire : vous courez à votre 
 
 Ils l'ont couru
 
-> Très bonne ambiance, on se sent bien.
+> Le parcours est super, la partie dans les bois est sympa.
 
-**Roman P.**
+**Fanny M.**
 
-> J'ai adoré la motivation qu'un tel rassemblement peut nous donner (...) Je reviendrai en 2027, c'est sûr !
+> Tout m'a plu, c'était ma première course et j'ai aimé l'ambiance.
 
-**Jennifer F.**
+**Aurélie G.**
+
+> Bonne ambiance, personnel sympathique et dynamique, parcours agréable.
+
+**Clément M.**
 
 Tracé interactif et profil altimétrique du 10 KM\*. Téléchargez le fichier GPX depuis OpenRunner.
 
 ### 21,1 KM\*\*
 
-Le grand tour du Lac de Madine : trois ravitaillements sur le parcours, un départ matinal et le bitume du début à la fin.
+Le grand tour du Lac de Madine : trois ravitaillements sur le parcours, un départ matinal et le lac en fil rouge du début à la fin.
 
 Distance : 21,1 km
 
@@ -91,17 +98,17 @@ Le Semi-Marathon\*\* est un circuit balisé sans barrière horaire : vous courez
 
 Ils l'ont couru
 
-> Une superbe organisation, les bénévoles au top (...) Une très belle expérience.
+> Le parcours était très bien car il y avait des changements (forêts, route, étangs).
+
+**Manon N.**
+
+> Un parcours riche, très varié et magnifique.
+
+**Anthony S.**
+
+> C'était mon premier semi, j'ai apprécié le soutien du monsieur en fin de parcours. Une très belle expérience.
 
 **Myriam N.**
-
-> Premier semi marathon parfait.
-
-**Claire T.**
-
-> Sinon c'est chouette, un peu boueux cette année, mdr.
-
-**Manon M.**
 
 Tracé interactif et profil altimétrique du Semi-Marathon\*\*. Téléchargez le fichier GPX depuis OpenRunner.
 

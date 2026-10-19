@@ -18,29 +18,31 @@ Du running sérieux, sans se prendre au sérieux. Voilà l'idée.
 
 #### Il y a une distance pour vous
 
-Premier dossard ou habitué du bitume : 10 ou 21,1 km. Et tout le monde se retrouve au même ravitaillement d'arrivée.
+Premier dossard ou habitué des semis : 10 ou 21,1 km. Et tout le monde se retrouve au même ravitaillement d'arrivée.
 
-#### Le lac, le plat, le bitume
+#### Le lac, la forêt, le plat
 
-Un tour de lac entièrement plat et goudronné : les parcours longent l'eau du départ à l'arrivée. Pensez à lever la tête entre deux foulées.
+Deux parcours à plat : le semi fait le tour complet du lac, le 10 km alterne rive et forêt. Pensez à lever la tête entre deux foulées.
+
+**Bon à savoir :** le parcours n'est pas entièrement goudronné. Chemins et passages en forêt au programme.
 
 #### Tout le monde fait la course
 
-Coureurs, bénévoles, supporters au bord du chemin : chacun fait partie de l’aventure. Et plus on est nombreux, plus les sourires se multiplient. Ça, on adore ! « Très bonne ambiance, on se sent bien. » - Roman P. | 10 KM\*
+Coureurs, bénévoles, supporters au bord du chemin : chacun fait partie de l’aventure. Et plus on est nombreux, plus les sourires se multiplient. Ça, on adore ! « L'ambiance… et surtout la bienveillance des bénévoles. » - Audrey L. | Semi-Marathon\*\*
 
 #### Le plaisir avant le chrono
 
-On vient pour les kilomètres et la ligne d’arrivée... Mais aussi pour l'ambiance du lac et la bonne humeur qui va avec. « J'ai adoré la motivation qu'un tel rassemblement peut nous donner (...) Je reviendrai en 2027, c'est sûr ! » - Jennifer F. | 10 KM\*
+On vient pour les kilomètres et la ligne d’arrivée... Mais aussi pour l'ambiance du lac et la bonne humeur qui va avec. « Bonne ambiance générale, le parcours et le décor renforcent le plaisir. » - Davy S. | Semi-Marathon\*\*
 
 #### Carré, sans chichis
 
-Balisage, ravitos, signaleurs, dossards : tout est prêt, et la bonne humeur est fournie. Vous n'avez plus qu'à courir. « Une superbe organisation, les bénévoles au top (...) Une très belle expérience. » - Myriam N. | Semi-Marathon\*\*
+Balisage, ravitos, signaleurs, dossards : tout est prêt, et la bonne humeur est fournie. Vous n'avez plus qu'à courir. « Le système de retrait des dossards m'a paru particulièrement efficace. » - Philippe S. | Semi-Marathon\*\*
 
 Programme
 
 ### La journée, heure par heure.
 
-Le mercredi pour prendre de l'avance, le jeudi pour courir. Le Semi-Marathon\*\* part en premier, le 10 KM\* une heure et demie plus tard.
+Le mercredi pour prendre de l'avance, le jeudi pour courir. Le Semi-Marathon\*\* part en premier, le 10 KM\* deux heures plus tard.
 
 Mercredi 5 mai - Veille de course
 
@@ -50,21 +52,21 @@ Retrait des dossards de 17:00 à 19:00 et stands partenaires.
 
 Jeudi 6 mai - Jour de course
 
-**07:30** - Retrait des dossards
+**07:00** - Retrait des dossards
 
-De 07:30 à 08:30 pour le Semi-Marathon\*\*, et de 07:30 à 11:00 pour le 10 KM\*.
+De 07:00 à 08:45 pour le Semi-Marathon\*\*, et de 07:00 à 10:45 pour le 10 KM\*.
 
 **09:00** - Départ · Semi-Marathon\*\*
 
 Le grand tour du lac ouvre la journée.
 
-**11:30** - Départ · 10 KM\*
+**11:00** - Départ · 10 KM\*
 
 Le 10 KM\* prend le relais.
 
-**Horaire indicatif** - Remise des récompenses
+**12:15** - Remise des récompenses
 
-Podiums pour les 3 premiers hommes et femmes de chaque course, une fois les deux courses terminées. Horaire précisé sur place.
+Podiums pour les 3 premiers hommes et femmes de chaque course.
 
 Village LIGHT ON
 
@@ -82,11 +84,11 @@ Buvette et ravitaillement à l'arrivée pour tous les coureurs, sur les deux cou
 
 #### LIGHT ON Shop
 
-La boutique LIGHT ON s'installe au Village. De quoi repartir avec un souvenir de la course.
+La boutique LIGHT ON s'installe au Village. De quoi repartir avec un souvenir de la course, en plus de la médaille.
 
 #### Remise des récompenses
 
-Le jeudi, au Village LIGHT ON : podiums pour les 3 premiers hommes et femmes de chaque course.
+Le jeudi à 12h15, au Village LIGHT ON : podiums, applaudissements, et on se dit à l'année prochaine.
 
 Madine & le Parc naturel régional de Lorraine
 
@@ -96,7 +98,7 @@ Départ et arrivée à Nonsard-Lamarche (Meuse, 55210), au bord du Lac de Madine
 
 #### Le lac
 
-Un plan d'eau au cœur du Parc naturel régional de Lorraine, en Meuse. Les parcours le longent du départ à l'arrivée, sur un revêtement entièrement plat.
+Un plan d'eau au cœur du Parc naturel régional de Lorraine, en Meuse. Le semi en fait le tour complet, le 10 km alterne rive et forêt. Le tout à plat.
 
 #### Le parc naturel régional
 
