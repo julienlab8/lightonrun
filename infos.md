@@ -14,7 +14,7 @@ Inscriptions
 
 ### S'inscrire à la course.
 
-Les inscriptions au LIGHT ON RUN Madine\*\* 2027 ouvrent le mardi 20 octobre 2026 à 20h00, en ligne et dans la limite des dossards disponibles. Voici l'essentiel avant de valider la vôtre.
+Les inscriptions au LIGHT ON RUN Madine\*\* 2027 sont ouvertes, en ligne et dans la limite des dossards disponibles. Voici l'essentiel avant de valider la vôtre.
 
 > « Pour le prix, repartir avec un maillot, une médaille et les photos est vraiment top. »
 
@@ -22,7 +22,7 @@ Les inscriptions au LIGHT ON RUN Madine\*\* 2027 ouvrent le mardi 20 octobre 202
 
 #### Inscriptions
 
-Ouverture le mardi 20 octobre 2026 à 20h00 pour le 10 KM\* et le Semi-Marathon\*\*. Fermeture le lundi 3 mai 2027 à 20h00, ou avant si tous les dossards sont partis. Le lien d'inscription sera annoncé dans la newsletter et sur nos réseaux dès l'ouverture.
+Ouvertes depuis le mardi 20 octobre 2026 pour le 10 KM\* et le Semi-Marathon\*\*, [en ligne](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition). Fermeture le lundi 3 mai 2027 à 20h00, ou avant si tous les dossards sont partis.
 
 #### Licence & santé
 
@@ -30,9 +30,9 @@ Pour les majeurs : licence FFA (Athlé Compétition, Entreprise ou Running), Pa
 
 #### Retrait des dossards
 
-Mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h00 à 8h45 pour le Semi-Marathon\*\*, de 7h00 à 10h45 pour le 10 KM\*. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
+Mercredi 5 mai de 17h00 à 19h00 ; jeudi 6 mai de 7h00 à 8h45 pour le Semi-Marathon\*\*, de 7h00 à 10h45 pour le 10 KM\*, avec un Welcome Drink le jeudi. Au Village LIGHT ON, Lac de Madine. Aucun envoi postal.
 
-Tarifs : 10 KM\* 19 €, Semi-Marathon\*\* 24 € (tarifs fixes, sans évolution). [Une question ?](https://www.lightonrun.com/communaute.html#contact)
+Tarifs : 10 KM\* 19 €, Semi-Marathon\*\* 24 € (tarif de lancement). [Une question ?](https://www.lightonrun.com/communaute.html#contact)
 
 Accès & stationnement
 
@@ -164,6 +164,6 @@ Des chaussures de running sont conseillées. Pour le dossard : prévoyez 4 épi
 
 ### Une question avant de vous inscrire ?
 
-Écrivez-nous, on répond. Ouverture des inscriptions le mardi 20 octobre 2026, 20h00.
+Écrivez-nous, on répond.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [Nous écrire](https://www.lightonrun.com/communaute.html#contact)

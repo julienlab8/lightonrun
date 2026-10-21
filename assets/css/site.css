@@ -1443,3 +1443,14 @@ section.pad + section.pad { padding-top: 0; }
 .h-event { padding-block: var(--sec-gap); }
 .h-retour { padding-top: 0; }
 .h-news { padding-block: var(--sec-gap); }
+
+/* très petits écrans : un bouton long (ex. « Vollständiges Album 2026 ») passe sur deux lignes au lieu de déborder */
+@media (max-width: 400px) { .hero-actions .btn { max-width: 100%; white-space: normal; text-align: center; height: auto; line-height: 1.25; } }
+
+/* Retour sur 2026 : les photos verticales ne doivent pas agrandir les rangées (sinon elles débordent sur « Quoi de neuf ») */
+.h-photos { grid-template-rows: minmax(0, 1fr) minmax(0, 1fr); }
+.h-photos > picture { display: block; min-width: 0; min-height: 0; overflow: hidden; }
+@media (max-width: 760px) { .h-photos { grid-template-rows: none; } }
+
+/* allemand : césure automatique des titres (mots composés longs, ex. « Startnummernausgabe ») */
+:lang(de) h1, :lang(de) h2, :lang(de) h3 { hyphens: auto; -webkit-hyphens: auto; overflow-wrap: break-word; }

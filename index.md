@@ -1,6 +1,6 @@
 # LIGHT ON RUN Madine** · 10 km et semi-marathon · 6 mai 2027
 
-> 10 km ou semi-marathon (21,1 km) autour du Lac de Madine : jeudi 6 mai 2027, départ de Nonsard-Lamarche dans la Meuse. Ouverture des inscriptions le 20 octobre 2026, 20h.
+> 10 km ou semi-marathon (21,1 km) autour du Lac de Madine : jeudi 6 mai 2027, départ de Nonsard-Lamarche dans la Meuse. Inscriptions ouvertes.
 
 Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
@@ -12,7 +12,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [▶ Voir les photos](https://www.lightonrun.com/medias.html)
 
-10 · 21,1 KMInscriptions le 20 octobre - 20h
+10 · 21,1 KMInscriptions ouvertes
 
 10 ou 21,1 KM : deux distances, un seul lac. Une seule règle : en profiter.
 
@@ -22,7 +22,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 - **Lieu** : Lac de Madine. Départ et arrivée à Nonsard-Lamarche (Meuse)
 - **Distances** : 10 KM\* · Semi-Marathon\*\*. 21,1 km, parcours à plat
 - **Départs** : 9h00 · 11h00. Le semi part en premier, le 10 km à 11h00
-- **Tarifs** : 19 € · 24 €. 10 KM\* et Semi-Marathon\*\* à tarif fixe. Ouverture des inscriptions le 20 octobre 2026, 20h
+- **Tarifs** : 19 € · 24 €. 10 KM\* tarif unique, Semi-Marathon\*\* tarif de lancement. Inscriptions ouvertes
 - **Organisation** : LIGHT ON. Édition 2026 : près de 2 800 coureurs au départ
 
 **01** Un lac, deux distances
@@ -95,7 +95,7 @@ Dossards la veille, courses le jeudi, Village LIGHT ON ouvert dès le mercredi. 
 
 #### Le programme
 
-Mercredi 5 mai, retrait des dossards de 17h à 19h. Jeudi 6 mai, départs à 9h00 et 11h00, remise des récompenses à 12h15.
+Mercredi 5 mai, retrait des dossards de 17h à 19h. Jeudi 6 mai, Welcome Drink au retrait des dossards, départs à 9h00 et 11h00, remise des récompenses à 12h15.
 
 [Voir la page](https://www.lightonrun.com/evenement.html#programme)
 
@@ -135,9 +135,9 @@ Rendez-vous le jeudi 6 mai 2027 au bord du Lac de Madine, avec le Village LIGHT 
 
 20 oct. 2026
 
-#### Ouverture des inscriptions le 20 octobre
+#### Les inscriptions sont ouvertes
 
-Le 10 KM\* et le Semi-Marathon\*\* vous attendent. Rendez-vous mardi 20 octobre 2026 à 20h00 pour réserver votre dossard.
+Le 10 KM\* et le Semi-Marathon\*\* vous attendent, le semi à 24 € en tarif de lancement. Il ne reste qu'à choisir.
 
 [Voir la page](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)
 
@@ -145,12 +145,12 @@ Toute l'année
 
 #### [Rejoindre le LIGHT ON Crew](https://www.lightonrun.com/communaute.html#benevole)
 
-Ravitaillements, fléchage, Village LIGHT ON : sans bénévoles, pas de course. L'appel pour 2027 arrive bientôt dans la newsletter et sur [nos réseaux](https://www.instagram.com/lighton_run/).
+Ravitaillements, fléchage, Village LIGHT ON : sans bénévoles, pas de course. L'appel pour 2027 passera par la newsletter et [nos réseaux](https://www.instagram.com/lighton_run/).
 
 Jeudi 6 mai 2027 · 9h00
 
 ### On se voit sur la ligne de départ ?
 
-Choisissez votre distance. Ouverture des inscriptions le mardi 20 octobre 2026, 20h00.
+Choisissez votre distance, les inscriptions sont ouvertes.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [Comparer les distances](https://www.lightonrun.com/courses.html)
