@@ -10,7 +10,7 @@ Version Markdown de https://www.lightonrun.com/ . La page HTML fait foi.
 
 ## Light On Run Madine\*\*
 
-[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [▶ Voir les photos](https://www.lightonrun.com/medias.html)
+[S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition) [▶ Voir le film](https://youtu.be/O8Q7EVhkZ-k)
 
 10 · 21,1 KMInscriptions ouvertes
 
