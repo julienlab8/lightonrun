@@ -26,11 +26,11 @@ Départ et arrivée de chaque format : Village LIGHT ON, Lac de Madine, 55210 N
 
 ### Article 3 · Inscriptions
 
-Les inscriptions se font uniquement en ligne, à partir du mardi 20 octobre 2026, 20h00. Pas d'inscription sur place. Le lien d'inscription 2027 sera annoncé sur la page [Inscriptions](https://www.lightonrun.com/infos.html#inscriptions), dans la newsletter et sur nos réseaux.
+Les inscriptions se font uniquement en ligne, depuis le mardi 20 octobre 2026, 20h00. Pas d'inscription sur place. Le lien d'inscription est sur la page [Inscriptions](https://www.lightonrun.com/infos.html#inscriptions).
 
 - **10 KM\*** : 19 €, tarif unique, sans évolution.
 
-- **Semi-Marathon\*\*** : 24 €, tarif unique, sans évolution.
+- **Semi-Marathon\*\*** : 24 €, tarif de lancement.
 
 Fermeture des inscriptions le lundi 3 mai 2027 à 20h00, sous réserve de dossards disponibles. Une liste d'attente pourra être mise en place.
 

@@ -24,7 +24,7 @@ Comparatif des parcours du LIGHT ON RUN Madine\*\* 2027
 | Parcours | Entre rive et forêt, à plat | Tour complet du lac, à plat |
 | Départ | 11h00 | 9h00 |
 | Retrait des dossards | Mer. 17h-19h & jeu. 7h-10h45 | Mer. 17h-19h & jeu. 7h-8h45 |
-| Tarif | 19 €, tarif unique | 24 €, tarif unique |
+| Tarif | 19 €, tarif unique | 24 €, tarif de lancement |
 | Catégorie minimale | Cadet(te) - né(e) en 2011 et avant | Junior - né(e) en 2009 et avant |
 | Ravitaillements | 1 liquide au km 5 + arrivée | 1 liquide au km 6, liquide et solide aux km 12 et 15 + arrivée |
 | Barrière horaire | Aucune | Aucune |
@@ -50,7 +50,7 @@ Premier 10 km, coureurs réguliers ou envie de courir en famille. Parcours balis
 
 #### Ravitaillements
 
-Un ravitaillement liquide au km 5, et le ravitaillement complet à l'arrivée. Le Running se court en semi-autonomie.
+Un ravitaillement liquide au km 5, et le ravitaillement complet à l'arrivée. Course en semi-autonomie : prévoyez de quoi boire entre deux ravitos.
 
 #### Pas de barrière horaire
 
@@ -90,7 +90,7 @@ Pour les coureurs à partir de la catégorie Junior qui veulent se tester sur la
 
 #### Ravitaillements
 
-Liquide au km 6, liquide et solide aux km 12 et 15, plus le ravitaillement complet à l'arrivée. Le Running se court en semi-autonomie.
+Liquide au km 6, liquide et solide aux km 12 et 15, plus le ravitaillement complet à l'arrivée. Course en semi-autonomie : prévoyez de quoi boire entre deux ravitos.
 
 #### Pas de barrière horaire
 
@@ -122,6 +122,6 @@ Catégories d'âge, certificat ou PPS, matériel, remboursement : tout est dans
 
 ### Vous avez choisi votre distance ?
 
-Ouverture des inscriptions le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
+Inscriptions ouvertes. Rendez-vous le 6 mai 2027.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)

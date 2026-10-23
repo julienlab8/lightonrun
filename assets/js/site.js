@@ -5,22 +5,41 @@
       menuOpen: 'Ouvrir le menu',
       menuClose: 'Fermer le menu',
       newsInvalid: 'Entrez une adresse e-mail valide.',
-      newsThanks: 'Merci ! Vérifiez votre boîte mail pour confirmer votre inscription.'
+      newsThanks: 'Merci ! Vérifiez votre boîte mail pour confirmer votre inscription.',
+      filmTitle: 'Film du LIGHT ON RUN Madine** 2026'
     },
     en: {
       menuOpen: 'Open menu',
       menuClose: 'Close menu',
       newsInvalid: 'Enter a valid email address.',
-      newsThanks: 'Thanks! Check your inbox to confirm your subscription.'
+      newsThanks: 'Thanks! Check your inbox to confirm your subscription.',
+      filmTitle: 'LIGHT ON RUN Madine** 2026 film'
     },
     de: {
       menuOpen: 'Menü öffnen',
       menuClose: 'Menü schließen',
       newsInvalid: 'Gib eine gültige E-Mail-Adresse ein.',
-      newsThanks: 'Danke! Prüfe dein Postfach, um deine Anmeldung zu bestätigen.'
+      newsThanks: 'Danke! Prüfe dein Postfach, um deine Anmeldung zu bestätigen.',
+      filmTitle: 'Film LIGHT ON RUN Madine** 2026'
     }
   })[SITE_LANG] || null;
   function siteT(key, fallback) { return (SITE_T && SITE_T[key]) || fallback; }
+
+  // Film : image + bouton lecture ; YouTube (sans cookie) n'est chargé qu'au clic
+  (function () {
+    var frame = document.querySelector('.film-frame');
+    if (!frame) return;
+    frame.querySelector('.film-play').addEventListener('click', function () {
+      var iframe = document.createElement('iframe');
+      iframe.className = 'film-video';
+      iframe.src = 'https://www.youtube-nocookie.com/embed/' + frame.dataset.youtube + '?autoplay=1&rel=0&playsinline=1';
+      iframe.title = siteT('filmTitle', 'Film du LIGHT ON RUN Madine** 2026');
+      iframe.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+      iframe.allowFullscreen = true;
+      frame.querySelector('.film-video').replaceWith(iframe);
+      frame.classList.add('playing');
+    });
+  })();
 
   // Scroll reveal via IntersectionObserver (no scroll listeners)
   (function () {

@@ -54,7 +54,7 @@ Jeudi 6 mai - Jour de course
 
 **07:00** - Retrait des dossards
 
-De 07:00 à 08:45 pour le Semi-Marathon\*\*, et de 07:00 à 10:45 pour le 10 KM\*.
+De 07:00 à 08:45 pour le Semi-Marathon\*\*, et de 07:00 à 10:45 pour le 10 KM\*. Welcome Drink pendant le retrait.
 
 **09:00** - Départ · Semi-Marathon\*\*
 
@@ -80,7 +80,7 @@ Les partenaires installent leurs stands au Village LIGHT ON, du retrait des doss
 
 #### Restauration sur place
 
-Buvette et ravitaillement à l'arrivée pour tous les coureurs, sur les deux courses.
+Welcome Drink le jeudi pendant le retrait des dossards, puis buvette et ravitaillement à l'arrivée pour tous les coureurs, sur les deux courses.
 
 #### LIGHT ON Shop
 
@@ -110,6 +110,6 @@ Le Lac de Madine se trouve en Meuse, entre Verdun et Toul. Accès, stationnement
 
 ### Il ne manque plus que vous.
 
-Ouverture des inscriptions le mardi 20 octobre 2026, 20h00. Rendez-vous le 6 mai 2027.
+Inscriptions ouvertes. Rendez-vous le 6 mai 2027.
 
 [S'inscrire](https://in.njuko.com/light-on-run-madine-2027?currentPage=select-competition)

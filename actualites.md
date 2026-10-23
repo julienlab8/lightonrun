@@ -16,9 +16,9 @@ Inscriptions, infos course, coulisses de l'orga : tout ce qui bouge autour du L
 
 Inscriptions · 20 octobre
 
-#### Les inscriptions ouvrent le 20 octobre
+#### Les inscriptions sont ouvertes
 
-Le 10 KM\* et le Semi-Marathon\*\* ouvrent aux inscriptions le mardi 20 octobre 2026 à 20h00, pour une clôture fixée au lundi 3 mai 2027 à 20h00. Tous les détails sur la page [Inscriptions](https://www.lightonrun.com/infos.html#inscriptions).
+Le 10 KM\* et le Semi-Marathon\*\* sont ouverts aux inscriptions depuis le mardi 20 octobre 2026, jusqu'au lundi 3 mai 2027 à 20h00. Le semi est à 24 € en tarif de lancement. Tous les détails sur la page [Inscriptions](https://www.lightonrun.com/infos.html#inscriptions).
 
 Jeudi 6 mai 2027 · Rendez-vous
 
