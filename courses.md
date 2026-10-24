@@ -27,6 +27,7 @@ Comparatif des parcours du LIGHT ON RUN Madine\*\* 2027
 | Tarif | 19 €, tarif unique | 24 €, tarif de lancement |
 | Catégorie minimale | Cadet(te) - né(e) en 2011 et avant | Junior - né(e) en 2009 et avant |
 | Ravitaillements | 1 liquide au km 5 + arrivée | 1 liquide au km 6, liquide et solide aux km 12 et 15 + arrivée |
+| Médaille | Pour chaque finisher | Pour chaque finisher |
 | Barrière horaire | Aucune | Aucune |
 | Pour qui ? | Premier dossard, reprise, envie de courir en famille | Coureurs qui veulent se tester sur le tour complet du lac |
 
@@ -51,6 +52,10 @@ Premier 10 km, coureurs réguliers ou envie de courir en famille. Parcours balis
 #### Ravitaillements
 
 Un ravitaillement liquide au km 5, et le ravitaillement complet à l'arrivée. Course en semi-autonomie : prévoyez de quoi boire entre deux ravitos.
+
+#### Médaille à l'arrivée
+
+Chaque coureur qui franchit la ligne repart avec sa médaille, quel que soit son temps.
 
 #### Pas de barrière horaire
 
@@ -91,6 +96,10 @@ Pour les coureurs à partir de la catégorie Junior qui veulent se tester sur la
 #### Ravitaillements
 
 Liquide au km 6, liquide et solide aux km 12 et 15, plus le ravitaillement complet à l'arrivée. Course en semi-autonomie : prévoyez de quoi boire entre deux ravitos.
+
+#### Médaille à l'arrivée
+
+Chaque coureur qui franchit la ligne repart avec sa médaille, quel que soit son temps.
 
 #### Pas de barrière horaire
 

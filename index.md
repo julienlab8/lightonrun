@@ -101,7 +101,7 @@ Mercredi 5 mai, retrait des dossards de 17h à 19h. Jeudi 6 mai, Welcome Drink a
 
 #### Le Village LIGHT ON
 
-Départ, arrivée, ravitaillement final, stands : tout se passe au même endroit, au bord du lac.
+Départ, arrivée et médaille pour chaque finisher, ravitaillement final, stands : tout se passe au même endroit, au bord du lac.
 
 [Voir la page](https://www.lightonrun.com/evenement.html#village)
 

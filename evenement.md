@@ -82,13 +82,17 @@ Les partenaires installent leurs stands au Village LIGHT ON, du retrait des doss
 
 Welcome Drink le jeudi pendant le retrait des dossards, puis buvette et ravitaillement à l'arrivée pour tous les coureurs, sur les deux courses.
 
+#### Médaille à l'arrivée
+
+Chaque coureur qui franchit la ligne reçoit sa médaille, 10 KM\* comme Semi-Marathon\*\*.
+
 #### LIGHT ON Shop
 
 La boutique LIGHT ON s'installe au Village. De quoi repartir avec un souvenir de la course, en plus de la médaille.
 
 #### Remise des récompenses
 
-Le jeudi à 12h15, au Village LIGHT ON : podiums, applaudissements, et on se dit à l'année prochaine.
+Le jeudi à 12h15, au Village LIGHT ON : podiums pour les 3 premiers de chaque course. La médaille, elle, est pour tout le monde dès l'arrivée.
 
 Madine & le Parc naturel régional de Lorraine
 

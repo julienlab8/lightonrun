@@ -142,9 +142,13 @@ Vous pouvez transférer votre dossard à un autre coureur jusqu'au lundi 3 mai 2
 
 Oui, le 10 KM\* et le Semi-Marathon\*\* sont chronométrés. Un classement scratch récompense les 3 premiers hommes et les 3 premières femmes.
 
-#### Y a-t-il des récompenses ?
+#### Est-ce que je reçois une médaille à l'arrivée ?
 
-Les 3 premiers hommes et les 3 premières femmes au scratch (catégories senior et vétéran) remportent trophées et lots. Pas de récompense par catégorie d'âge au-delà du podium scratch.
+Oui. Chaque coureur qui termine la course reçoit sa médaille à l'arrivée, sur le 10 KM\* comme sur le Semi-Marathon\*\*, quel que soit son temps.
+
+#### Y a-t-il d'autres récompenses ?
+
+En plus de la médaille remise à chaque finisher, les 3 premiers hommes et les 3 premières femmes au scratch (catégories senior et vétéran) remportent trophées et lots. Pas de récompense par catégorie d'âge au-delà du podium scratch.
 
 #### Puis-je courir avec mon chien ?
 
